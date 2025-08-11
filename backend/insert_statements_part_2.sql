@@ -1,3 +1,4 @@
+INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('19_500_5009_15_1', 'Scope 3', 'Material use', 'Construction', 'Asbestos', '', 'tonnes', 'kg CO2e', NULL);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('19_500_5010_15_1', 'Scope 3', 'Material use', 'Construction', 'Asbestos', '', 'tonnes', 'kg CO2e', NULL);
@@ -995,6 +996,5 @@ INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level
                 VALUES ('21_316_3171_11_1', 'Scope 3', 'Business travel- air', 'Flights', 'Long-haul, to/from UK', 'Economy class', 'passenger.km', 'kg CO2e', 0.06926);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('21_316_3171_11_2', 'Scope 3', 'Business travel- air', 'Flights', 'Long-haul, to/from UK', 'Economy class', 'passenger.km', 'kg CO2e of CO2 per unit', 0.06826);
-INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('21_316_3171_11_3', 'Scope 3', 'Business travel- air', 'Flights', 'Long-haul, to/from UK', 'Economy class', 'passenger.km', 'kg CO2e of CH4 per unit', 1e-05);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
