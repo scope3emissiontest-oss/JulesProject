@@ -1,3 +1,4 @@
+INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('27_303_3102_14_1', 'Scope 3', 'Freighting goods', 'Vans', 'Average (up to 3.5 tonnes)', '', 'tonne.km', 'kg CO2e', 0.6313);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('27_303_3102_14_2', 'Scope 3', 'Freighting goods', 'Vans', 'Average (up to 3.5 tonnes)', '', 'tonne.km', 'kg CO2e of CO2 per unit', 0.62715);
@@ -997,4 +998,3 @@ INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level
                 VALUES ('27_306_3112_4_3', 'Scope 3', 'Freighting goods', 'HGV refrigerated (all diesel)', 'Rigid (>3.5 - 7.5 tonnes)', '', 'km', 'kg CO2e of CH4 per unit', 0.00011);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('27_306_3112_4_4', 'Scope 3', 'Freighting goods', 'HGV refrigerated (all diesel)', 'Rigid (>3.5 - 7.5 tonnes)', '', 'km', 'kg CO2e of N2O per unit', 0.00532);
-INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
