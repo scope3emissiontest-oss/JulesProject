@@ -1,3 +1,4 @@
+INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('31_307_3037_9_4', 'Scope 3', 'Managed assets- vehicles', 'Managed cars (by market segment)', 'Dual purpose 4X4', '', 'miles', 'kg CO2e of N2O per unit', 0.00212);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('31_307_3038_9_1', 'Scope 3', 'Managed assets- vehicles', 'Managed cars (by market segment)', 'Dual purpose 4X4', '', 'miles', 'kg CO2e', 0.18769);
@@ -997,4 +998,3 @@ INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level
                 VALUES ('31_311_3123_4_2', 'Scope 3', 'Managed assets- vehicles', 'Managed HGV (all diesel)', 'All rigids', '', 'km', 'kg CO2e of CO2 per unit', 0.92788);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('31_311_3123_4_3', 'Scope 3', 'Managed assets- vehicles', 'Managed HGV (all diesel)', 'All rigids', '', 'km', 'kg CO2e of CH4 per unit', 0.00019);
-INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
