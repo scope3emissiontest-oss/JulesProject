@@ -1,3 +1,4 @@
+INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('25_314_3146_11_1', 'Scope 3', 'Business travel- land', 'Bus', 'Coach', '', 'passenger.km', 'kg CO2e', 0.02776);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('25_314_3146_11_2', 'Scope 3', 'Business travel- land', 'Bus', 'Coach', '', 'passenger.km', 'kg CO2e of CO2 per unit', 0.02727);
@@ -997,4 +998,3 @@ INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level
                 VALUES ('27_303_3101_9_3', 'Scope 3', 'Freighting goods', 'Vans', 'Class III (1.74 to 3.5 tonnes)', '', 'miles', 'kg CO2e of CH4 per unit', 0.00052);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('27_303_3101_9_4', 'Scope 3', 'Freighting goods', 'Vans', 'Class III (1.74 to 3.5 tonnes)', '', 'miles', 'kg CO2e of N2O per unit', 0.0007);
-INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
