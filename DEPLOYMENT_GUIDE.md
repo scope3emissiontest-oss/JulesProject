@@ -45,10 +45,16 @@ Your Supabase project will serve as the database, authentication service, and fi
     *   Click "Run" to create the necessary tables (`invoices`, `financial_statements`, `emission_factors`, `emission_calculations`).
 
 4.  **Load DEFRA Emission Factors**:
-    *   In the **SQL Editor**, create another "+ New query".
-    *   Open the `backend/insert_statements.sql` file from this repository.
-    *   Copy its content and paste it into the SQL Editor.
-    *   Click "Run". This will populate your `emission_factors` table with the required data.
+    *   The `insert_statements.sql` file has been split into multiple parts to avoid query size limits. You will need to run each part sequentially.
+    *   In the **SQL Editor**, create a new query for each of the following files, from `_part_1.sql` to `_part_11.sql`:
+        *   `backend/insert_statements_part_1.sql`
+        *   `backend/insert_statements_part_2.sql`
+        *   ...and so on, up to `backend/insert_statements_part_11.sql`.
+    *   For each file:
+        1.  Create a new query in the Supabase SQL Editor.
+        2.  Copy the content of the file.
+        3.  Paste it into the SQL Editor and click "Run".
+    *   This will populate your `emission_factors` table with the required data.
 
 ---
 
