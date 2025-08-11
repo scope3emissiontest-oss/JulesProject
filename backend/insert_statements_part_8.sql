@@ -1,3 +1,4 @@
+INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('27_320_3219_14_1', 'Scope 3', 'Freighting goods', 'Cargo ship', 'Bulk carrier', '10,000�34,999 dwt', 'tonne.km', 'kg CO2e', 0.008);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('27_320_3219_14_2', 'Scope 3', 'Freighting goods', 'Cargo ship', 'Bulk carrier', '10,000�34,999 dwt', 'tonne.km', 'kg CO2e of CO2 per unit', 0.0079);
@@ -997,4 +998,3 @@ INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level
                 VALUES ('31_307_3000_4_2', 'Scope 3', 'Managed assets- vehicles', 'Managed cars (by market segment)', 'Mini', '', 'km', 'kg CO2e of CO2 per unit', 0.10828);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('31_307_3000_4_3', 'Scope 3', 'Managed assets- vehicles', 'Managed cars (by market segment)', 'Mini', '', 'km', 'kg CO2e of CH4 per unit', 5e-06);
-INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
