@@ -997,4 +997,3 @@ INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level
                 VALUES ('19_500_5007_15_1', 'Scope 3', 'Material use', 'Construction', 'Average construction', '', 'tonnes', 'kg CO2e', NULL);
 INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
                 VALUES ('19_500_5008_15_1', 'Scope 3', 'Material use', 'Construction', 'Asbestos', '', 'tonnes', 'kg CO2e', 27.0);
-INSERT INTO emission_factors (factor_id, scope, level_1, level_2, level_3, level_4, uom, ghg_unit, conversion_factor)
