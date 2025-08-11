@@ -1,0 +1,56 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+29_600_4000_13_1,Scope 3,Hotel stay,Hotel stay,UK,,,Room per night,kg CO2e,10.4
+29_600_4001_13_1,Scope 3,Hotel stay,Hotel stay,UK (London),,,Room per night,kg CO2e,11.5
+29_600_4002_13_1,Scope 3,Hotel stay,Hotel stay,Argentina,,,Room per night,kg CO2e,
+29_600_4003_13_1,Scope 3,Hotel stay,Hotel stay,Australia,,,Room per night,kg CO2e,35
+29_600_4004_13_1,Scope 3,Hotel stay,Hotel stay,Austria,,,Room per night,kg CO2e,
+29_600_4005_13_1,Scope 3,Hotel stay,Hotel stay,Belgium,,,Room per night,kg CO2e,12.2
+29_600_4006_13_1,Scope 3,Hotel stay,Hotel stay,Brazil,,,Room per night,kg CO2e,8.7
+29_600_4007_13_1,Scope 3,Hotel stay,Hotel stay,Canada,,,Room per night,kg CO2e,7.4
+29_600_4008_13_1,Scope 3,Hotel stay,Hotel stay,Chile,,,Room per night,kg CO2e,27.6
+29_600_4009_13_1,Scope 3,Hotel stay,Hotel stay,China,,,Room per night,kg CO2e,53.5
+29_600_4010_13_1,Scope 3,Hotel stay,Hotel stay,Colombia,,,Room per night,kg CO2e,14.7
+29_600_4011_13_1,Scope 3,Hotel stay,Hotel stay,Costa Rica,,,Room per night,kg CO2e,4.7
+29_600_4012_13_1,Scope 3,Hotel stay,Hotel stay,Czech Republic,,,Room per night,kg CO2e,
+29_600_4013_13_1,Scope 3,Hotel stay,Hotel stay,Egypt,,,Room per night,kg CO2e,44.2
+29_600_4014_13_1,Scope 3,Hotel stay,Hotel stay,Fiji,,,Room per night,kg CO2e,
+29_600_4015_13_1,Scope 3,Hotel stay,Hotel stay,Finland,,,Room per night,kg CO2e,
+29_600_4016_13_1,Scope 3,Hotel stay,Hotel stay,France,,,Room per night,kg CO2e,6.7
+29_600_4017_13_1,Scope 3,Hotel stay,Hotel stay,Germany,,,Room per night,kg CO2e,13.2
+29_600_4018_13_1,Scope 3,Hotel stay,Hotel stay,Greece,,,Room per night,kg CO2e,
+29_600_4019_13_1,Scope 3,Hotel stay,Hotel stay,"Hong Kong, China",,,Room per night,kg CO2e,51.5
+29_600_4020_13_1,Scope 3,Hotel stay,Hotel stay,India,,,Room per night,kg CO2e,58.9
+29_600_4021_13_1,Scope 3,Hotel stay,Hotel stay,Indonesia,,,Room per night,kg CO2e,62.7
+29_600_4022_13_1,Scope 3,Hotel stay,Hotel stay,Ireland,,,Room per night,kg CO2e,
+29_600_4023_13_1,Scope 3,Hotel stay,Hotel stay,Israel,,,Room per night,kg CO2e,
+29_600_4024_13_1,Scope 3,Hotel stay,Hotel stay,Italy,,,Room per night,kg CO2e,14.3
+29_600_4025_13_1,Scope 3,Hotel stay,Hotel stay,Japan,,,Room per night,kg CO2e,39
+29_600_4026_13_1,Scope 3,Hotel stay,Hotel stay,Jordan,,,Room per night,kg CO2e,68.9
+29_600_4027_13_1,Scope 3,Hotel stay,Hotel stay,Kazakhstan,,,Room per night,kg CO2e,
+29_600_4028_13_1,Scope 3,Hotel stay,Hotel stay,Korea,,,Room per night,kg CO2e,55.8
+29_600_4029_13_1,Scope 3,Hotel stay,Hotel stay,"Macau, China",,,Room per night,kg CO2e,
+29_600_4030_13_1,Scope 3,Hotel stay,Hotel stay,Malaysia,,,Room per night,kg CO2e,61.5
+29_600_4031_13_1,Scope 3,Hotel stay,Hotel stay,Maldives,,,Room per night,kg CO2e,152.2
+29_600_4032_13_1,Scope 3,Hotel stay,Hotel stay,Mexico,,,Room per night,kg CO2e,19.3
+29_600_4033_13_1,Scope 3,Hotel stay,Hotel stay,Netherlands,,,Room per night,kg CO2e,14.8
+29_600_4034_13_1,Scope 3,Hotel stay,Hotel stay,New Zealand,,,Room per night,kg CO2e,
+29_600_4035_13_1,Scope 3,Hotel stay,Hotel stay,Oman,,,Room per night,kg CO2e,90.3
+29_600_4036_13_1,Scope 3,Hotel stay,Hotel stay,Panama,,,Room per night,kg CO2e,
+29_600_4037_13_1,Scope 3,Hotel stay,Hotel stay,Peru,,,Room per night,kg CO2e,
+29_600_4038_13_1,Scope 3,Hotel stay,Hotel stay,Philippines,,,Room per night,kg CO2e,54.3
+29_600_4039_13_1,Scope 3,Hotel stay,Hotel stay,Poland,,,Room per night,kg CO2e,
+29_600_4040_13_1,Scope 3,Hotel stay,Hotel stay,Portugal,,,Room per night,kg CO2e,19
+29_600_4041_13_1,Scope 3,Hotel stay,Hotel stay,Qatar,,,Room per night,kg CO2e,86.2
+29_600_4042_13_1,Scope 3,Hotel stay,Hotel stay,Romania,,,Room per night,kg CO2e,
+29_600_4043_13_1,Scope 3,Hotel stay,Hotel stay,Russian Federation,,,Room per night,kg CO2e,24.2
+29_600_4044_13_1,Scope 3,Hotel stay,Hotel stay,Saudi Arabia,,,Room per night,kg CO2e,106.4
+29_600_4045_13_1,Scope 3,Hotel stay,Hotel stay,Singapore,,,Room per night,kg CO2e,24.5
+29_600_4046_13_1,Scope 3,Hotel stay,Hotel stay,South Africa,,,Room per night,kg CO2e,51.4
+29_600_4047_13_1,Scope 3,Hotel stay,Hotel stay,Spain,,,Room per night,kg CO2e,7
+29_600_4048_13_1,Scope 3,Hotel stay,Hotel stay,Switzerland,,,Room per night,kg CO2e,6.6
+29_600_4049_13_1,Scope 3,Hotel stay,Hotel stay,"Taiwan, China",,,Room per night,kg CO2e,
+29_600_4050_13_1,Scope 3,Hotel stay,Hotel stay,Thailand,,,Room per night,kg CO2e,43.4
+29_600_4051_13_1,Scope 3,Hotel stay,Hotel stay,Turkey,,,Room per night,kg CO2e,32.1
+29_600_4052_13_1,Scope 3,Hotel stay,Hotel stay,United Arab Emirates,,,Room per night,kg CO2e,63.8
+29_600_4053_13_1,Scope 3,Hotel stay,Hotel stay,United States,,,Room per night,kg CO2e,16.1
+29_600_4054_13_1,Scope 3,Hotel stay,Hotel stay,Vietnam,,,Room per night,kg CO2e,38.5

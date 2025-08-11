@@ -1,0 +1,913 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+25_300_3000_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,km,kg CO2e,0.10996
+25_300_3000_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,km,kg CO2e of CO2 per unit,0.10828
+25_300_3000_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3000_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3001_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,km,kg CO2e,0.13063
+25_300_3001_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,km,kg CO2e of CO2 per unit,0.12995
+25_300_3001_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3001_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3244_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,km,kg CO2e,
+25_300_3244_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3244_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3244_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3245_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,km,kg CO2e,
+25_300_3245_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3245_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3245_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,km,kg CO2e of N2O per unit,
+25_300_3246_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,km,kg CO2e,
+25_300_3246_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3246_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3246_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,km,kg CO2e of N2O per unit,
+25_300_3002_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,km,kg CO2e,0.13051
+25_300_3002_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,km,kg CO2e of CO2 per unit,0.12982
+25_300_3002_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,km,kg CO2e of CH4 per unit,0.00035
+25_300_3002_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,km,kg CO2e of N2O per unit,0.00034
+25_300_3003_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+25_300_3003_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+25_300_3003_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+25_300_3003_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+25_300_3004_4_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e,0.03319
+25_300_3004_4_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03276
+25_300_3004_4_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00018
+25_300_3004_4_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00025
+25_300_3000_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,miles,kg CO2e,0.17696
+25_300_3000_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,miles,kg CO2e of CO2 per unit,0.17425
+25_300_3000_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3000_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3001_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,miles,kg CO2e,0.21022
+25_300_3001_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,miles,kg CO2e of CO2 per unit,0.20913
+25_300_3001_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3001_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3244_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,miles,kg CO2e,
+25_300_3244_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3244_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3244_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3245_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,miles,kg CO2e,
+25_300_3245_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3245_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3245_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3246_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,miles,kg CO2e,
+25_300_3246_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3246_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3246_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3002_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,miles,kg CO2e,0.21002
+25_300_3002_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,miles,kg CO2e of CO2 per unit,0.20892
+25_300_3002_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,miles,kg CO2e of CH4 per unit,0.00056
+25_300_3002_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Unknown,miles,kg CO2e of N2O per unit,0.00054
+25_300_3003_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+25_300_3003_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+25_300_3003_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+25_300_3003_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+25_300_3004_9_1,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e,0.05343
+25_300_3004_9_2,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.05273
+25_300_3004_9_3,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00029
+25_300_3004_9_4,Scope 3,Business travel- land,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00041
+25_300_3005_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,km,kg CO2e,0.13452
+25_300_3005_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,km,kg CO2e of CO2 per unit,0.13284
+25_300_3005_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3005_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3006_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,km,kg CO2e,0.14276
+25_300_3006_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,km,kg CO2e of CO2 per unit,0.14208
+25_300_3006_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3006_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3247_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,km,kg CO2e,
+25_300_3247_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3247_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3247_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3248_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,km,kg CO2e,
+25_300_3248_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3248_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3248_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,km,kg CO2e of N2O per unit,
+25_300_3249_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,km,kg CO2e,
+25_300_3249_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3249_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3249_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,km,kg CO2e of N2O per unit,
+25_300_3007_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,km,kg CO2e,0.14194
+25_300_3007_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,km,kg CO2e of CO2 per unit,0.14111
+25_300_3007_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,km,kg CO2e of CH4 per unit,0.0003
+25_300_3007_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,km,kg CO2e of N2O per unit,0.00052
+25_300_3008_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.05669
+25_300_3008_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.05622
+25_300_3008_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+25_300_3008_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00025
+25_300_3009_4_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e,0.03777
+25_300_3009_4_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03731
+25_300_3009_4_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00019
+25_300_3009_4_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00027
+25_300_3005_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,miles,kg CO2e,0.21649
+25_300_3005_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,miles,kg CO2e of CO2 per unit,0.21378
+25_300_3005_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3005_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3006_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,miles,kg CO2e,0.22974
+25_300_3006_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,miles,kg CO2e of CO2 per unit,0.22865
+25_300_3006_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3006_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3247_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,miles,kg CO2e,
+25_300_3247_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3247_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3247_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3248_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,miles,kg CO2e,
+25_300_3248_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3248_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3248_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3249_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,miles,kg CO2e,
+25_300_3249_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3249_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3249_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3007_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,miles,kg CO2e,0.22843
+25_300_3007_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,miles,kg CO2e of CO2 per unit,0.2271
+25_300_3007_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,miles,kg CO2e of CH4 per unit,0.00048
+25_300_3007_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Unknown,miles,kg CO2e of N2O per unit,0.00084
+25_300_3008_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.09123
+25_300_3008_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.09047
+25_300_3008_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+25_300_3008_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0004
+25_300_3009_9_1,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e,0.06078
+25_300_3009_9_2,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06004
+25_300_3009_9_3,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00031
+25_300_3009_9_4,Scope 3,Business travel- land,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00043
+25_300_3010_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,km,kg CO2e,0.14517
+25_300_3010_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,km,kg CO2e of CO2 per unit,0.14349
+25_300_3010_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3010_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3011_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,km,kg CO2e,0.16123
+25_300_3011_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,km,kg CO2e of CO2 per unit,0.16055
+25_300_3011_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3011_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3250_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,km,kg CO2e,
+25_300_3250_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3250_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3250_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3251_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,km,kg CO2e,
+25_300_3251_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3251_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3251_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,km,kg CO2e of N2O per unit,
+25_300_3252_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,km,kg CO2e,
+25_300_3252_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3252_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3252_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,km,kg CO2e of N2O per unit,
+25_300_3012_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,km,kg CO2e,0.15473
+25_300_3012_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,km,kg CO2e of CO2 per unit,0.15355
+25_300_3012_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,km,kg CO2e of CH4 per unit,0.00018
+25_300_3012_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,km,kg CO2e of N2O per unit,0.001
+25_300_3013_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.08477
+25_300_3013_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.08413
+25_300_3013_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00034
+25_300_3013_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.0003
+25_300_3014_4_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e,0.03849
+25_300_3014_4_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03796
+25_300_3014_4_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+25_300_3014_4_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0003
+25_300_3010_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,miles,kg CO2e,0.23363
+25_300_3010_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,miles,kg CO2e of CO2 per unit,0.23092
+25_300_3010_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3010_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3011_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,miles,kg CO2e,0.25948
+25_300_3011_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,miles,kg CO2e of CO2 per unit,0.25839
+25_300_3011_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3011_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3250_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e,
+25_300_3250_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3250_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3250_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3251_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,miles,kg CO2e,
+25_300_3251_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3251_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3251_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3252_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,miles,kg CO2e,
+25_300_3252_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3252_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3252_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3012_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,miles,kg CO2e,0.249
+25_300_3012_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,miles,kg CO2e of CO2 per unit,0.24711
+25_300_3012_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,miles,kg CO2e of CH4 per unit,0.00029
+25_300_3012_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Unknown,miles,kg CO2e of N2O per unit,0.0016
+25_300_3013_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.13643
+25_300_3013_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.1354
+25_300_3013_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00054
+25_300_3013_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00049
+25_300_3014_9_1,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e,0.06192
+25_300_3014_9_2,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06108
+25_300_3014_9_3,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+25_300_3014_9_4,Scope 3,Business travel- land,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00048
+25_300_3015_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,km,kg CO2e,0.16194
+25_300_3015_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,km,kg CO2e of CO2 per unit,0.16026
+25_300_3015_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3015_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3016_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,km,kg CO2e,0.18535
+25_300_3016_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,km,kg CO2e of CO2 per unit,0.18467
+25_300_3016_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3016_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3253_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,km,kg CO2e,
+25_300_3253_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3253_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3253_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3254_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,km,kg CO2e,
+25_300_3254_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3254_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3254_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,km,kg CO2e of N2O per unit,
+25_300_3255_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,km,kg CO2e,
+25_300_3255_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3255_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3255_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,km,kg CO2e of N2O per unit,
+25_300_3017_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,km,kg CO2e,0.16752
+25_300_3017_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,km,kg CO2e of CO2 per unit,0.16605
+25_300_3017_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,km,kg CO2e of CH4 per unit,0.00008
+25_300_3017_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,km,kg CO2e of N2O per unit,0.00139
+25_300_3018_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.09172
+25_300_3018_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.09104
+25_300_3018_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00035
+25_300_3018_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00033
+25_300_3019_4_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e,0.04178
+25_300_3019_4_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.04139
+25_300_3019_4_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00017
+25_300_3019_4_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00022
+25_300_3015_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,miles,kg CO2e,0.26063
+25_300_3015_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,miles,kg CO2e of CO2 per unit,0.25792
+25_300_3015_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3015_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3016_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,miles,kg CO2e,0.29828
+25_300_3016_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,miles,kg CO2e of CO2 per unit,0.29719
+25_300_3016_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3016_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3253_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e,
+25_300_3253_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3253_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3253_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3254_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,miles,kg CO2e,
+25_300_3254_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3254_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3254_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3255_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,miles,kg CO2e,
+25_300_3255_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3255_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3255_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3017_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,miles,kg CO2e,0.26959
+25_300_3017_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,miles,kg CO2e of CO2 per unit,0.26724
+25_300_3017_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,miles,kg CO2e of CH4 per unit,0.00012
+25_300_3017_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Unknown,miles,kg CO2e of N2O per unit,0.00222
+25_300_3018_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.14761
+25_300_3018_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.14652
+25_300_3018_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00056
+25_300_3018_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00053
+25_300_3019_9_1,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e,0.06722
+25_300_3019_9_2,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06661
+25_300_3019_9_3,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00026
+25_300_3019_9_4,Scope 3,Business travel- land,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00036
+25_300_3020_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,km,kg CO2e,0.17088
+25_300_3020_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,km,kg CO2e of CO2 per unit,0.1692
+25_300_3020_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3020_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3021_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,km,kg CO2e,0.20073
+25_300_3021_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,km,kg CO2e of CO2 per unit,0.20005
+25_300_3021_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3021_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3256_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,km,kg CO2e,
+25_300_3256_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3256_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3256_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3257_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,km,kg CO2e,
+25_300_3257_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3257_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3257_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,km,kg CO2e of N2O per unit,
+25_300_3258_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,km,kg CO2e,
+25_300_3258_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3258_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3258_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,km,kg CO2e of N2O per unit,
+25_300_3022_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,km,kg CO2e,0.17846
+25_300_3022_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,km,kg CO2e of CO2 per unit,0.17702
+25_300_3022_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,km,kg CO2e of CH4 per unit,0.00009
+25_300_3022_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,km,kg CO2e of N2O per unit,0.00135
+25_300_3023_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.09133
+25_300_3023_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.09062
+25_300_3023_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00035
+25_300_3023_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00036
+25_300_3024_4_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e,0.03702
+25_300_3024_4_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03651
+25_300_3024_4_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00021
+25_300_3024_4_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00029
+25_300_3020_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,miles,kg CO2e,0.27501
+25_300_3020_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,miles,kg CO2e of CO2 per unit,0.2723
+25_300_3020_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3020_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3021_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,miles,kg CO2e,0.32304
+25_300_3021_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,miles,kg CO2e of CO2 per unit,0.32195
+25_300_3021_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3021_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3256_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,miles,kg CO2e,
+25_300_3256_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3256_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3256_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3257_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,miles,kg CO2e,
+25_300_3257_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3257_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3257_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3258_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,miles,kg CO2e,
+25_300_3258_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3258_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3258_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3022_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,miles,kg CO2e,0.2872
+25_300_3022_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,miles,kg CO2e of CO2 per unit,0.28488
+25_300_3022_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,miles,kg CO2e of CH4 per unit,0.00015
+25_300_3022_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Unknown,miles,kg CO2e of N2O per unit,0.00218
+25_300_3023_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.14698
+25_300_3023_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.14584
+25_300_3023_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00055
+25_300_3023_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00059
+25_300_3024_9_1,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e,0.05957
+25_300_3024_9_2,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.05875
+25_300_3024_9_3,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00035
+25_300_3024_9_4,Scope 3,Business travel- land,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00047
+25_300_3025_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,km,kg CO2e,0.20632
+25_300_3025_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,km,kg CO2e of CO2 per unit,0.20464
+25_300_3025_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3025_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3026_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,km,kg CO2e,0.30752
+25_300_3026_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,km,kg CO2e of CO2 per unit,0.30684
+25_300_3026_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3026_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3259_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,km,kg CO2e,
+25_300_3259_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3259_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3259_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3260_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,km,kg CO2e,
+25_300_3260_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3260_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3260_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,km,kg CO2e of N2O per unit,
+25_300_3261_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,km,kg CO2e,
+25_300_3261_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3261_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3261_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,km,kg CO2e of N2O per unit,
+25_300_3027_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,km,kg CO2e,0.25196
+25_300_3027_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,km,kg CO2e of CO2 per unit,0.25076
+25_300_3027_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,km,kg CO2e of CH4 per unit,0.00017
+25_300_3027_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,km,kg CO2e of N2O per unit,0.00103
+25_300_3028_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.1251
+25_300_3028_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.12426
+25_300_3028_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00045
+25_300_3028_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+25_300_3029_4_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e,0.04902
+25_300_3029_4_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.04843
+25_300_3029_4_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00025
+25_300_3029_4_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00035
+25_300_3025_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,miles,kg CO2e,0.33205
+25_300_3025_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,miles,kg CO2e of CO2 per unit,0.32934
+25_300_3025_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3025_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3026_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,miles,kg CO2e,0.4949
+25_300_3026_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,miles,kg CO2e of CO2 per unit,0.49381
+25_300_3026_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3026_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3259_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,miles,kg CO2e,
+25_300_3259_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3259_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3259_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3260_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,miles,kg CO2e,
+25_300_3260_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3260_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3260_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3261_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,miles,kg CO2e,
+25_300_3261_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3261_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3261_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3027_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,miles,kg CO2e,0.4055
+25_300_3027_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,miles,kg CO2e of CO2 per unit,0.40356
+25_300_3027_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,miles,kg CO2e of CH4 per unit,0.00028
+25_300_3027_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Unknown,miles,kg CO2e of N2O per unit,0.00166
+25_300_3028_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.20132
+25_300_3028_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.19997
+25_300_3028_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00072
+25_300_3028_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00063
+25_300_3029_9_1,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e,0.07888
+25_300_3029_9_2,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.07793
+25_300_3029_9_3,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0004
+25_300_3029_9_4,Scope 3,Business travel- land,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00055
+25_300_3030_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,km,kg CO2e,0.17323
+25_300_3030_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,km,kg CO2e of CO2 per unit,0.17155
+25_300_3030_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3030_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3031_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,km,kg CO2e,0.23396
+25_300_3031_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,km,kg CO2e of CO2 per unit,0.23328
+25_300_3031_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3031_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3262_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,km,kg CO2e,
+25_300_3262_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3262_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3262_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3263_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,km,kg CO2e,
+25_300_3263_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3263_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3263_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,km,kg CO2e of N2O per unit,
+25_300_3264_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,km,kg CO2e,
+25_300_3264_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3264_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3264_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,km,kg CO2e of N2O per unit,
+25_300_3032_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,km,kg CO2e,0.224
+25_300_3032_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,km,kg CO2e of CO2 per unit,0.22316
+25_300_3032_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,km,kg CO2e of CH4 per unit,0.0003
+25_300_3032_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,km,kg CO2e of N2O per unit,0.00053
+25_300_3033_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.14904
+25_300_3033_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.14837
+25_300_3033_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00036
+25_300_3033_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+25_300_3034_4_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e,0.0626
+25_300_3034_4_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.06186
+25_300_3034_4_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00031
+25_300_3034_4_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00043
+25_300_3030_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,miles,kg CO2e,0.27879
+25_300_3030_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,miles,kg CO2e of CO2 per unit,0.27608
+25_300_3030_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3030_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3031_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,miles,kg CO2e,0.37652
+25_300_3031_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,miles,kg CO2e of CO2 per unit,0.37543
+25_300_3031_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3031_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3262_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,miles,kg CO2e,
+25_300_3262_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3262_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3262_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3263_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,miles,kg CO2e,
+25_300_3263_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3263_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3263_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3264_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,miles,kg CO2e,
+25_300_3264_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3264_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3264_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3032_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,miles,kg CO2e,0.36048
+25_300_3032_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,miles,kg CO2e of CO2 per unit,0.35914
+25_300_3032_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,miles,kg CO2e of CH4 per unit,0.00048
+25_300_3032_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Unknown,miles,kg CO2e of N2O per unit,0.00086
+25_300_3033_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.23984
+25_300_3033_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.23877
+25_300_3033_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3033_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0005
+25_300_3034_9_1,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e,0.10075
+25_300_3034_9_2,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.09956
+25_300_3034_9_3,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0005
+25_300_3034_9_4,Scope 3,Business travel- land,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00068
+25_300_3035_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e,0.19973
+25_300_3035_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e of CO2 per unit,0.19805
+25_300_3035_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3035_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3036_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e,0.19219
+25_300_3036_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e of CO2 per unit,0.19151
+25_300_3036_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3036_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3265_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e,
+25_300_3265_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3265_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3265_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3266_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e,
+25_300_3266_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3266_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3266_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e of N2O per unit,
+25_300_3267_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e,
+25_300_3267_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3267_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3267_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e of N2O per unit,
+25_300_3037_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e,0.1969
+25_300_3037_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e of CO2 per unit,0.19548
+25_300_3037_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e of CH4 per unit,0.0001
+25_300_3037_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e of N2O per unit,0.00132
+25_300_3038_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.11663
+25_300_3038_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.11584
+25_300_3038_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.0004
+25_300_3038_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00038
+25_300_3039_4_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e,0.04228
+25_300_3039_4_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0416
+25_300_3039_4_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00029
+25_300_3039_4_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+25_300_3035_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e,0.32145
+25_300_3035_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e of CO2 per unit,0.31874
+25_300_3035_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3035_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3036_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e,0.3093
+25_300_3036_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e of CO2 per unit,0.30821
+25_300_3036_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3036_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3265_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e,
+25_300_3265_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3265_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3265_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3266_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e,
+25_300_3266_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3266_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3266_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3267_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e,
+25_300_3267_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3267_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3267_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3037_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e,0.31687
+25_300_3037_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e of CO2 per unit,0.3146
+25_300_3037_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+25_300_3037_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e of N2O per unit,0.00212
+25_300_3038_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.18769
+25_300_3038_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.18642
+25_300_3038_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00065
+25_300_3038_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00062
+25_300_3039_9_1,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e,0.06804
+25_300_3039_9_2,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06695
+25_300_3039_9_3,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00046
+25_300_3039_9_4,Scope 3,Business travel- land,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00063
+25_300_3040_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,km,kg CO2e,0.18072
+25_300_3040_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,km,kg CO2e of CO2 per unit,0.17904
+25_300_3040_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_300_3040_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_300_3041_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,km,kg CO2e,0.17903
+25_300_3041_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,km,kg CO2e of CO2 per unit,0.17835
+25_300_3041_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_300_3041_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_300_3268_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,km,kg CO2e,
+25_300_3268_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,km,kg CO2e of CO2 per unit,
+25_300_3268_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,km,kg CO2e of CH4 per unit,
+25_300_3268_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,km,kg CO2e of N2O per unit,
+25_300_3269_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,km,kg CO2e,
+25_300_3269_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,km,kg CO2e of CO2 per unit,
+25_300_3269_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,km,kg CO2e of CH4 per unit,
+25_300_3269_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,km,kg CO2e of N2O per unit,
+25_300_3270_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,km,kg CO2e,
+25_300_3270_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,km,kg CO2e of CO2 per unit,
+25_300_3270_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,km,kg CO2e of CH4 per unit,
+25_300_3270_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,km,kg CO2e of N2O per unit,
+25_300_3042_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,km,kg CO2e,0.1803
+25_300_3042_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,km,kg CO2e of CO2 per unit,0.17888
+25_300_3042_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,km,kg CO2e of CH4 per unit,0.0001
+25_300_3042_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,km,kg CO2e of N2O per unit,0.00132
+25_300_3043_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.10193
+25_300_3043_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.10116
+25_300_3043_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00038
+25_300_3043_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+25_300_3044_4_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e,0.05202
+25_300_3044_4_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.05134
+25_300_3044_4_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00029
+25_300_3044_4_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+25_300_3040_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,miles,kg CO2e,0.29085
+25_300_3040_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,miles,kg CO2e of CO2 per unit,0.28814
+25_300_3040_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_300_3040_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_300_3041_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,miles,kg CO2e,0.28812
+25_300_3041_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,miles,kg CO2e of CO2 per unit,0.28703
+25_300_3041_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_300_3041_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_300_3268_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,miles,kg CO2e,
+25_300_3268_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,miles,kg CO2e of CO2 per unit,
+25_300_3268_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,miles,kg CO2e of CH4 per unit,
+25_300_3268_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Hybrid,miles,kg CO2e of N2O per unit,
+25_300_3269_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,miles,kg CO2e,
+25_300_3269_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,miles,kg CO2e of CO2 per unit,
+25_300_3269_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,miles,kg CO2e of CH4 per unit,
+25_300_3269_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,CNG,miles,kg CO2e of N2O per unit,
+25_300_3270_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,miles,kg CO2e,
+25_300_3270_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,miles,kg CO2e of CO2 per unit,
+25_300_3270_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,miles,kg CO2e of CH4 per unit,
+25_300_3270_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,LPG,miles,kg CO2e of N2O per unit,
+25_300_3042_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,miles,kg CO2e,0.29016
+25_300_3042_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,miles,kg CO2e of CO2 per unit,0.28789
+25_300_3042_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+25_300_3042_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Unknown,miles,kg CO2e of N2O per unit,0.00212
+25_300_3043_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.16406
+25_300_3043_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.16281
+25_300_3043_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00062
+25_300_3043_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00063
+25_300_3044_9_1,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e,0.08373
+25_300_3044_9_2,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.08262
+25_300_3044_9_3,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00047
+25_300_3044_9_4,Scope 3,Business travel- land,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00064
+25_301_3045_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,km,kg CO2e,0.1434
+25_301_3045_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,km,kg CO2e of CO2 per unit,0.14172
+25_301_3045_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_301_3045_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_301_3046_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,km,kg CO2e,0.14308
+25_301_3046_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,km,kg CO2e of CO2 per unit,0.1424
+25_301_3046_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_301_3046_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_301_3047_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,km,kg CO2e,0.11413
+25_301_3047_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,km,kg CO2e of CO2 per unit,0.11312
+25_301_3047_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,km,kg CO2e of CH4 per unit,0.00024
+25_301_3047_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,km,kg CO2e of N2O per unit,0.00077
+25_301_3048_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,km,kg CO2e,
+25_301_3048_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,km,kg CO2e of CO2 per unit,
+25_301_3048_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,km,kg CO2e of CH4 per unit,
+25_301_3048_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,km,kg CO2e of N2O per unit,
+25_301_3049_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,km,kg CO2e,
+25_301_3049_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,km,kg CO2e of CO2 per unit,
+25_301_3049_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,km,kg CO2e of CH4 per unit,
+25_301_3049_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,km,kg CO2e of N2O per unit,
+25_301_3050_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,km,kg CO2e,0.14322
+25_301_3050_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,km,kg CO2e of CO2 per unit,0.14221
+25_301_3050_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,km,kg CO2e of CH4 per unit,0.00024
+25_301_3050_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,km,kg CO2e of N2O per unit,0.00077
+25_301_3051_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.05669
+25_301_3051_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.05622
+25_301_3051_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+25_301_3051_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00025
+25_301_3052_4_1,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e,0.03688
+25_301_3052_4_2,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03643
+25_301_3052_4_3,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00019
+25_301_3052_4_4,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00026
+25_301_3045_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,miles,kg CO2e,0.23078
+25_301_3045_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,miles,kg CO2e of CO2 per unit,0.22807
+25_301_3045_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_301_3045_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_301_3046_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,miles,kg CO2e,0.23027
+25_301_3046_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,miles,kg CO2e of CO2 per unit,0.22918
+25_301_3046_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_301_3046_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_301_3047_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,miles,kg CO2e,0.18368
+25_301_3047_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,miles,kg CO2e of CO2 per unit,0.18205
+25_301_3047_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,miles,kg CO2e of CH4 per unit,0.00038
+25_301_3047_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,Hybrid,miles,kg CO2e of N2O per unit,0.00124
+25_301_3048_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,miles,kg CO2e,
+25_301_3048_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,miles,kg CO2e of CO2 per unit,
+25_301_3048_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,miles,kg CO2e of CH4 per unit,
+25_301_3048_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,CNG,miles,kg CO2e of N2O per unit,
+25_301_3049_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,miles,kg CO2e,
+25_301_3049_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,miles,kg CO2e of CO2 per unit,
+25_301_3049_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,miles,kg CO2e of CH4 per unit,
+25_301_3049_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,LPG,miles,kg CO2e of N2O per unit,
+25_301_3050_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,miles,kg CO2e,0.23049
+25_301_3050_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,miles,kg CO2e of CO2 per unit,0.22886
+25_301_3050_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,miles,kg CO2e of CH4 per unit,0.00038
+25_301_3050_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,Unknown,miles,kg CO2e of N2O per unit,0.00124
+25_301_3051_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.09123
+25_301_3051_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.09047
+25_301_3051_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+25_301_3051_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0004
+25_301_3052_9_1,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e,0.05936
+25_301_3052_9_2,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.05863
+25_301_3052_9_3,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00031
+25_301_3052_9_4,Scope 3,Business travel- land,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00042
+25_301_3053_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,km,kg CO2e,0.17174
+25_301_3053_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,km,kg CO2e of CO2 per unit,0.17006
+25_301_3053_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_301_3053_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_301_3054_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,km,kg CO2e,0.17474
+25_301_3054_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,km,kg CO2e of CO2 per unit,0.17406
+25_301_3054_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_301_3054_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_301_3055_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,km,kg CO2e,0.11724
+25_301_3055_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,km,kg CO2e of CO2 per unit,0.11603
+25_301_3055_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,km,kg CO2e of CH4 per unit,0.00017
+25_301_3055_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,km,kg CO2e of N2O per unit,0.00104
+25_301_3056_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,km,kg CO2e,0.15504
+25_301_3056_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,km,kg CO2e of CO2 per unit,0.15291
+25_301_3056_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,km,kg CO2e of CH4 per unit,0.00177
+25_301_3056_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,km,kg CO2e of N2O per unit,0.00036
+25_301_3057_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,km,kg CO2e,0.17427
+25_301_3057_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,km,kg CO2e of CO2 per unit,0.17385
+25_301_3057_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,km,kg CO2e of CH4 per unit,0.00006
+25_301_3057_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,km,kg CO2e of N2O per unit,0.00036
+25_301_3058_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,km,kg CO2e,0.17322
+25_301_3058_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,km,kg CO2e of CO2 per unit,0.17201
+25_301_3058_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,km,kg CO2e of CH4 per unit,0.00017
+25_301_3058_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,km,kg CO2e of N2O per unit,0.00104
+25_301_3059_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.0882
+25_301_3059_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.08753
+25_301_3059_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00035
+25_301_3059_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00032
+25_301_3060_4_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e,0.03882
+25_301_3060_4_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03829
+25_301_3060_4_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+25_301_3060_4_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0003
+25_301_3053_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,miles,kg CO2e,0.27639
+25_301_3053_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,miles,kg CO2e of CO2 per unit,0.27368
+25_301_3053_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_301_3053_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_301_3054_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,miles,kg CO2e,0.28121
+25_301_3054_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,miles,kg CO2e of CO2 per unit,0.28012
+25_301_3054_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_301_3054_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_301_3055_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,miles,kg CO2e,0.18869
+25_301_3055_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,miles,kg CO2e of CO2 per unit,0.18674
+25_301_3055_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,miles,kg CO2e of CH4 per unit,0.00027
+25_301_3055_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Hybrid,miles,kg CO2e of N2O per unit,0.00168
+25_301_3056_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,miles,kg CO2e,0.24952
+25_301_3056_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,miles,kg CO2e of CO2 per unit,0.24609
+25_301_3056_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,miles,kg CO2e of CH4 per unit,0.00286
+25_301_3056_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,CNG,miles,kg CO2e of N2O per unit,0.00058
+25_301_3057_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,miles,kg CO2e,0.28046
+25_301_3057_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,miles,kg CO2e of CO2 per unit,0.27979
+25_301_3057_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,miles,kg CO2e of CH4 per unit,0.00009
+25_301_3057_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,LPG,miles,kg CO2e of N2O per unit,0.00058
+25_301_3058_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,miles,kg CO2e,0.27877
+25_301_3058_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,miles,kg CO2e of CO2 per unit,0.27682
+25_301_3058_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,miles,kg CO2e of CH4 per unit,0.00027
+25_301_3058_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Unknown,miles,kg CO2e of N2O per unit,0.00168
+25_301_3059_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.14193
+25_301_3059_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.14087
+25_301_3059_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00055
+25_301_3059_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00052
+25_301_3060_9_1,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e,0.06246
+25_301_3060_9_2,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06162
+25_301_3060_9_3,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+25_301_3060_9_4,Scope 3,Business travel- land,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00048
+25_301_3061_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,km,kg CO2e,0.21007
+25_301_3061_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,km,kg CO2e of CO2 per unit,0.20839
+25_301_3061_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_301_3061_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_301_3062_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,km,kg CO2e,0.26828
+25_301_3062_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,km,kg CO2e of CO2 per unit,0.2676
+25_301_3062_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_301_3062_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_301_3063_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,km,kg CO2e,0.1565
+25_301_3063_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,km,kg CO2e of CO2 per unit,0.15507
+25_301_3063_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,km,kg CO2e of CH4 per unit,0.0001
+25_301_3063_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,km,kg CO2e of N2O per unit,0.00133
+25_301_3064_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,km,kg CO2e,0.23722
+25_301_3064_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,km,kg CO2e of CO2 per unit,0.23509
+25_301_3064_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,km,kg CO2e of CH4 per unit,0.00177
+25_301_3064_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,km,kg CO2e of N2O per unit,0.00036
+25_301_3065_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,km,kg CO2e,0.26771
+25_301_3065_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,km,kg CO2e of CO2 per unit,0.26729
+25_301_3065_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,km,kg CO2e of CH4 per unit,0.00006
+25_301_3065_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,km,kg CO2e of N2O per unit,0.00036
+25_301_3066_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,km,kg CO2e,0.22678
+25_301_3066_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,km,kg CO2e of CO2 per unit,0.22535
+25_301_3066_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,km,kg CO2e of CH4 per unit,0.0001
+25_301_3066_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,km,kg CO2e of N2O per unit,0.00133
+25_301_3067_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.1143
+25_301_3067_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.11353
+25_301_3067_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00039
+25_301_3067_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00038
+25_301_3068_4_1,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e,0.04205
+25_301_3068_4_2,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.04145
+25_301_3068_4_3,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00026
+25_301_3068_4_4,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00035
+25_301_3061_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,miles,kg CO2e,0.33808
+25_301_3061_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,miles,kg CO2e of CO2 per unit,0.33537
+25_301_3061_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_301_3061_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_301_3062_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,miles,kg CO2e,0.43175
+25_301_3062_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,miles,kg CO2e of CO2 per unit,0.43066
+25_301_3062_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_301_3062_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_301_3063_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,miles,kg CO2e,0.25184
+25_301_3063_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,miles,kg CO2e of CO2 per unit,0.24956
+25_301_3063_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,miles,kg CO2e of CH4 per unit,0.00016
+25_301_3063_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,Hybrid,miles,kg CO2e of N2O per unit,0.00213
+25_301_3064_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,miles,kg CO2e,0.38177
+25_301_3064_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,miles,kg CO2e of CO2 per unit,0.37834
+25_301_3064_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,miles,kg CO2e of CH4 per unit,0.00286
+25_301_3064_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,CNG,miles,kg CO2e of N2O per unit,0.00058
+25_301_3065_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,miles,kg CO2e,0.43082
+25_301_3065_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,miles,kg CO2e of CO2 per unit,0.43015
+25_301_3065_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,miles,kg CO2e of CH4 per unit,0.00009
+25_301_3065_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,LPG,miles,kg CO2e of N2O per unit,0.00058
+25_301_3066_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,miles,kg CO2e,0.36495
+25_301_3066_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,miles,kg CO2e of CO2 per unit,0.36267
+25_301_3066_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+25_301_3066_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,Unknown,miles,kg CO2e of N2O per unit,0.00213
+25_301_3067_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.18396
+25_301_3067_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.18271
+25_301_3067_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00064
+25_301_3067_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00061
+25_301_3068_9_1,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e,0.06767
+25_301_3068_9_2,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0667
+25_301_3068_9_3,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00041
+25_301_3068_9_4,Scope 3,Business travel- land,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00056
+25_301_3069_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,km,kg CO2e,0.17304
+25_301_3069_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,km,kg CO2e of CO2 per unit,0.17136
+25_301_3069_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+25_301_3069_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+25_301_3070_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,km,kg CO2e,0.16272
+25_301_3070_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,km,kg CO2e of CO2 per unit,0.16204
+25_301_3070_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+25_301_3070_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+25_301_3071_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,km,kg CO2e,0.12825
+25_301_3071_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,km,kg CO2e of CO2 per unit,0.12708
+25_301_3071_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,km,kg CO2e of CH4 per unit,0.00019
+25_301_3071_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,km,kg CO2e of N2O per unit,0.00098
+25_301_3072_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,km,kg CO2e,0.17414
+25_301_3072_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,km,kg CO2e of CO2 per unit,0.17201
+25_301_3072_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,km,kg CO2e of CH4 per unit,0.00177
+25_301_3072_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,km,kg CO2e of N2O per unit,0.00036
+25_301_3073_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,km,kg CO2e,0.19599
+25_301_3073_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,km,kg CO2e of CO2 per unit,0.19557
+25_301_3073_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,km,kg CO2e of CH4 per unit,0.00006
+25_301_3073_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,km,kg CO2e of N2O per unit,0.00036
+25_301_3074_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,km,kg CO2e,0.16725
+25_301_3074_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,km,kg CO2e of CO2 per unit,0.16608
+25_301_3074_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,km,kg CO2e of CH4 per unit,0.00019
+25_301_3074_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,km,kg CO2e of N2O per unit,0.00098
+25_301_3075_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.10461
+25_301_3075_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.10389
+25_301_3075_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00037
+25_301_3075_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00035
+25_301_3076_4_1,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e,0.04047
+25_301_3076_4_2,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03992
+25_301_3076_4_3,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00024
+25_301_3076_4_4,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+25_301_3069_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,miles,kg CO2e,0.27849
+25_301_3069_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,miles,kg CO2e of CO2 per unit,0.27578
+25_301_3069_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+25_301_3069_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+25_301_3070_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,miles,kg CO2e,0.26187
+25_301_3070_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,miles,kg CO2e of CO2 per unit,0.26078
+25_301_3070_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+25_301_3070_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+25_301_3071_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,miles,kg CO2e,0.20639
+25_301_3071_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,miles,kg CO2e of CO2 per unit,0.20452
+25_301_3071_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,miles,kg CO2e of CH4 per unit,0.0003
+25_301_3071_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,Hybrid,miles,kg CO2e of N2O per unit,0.00157
+25_301_3072_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,miles,kg CO2e,0.28025
+25_301_3072_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,miles,kg CO2e of CO2 per unit,0.27682
+25_301_3072_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,miles,kg CO2e of CH4 per unit,0.00286
+25_301_3072_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,CNG,miles,kg CO2e of N2O per unit,0.00058
+25_301_3073_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,miles,kg CO2e,0.31541
+25_301_3073_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,miles,kg CO2e of CO2 per unit,0.31474
+25_301_3073_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,miles,kg CO2e of CH4 per unit,0.00009
+25_301_3073_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,LPG,miles,kg CO2e of N2O per unit,0.00058
+25_301_3074_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,miles,kg CO2e,0.26915
+25_301_3074_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,miles,kg CO2e of CO2 per unit,0.26728
+25_301_3074_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,miles,kg CO2e of CH4 per unit,0.0003
+25_301_3074_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,Unknown,miles,kg CO2e of N2O per unit,0.00157
+25_301_3075_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.16834
+25_301_3075_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.16719
+25_301_3075_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00059
+25_301_3075_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00056
+25_301_3076_9_1,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e,0.06512
+25_301_3076_9_2,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06424
+25_301_3076_9_3,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00037
+25_301_3076_9_4,Scope 3,Business travel- land,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00051
+25_302_3077_4_1,Scope 3,Business travel- land,Motorbike,Small,,,km,kg CO2e,0.08319
+25_302_3077_4_2,Scope 3,Business travel- land,Motorbike,Small,,,km,kg CO2e of CO2 per unit,0.08094
+25_302_3077_4_3,Scope 3,Business travel- land,Motorbike,Small,,,km,kg CO2e of CH4 per unit,0.00175
+25_302_3077_4_4,Scope 3,Business travel- land,Motorbike,Small,,,km,kg CO2e of N2O per unit,0.0005
+25_302_3077_9_1,Scope 3,Business travel- land,Motorbike,Small,,,miles,kg CO2e,0.13389
+25_302_3077_9_2,Scope 3,Business travel- land,Motorbike,Small,,,miles,kg CO2e of CO2 per unit,0.13027
+25_302_3077_9_3,Scope 3,Business travel- land,Motorbike,Small,,,miles,kg CO2e of CH4 per unit,0.00282
+25_302_3077_9_4,Scope 3,Business travel- land,Motorbike,Small,,,miles,kg CO2e of N2O per unit,0.0008
+25_302_3078_4_1,Scope 3,Business travel- land,Motorbike,Medium,,,km,kg CO2e,0.10108
+25_302_3078_4_2,Scope 3,Business travel- land,Motorbike,Medium,,,km,kg CO2e of CO2 per unit,0.09826
+25_302_3078_4_3,Scope 3,Business travel- land,Motorbike,Medium,,,km,kg CO2e of CH4 per unit,0.00228
+25_302_3078_4_4,Scope 3,Business travel- land,Motorbike,Medium,,,km,kg CO2e of N2O per unit,0.00053
+25_302_3078_9_1,Scope 3,Business travel- land,Motorbike,Medium,,,miles,kg CO2e,0.16266
+25_302_3078_9_2,Scope 3,Business travel- land,Motorbike,Medium,,,miles,kg CO2e of CO2 per unit,0.15813
+25_302_3078_9_3,Scope 3,Business travel- land,Motorbike,Medium,,,miles,kg CO2e of CH4 per unit,0.00367
+25_302_3078_9_4,Scope 3,Business travel- land,Motorbike,Medium,,,miles,kg CO2e of N2O per unit,0.00085
+25_302_3079_4_1,Scope 3,Business travel- land,Motorbike,Large,,,km,kg CO2e,0.13252
+25_302_3079_4_2,Scope 3,Business travel- land,Motorbike,Large,,,km,kg CO2e of CO2 per unit,0.13072
+25_302_3079_4_3,Scope 3,Business travel- land,Motorbike,Large,,,km,kg CO2e of CH4 per unit,0.00127
+25_302_3079_4_4,Scope 3,Business travel- land,Motorbike,Large,,,km,kg CO2e of N2O per unit,0.00053
+25_302_3079_9_1,Scope 3,Business travel- land,Motorbike,Large,,,miles,kg CO2e,0.21326
+25_302_3079_9_2,Scope 3,Business travel- land,Motorbike,Large,,,miles,kg CO2e of CO2 per unit,0.21037
+25_302_3079_9_3,Scope 3,Business travel- land,Motorbike,Large,,,miles,kg CO2e of CH4 per unit,0.00204
+25_302_3079_9_4,Scope 3,Business travel- land,Motorbike,Large,,,miles,kg CO2e of N2O per unit,0.00085
+25_302_3080_4_1,Scope 3,Business travel- land,Motorbike,Average,,,km,kg CO2e,0.11367
+25_302_3080_4_2,Scope 3,Business travel- land,Motorbike,Average,,,km,kg CO2e of CO2 per unit,0.11138
+25_302_3080_4_3,Scope 3,Business travel- land,Motorbike,Average,,,km,kg CO2e of CH4 per unit,0.00177
+25_302_3080_4_4,Scope 3,Business travel- land,Motorbike,Average,,,km,kg CO2e of N2O per unit,0.00052
+25_302_3080_9_1,Scope 3,Business travel- land,Motorbike,Average,,,miles,kg CO2e,0.18294
+25_302_3080_9_2,Scope 3,Business travel- land,Motorbike,Average,,,miles,kg CO2e of CO2 per unit,0.17925
+25_302_3080_9_3,Scope 3,Business travel- land,Motorbike,Average,,,miles,kg CO2e of CH4 per unit,0.00284
+25_302_3080_9_4,Scope 3,Business travel- land,Motorbike,Average,,,miles,kg CO2e of N2O per unit,0.00084
+25_313_3141_11_1,Scope 3,Business travel- land,Taxis,Regular taxi,,,passenger.km,kg CO2e,0.14861
+25_313_3141_11_2,Scope 3,Business travel- land,Taxis,Regular taxi,,,passenger.km,kg CO2e of CO2 per unit,0.14742
+25_313_3141_11_3,Scope 3,Business travel- land,Taxis,Regular taxi,,,passenger.km,kg CO2e of CH4 per unit,0.000003
+25_313_3141_11_4,Scope 3,Business travel- land,Taxis,Regular taxi,,,passenger.km,kg CO2e of N2O per unit,0.00119
+25_313_3141_4_1,Scope 3,Business travel- land,Taxis,Regular taxi,,,km,kg CO2e,0.20806
+25_313_3141_4_2,Scope 3,Business travel- land,Taxis,Regular taxi,,,km,kg CO2e of CO2 per unit,0.20638
+25_313_3141_4_3,Scope 3,Business travel- land,Taxis,Regular taxi,,,km,kg CO2e of CH4 per unit,0.000005
+25_313_3141_4_4,Scope 3,Business travel- land,Taxis,Regular taxi,,,km,kg CO2e of N2O per unit,0.00167
+25_313_3142_11_1,Scope 3,Business travel- land,Taxis,Black cab,,,passenger.km,kg CO2e,0.20402
+25_313_3142_11_2,Scope 3,Business travel- land,Taxis,Black cab,,,passenger.km,kg CO2e of CO2 per unit,0.20291
+25_313_3142_11_3,Scope 3,Business travel- land,Taxis,Black cab,,,passenger.km,kg CO2e of CH4 per unit,0.000003
+25_313_3142_11_4,Scope 3,Business travel- land,Taxis,Black cab,,,passenger.km,kg CO2e of N2O per unit,0.00111
+25_313_3142_4_1,Scope 3,Business travel- land,Taxis,Black cab,,,km,kg CO2e,0.30604
+25_313_3142_4_2,Scope 3,Business travel- land,Taxis,Black cab,,,km,kg CO2e of CO2 per unit,0.30436
+25_313_3142_4_3,Scope 3,Business travel- land,Taxis,Black cab,,,km,kg CO2e of CH4 per unit,0.000005
+25_313_3142_4_4,Scope 3,Business travel- land,Taxis,Black cab,,,km,kg CO2e of N2O per unit,0.00167
+25_314_3143_11_1,Scope 3,Business travel- land,Bus,Local bus (not London),,,passenger.km,kg CO2e,0.12525
+25_314_3143_11_2,Scope 3,Business travel- land,Bus,Local bus (not London),,,passenger.km,kg CO2e of CO2 per unit,0.12435
+25_314_3143_11_3,Scope 3,Business travel- land,Bus,Local bus (not London),,,passenger.km,kg CO2e of CH4 per unit,0.00002
+25_314_3143_11_4,Scope 3,Business travel- land,Bus,Local bus (not London),,,passenger.km,kg CO2e of N2O per unit,0.00088
+25_314_3144_11_1,Scope 3,Business travel- land,Bus,Local London bus,,,passenger.km,kg CO2e,0.06875
+25_314_3144_11_2,Scope 3,Business travel- land,Bus,Local London bus,,,passenger.km,kg CO2e of CO2 per unit,0.06827
+25_314_3144_11_3,Scope 3,Business travel- land,Bus,Local London bus,,,passenger.km,kg CO2e of CH4 per unit,0.00001
+25_314_3144_11_4,Scope 3,Business travel- land,Bus,Local London bus,,,passenger.km,kg CO2e of N2O per unit,0.00047
+25_314_3145_11_1,Scope 3,Business travel- land,Bus,Average local bus,,,passenger.km,kg CO2e,0.10385
+25_314_3145_11_2,Scope 3,Business travel- land,Bus,Average local bus,,,passenger.km,kg CO2e of CO2 per unit,0.10311
+25_314_3145_11_3,Scope 3,Business travel- land,Bus,Average local bus,,,passenger.km,kg CO2e of CH4 per unit,0.00001
+25_314_3145_11_4,Scope 3,Business travel- land,Bus,Average local bus,,,passenger.km,kg CO2e of N2O per unit,0.00073
+25_314_3146_11_1,Scope 3,Business travel- land,Bus,Coach,,,passenger.km,kg CO2e,0.02776
+25_314_3146_11_2,Scope 3,Business travel- land,Bus,Coach,,,passenger.km,kg CO2e of CO2 per unit,0.02727
+25_314_3146_11_3,Scope 3,Business travel- land,Bus,Coach,,,passenger.km,kg CO2e of CH4 per unit,0.00001
+25_314_3146_11_4,Scope 3,Business travel- land,Bus,Coach,,,passenger.km,kg CO2e of N2O per unit,0.00048
+25_315_3147_11_1,Scope 3,Business travel- land,Rail,National rail,,,passenger.km,kg CO2e,0.03546
+25_315_3147_11_2,Scope 3,Business travel- land,Rail,National rail,,,passenger.km,kg CO2e of CO2 per unit,0.0351
+25_315_3147_11_3,Scope 3,Business travel- land,Rail,National rail,,,passenger.km,kg CO2e of CH4 per unit,0.00008
+25_315_3147_11_4,Scope 3,Business travel- land,Rail,National rail,,,passenger.km,kg CO2e of N2O per unit,0.00028
+25_315_3148_11_1,Scope 3,Business travel- land,Rail,International rail,,,passenger.km,kg CO2e,0.00446
+25_315_3148_11_2,Scope 3,Business travel- land,Rail,International rail,,,passenger.km,kg CO2e of CO2 per unit,0.00441
+25_315_3148_11_3,Scope 3,Business travel- land,Rail,International rail,,,passenger.km,kg CO2e of CH4 per unit,0.00002
+25_315_3148_11_4,Scope 3,Business travel- land,Rail,International rail,,,passenger.km,kg CO2e of N2O per unit,0.00003
+25_315_3149_11_1,Scope 3,Business travel- land,Rail,Light rail and tram,,,passenger.km,kg CO2e,0.0286
+25_315_3149_11_2,Scope 3,Business travel- land,Rail,Light rail and tram,,,passenger.km,kg CO2e of CO2 per unit,0.02832
+25_315_3149_11_3,Scope 3,Business travel- land,Rail,Light rail and tram,,,passenger.km,kg CO2e of CH4 per unit,0.00012
+25_315_3149_11_4,Scope 3,Business travel- land,Rail,Light rail and tram,,,passenger.km,kg CO2e of N2O per unit,0.00016
+25_315_3150_11_1,Scope 3,Business travel- land,Rail,London Underground,,,passenger.km,kg CO2e,0.0278
+25_315_3150_11_2,Scope 3,Business travel- land,Rail,London Underground,,,passenger.km,kg CO2e of CO2 per unit,0.02753
+25_315_3150_11_3,Scope 3,Business travel- land,Rail,London Underground,,,passenger.km,kg CO2e of CH4 per unit,0.00011
+25_315_3150_11_4,Scope 3,Business travel- land,Rail,London Underground,,,passenger.km,kg CO2e of N2O per unit,0.00016

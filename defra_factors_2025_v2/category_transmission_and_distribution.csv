@@ -1,0 +1,9 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+13_402_4000_5_1,Scope 3,Transmission and distribution,T&D- UK electricity,Electricity: UK,kWh,,kWh,kg CO2e,0.01853
+13_402_4000_5_2,Scope 3,Transmission and distribution,T&D- UK electricity,Electricity: UK,kWh,,kWh,kg CO2e of CO2 per unit,0.01834
+13_402_4000_5_3,Scope 3,Transmission and distribution,T&D- UK electricity,Electricity: UK,kWh,,kWh,kg CO2e of CH4 per unit,0.00008
+13_402_4000_5_4,Scope 3,Transmission and distribution,T&D- UK electricity,Electricity: UK,kWh,,kWh,kg CO2e of N2O per unit,0.00011
+13_403_4004_5_1,Scope 3,Transmission and distribution,Distribution - district heat & steam,5% loss,kWh,,kWh,kg CO2e,0.00945
+13_403_4004_5_2,Scope 3,Transmission and distribution,Distribution - district heat & steam,5% loss,kWh,,kWh,kg CO2e of CO2 per unit,0.00936
+13_403_4004_5_3,Scope 3,Transmission and distribution,Distribution - district heat & steam,5% loss,kWh,,kWh,kg CO2e of CH4 per unit,0.00007
+13_403_4004_5_4,Scope 3,Transmission and distribution,Distribution - district heat & steam,5% loss,kWh,,kWh,kg CO2e of N2O per unit,0.00003

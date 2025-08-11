@@ -1,0 +1,305 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+14_300_3003_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+14_300_3003_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+14_300_3003_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+14_300_3003_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+14_300_3004_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e,0.00314
+14_300_3004_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00311
+14_300_3004_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3004_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_300_3003_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+14_300_3003_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+14_300_3003_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+14_300_3003_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+14_300_3004_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e,0.00507
+14_300_3004_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00501
+14_300_3004_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_300_3004_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_300_3008_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00252
+14_300_3008_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00249
+14_300_3008_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3008_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_300_3009_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e,0.00357
+14_300_3009_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00354
+14_300_3009_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3009_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_300_3008_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00406
+14_300_3008_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00401
+14_300_3008_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_300_3008_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00003
+14_300_3009_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e,0.00576
+14_300_3009_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0057
+14_300_3009_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_300_3009_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_300_3013_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00094
+14_300_3013_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00092
+14_300_3013_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3013_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_300_3014_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e,0.00365
+14_300_3014_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0036
+14_300_3014_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_300_3014_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_300_3013_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00152
+14_300_3013_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00149
+14_300_3013_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_300_3013_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_300_3014_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e,0.00587
+14_300_3014_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0058
+14_300_3014_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_300_3014_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_300_3018_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00101
+14_300_3018_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00099
+14_300_3018_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3018_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_300_3019_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e,0.00396
+14_300_3019_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00393
+14_300_3019_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3019_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_300_3018_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00163
+14_300_3018_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0016
+14_300_3018_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_300_3018_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_300_3019_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e,0.00637
+14_300_3019_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00632
+14_300_3019_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_300_3019_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00003
+14_300_3023_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00083
+14_300_3023_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00081
+14_300_3023_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3023_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_300_3024_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e,0.00352
+14_300_3024_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00347
+14_300_3024_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_300_3024_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_300_3023_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00133
+14_300_3023_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0013
+14_300_3023_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_300_3023_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_300_3024_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e,0.00565
+14_300_3024_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00558
+14_300_3024_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_300_3024_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_300_3028_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00097
+14_300_3028_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00095
+14_300_3028_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3028_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_300_3029_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e,0.00465
+14_300_3029_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0046
+14_300_3029_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_300_3029_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_300_3028_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00155
+14_300_3028_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00152
+14_300_3028_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_300_3028_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_300_3029_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e,0.00748
+14_300_3029_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0074
+14_300_3029_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_300_3029_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_300_3033_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00071
+14_300_3033_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00069
+14_300_3033_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3033_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_300_3034_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e,0.00593
+14_300_3034_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00587
+14_300_3034_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_300_3034_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00004
+14_300_3033_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00114
+14_300_3033_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00111
+14_300_3033_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_300_3033_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_300_3034_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e,0.00955
+14_300_3034_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00945
+14_300_3034_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00004
+14_300_3034_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00005
+14_300_3038_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00138
+14_300_3038_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00135
+14_300_3038_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3038_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_300_3039_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e,0.00401
+14_300_3039_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00395
+14_300_3039_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_300_3039_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00004
+14_300_3038_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00222
+14_300_3038_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00218
+14_300_3038_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_300_3038_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00003
+14_300_3039_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e,0.00645
+14_300_3039_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00636
+14_300_3039_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_300_3039_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00005
+14_300_3043_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00174
+14_300_3043_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00171
+14_300_3043_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_300_3043_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_300_3044_4_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e,0.00493
+14_300_3044_4_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00487
+14_300_3044_4_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_300_3044_4_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00004
+14_300_3043_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00282
+14_300_3043_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00276
+14_300_3043_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_300_3043_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_300_3044_9_1,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e,0.00793
+14_300_3044_9_2,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00784
+14_300_3044_9_3,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_300_3044_9_4,Scope 3,UK electricity T&D for EVs,Cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00005
+14_301_3051_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00252
+14_301_3051_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00249
+14_301_3051_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_301_3051_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_301_3052_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e,0.00349
+14_301_3052_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00346
+14_301_3052_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_301_3052_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_301_3051_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00406
+14_301_3051_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00401
+14_301_3051_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_301_3051_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00003
+14_301_3052_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e,0.00563
+14_301_3052_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00557
+14_301_3052_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_301_3052_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_301_3059_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00098
+14_301_3059_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00096
+14_301_3059_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_301_3059_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_301_3060_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e,0.00368
+14_301_3060_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00363
+14_301_3060_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_301_3060_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_301_3059_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00157
+14_301_3059_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00154
+14_301_3059_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_301_3059_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_301_3060_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e,0.00592
+14_301_3060_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00585
+14_301_3060_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_301_3060_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_301_3067_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00132
+14_301_3067_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.0013
+14_301_3067_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_301_3067_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_301_3068_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e,0.00398
+14_301_3068_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00393
+14_301_3068_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_301_3068_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_301_3067_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00212
+14_301_3067_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00209
+14_301_3067_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_301_3067_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_301_3068_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e,0.00641
+14_301_3068_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00633
+14_301_3068_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_301_3068_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_301_3075_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00122
+14_301_3075_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.0012
+14_301_3075_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_301_3075_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_301_3076_4_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e,0.00384
+14_301_3076_4_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00379
+14_301_3076_4_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_301_3076_4_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_301_3075_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00197
+14_301_3075_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00194
+14_301_3075_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_301_3075_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00002
+14_301_3076_9_1,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e,0.00618
+14_301_3076_9_2,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0061
+14_301_3076_9_3,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_301_3076_9_4,Scope 3,UK electricity T&D for EVs,Cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_303_3086_14_1,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,
+14_303_3086_14_2,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,
+14_303_3086_14_3,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,
+14_303_3086_14_4,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,
+14_303_3087_14_1,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.01183
+14_303_3087_14_2,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.01167
+14_303_3087_14_3,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00007
+14_303_3087_14_4,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00009
+14_303_3086_4_1,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+14_303_3086_4_2,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+14_303_3086_4_3,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+14_303_3086_4_4,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+14_303_3087_4_1,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.0036
+14_303_3087_4_2,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00357
+14_303_3087_4_3,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_303_3087_4_4,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00002
+14_303_3086_9_1,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+14_303_3086_9_2,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+14_303_3086_9_3,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+14_303_3086_9_4,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+14_303_3087_9_1,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.00579
+14_303_3087_9_2,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00574
+14_303_3087_9_3,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00002
+14_303_3087_9_4,Scope 3,UK electricity T&D for EVs,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00003
+14_303_3093_14_1,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,
+14_303_3093_14_2,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,
+14_303_3093_14_3,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,
+14_303_3093_14_4,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,
+14_303_3094_14_1,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.02361
+14_303_3094_14_2,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.02342
+14_303_3094_14_3,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00008
+14_303_3094_14_4,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00012
+14_303_3093_4_1,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+14_303_3093_4_2,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+14_303_3093_4_3,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+14_303_3093_4_4,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+14_303_3094_4_1,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.00548
+14_303_3094_4_2,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00543
+14_303_3094_4_3,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_303_3094_4_4,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_303_3093_9_1,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+14_303_3093_9_2,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+14_303_3093_9_3,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+14_303_3093_9_4,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+14_303_3094_9_1,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.00882
+14_303_3094_9_2,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00874
+14_303_3094_9_3,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_303_3094_9_4,Scope 3,UK electricity T&D for EVs,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004
+14_303_3100_14_1,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,0.00369
+14_303_3100_14_2,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.00366
+14_303_3100_14_3,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00001
+14_303_3100_14_4,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00002
+14_303_3101_14_1,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.01945
+14_303_3101_14_2,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.01926
+14_303_3101_14_3,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00008
+14_303_3101_14_4,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00011
+14_303_3100_4_1,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00146
+14_303_3100_4_2,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00144
+14_303_3100_4_3,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_303_3100_4_4,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_303_3101_4_1,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.00721
+14_303_3101_4_2,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00715
+14_303_3101_4_3,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_303_3101_4_4,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00004
+14_303_3100_9_1,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00234
+14_303_3100_9_2,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00232
+14_303_3100_9_3,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_303_3100_9_4,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00001
+14_303_3101_9_1,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.01161
+14_303_3101_9_2,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.01151
+14_303_3101_9_3,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00004
+14_303_3101_9_4,Scope 3,UK electricity T&D for EVs,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00005
+14_303_3107_14_1,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,0.00369
+14_303_3107_14_2,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.00366
+14_303_3107_14_3,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00001
+14_303_3107_14_4,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00002
+14_303_3108_14_1,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.02084
+14_303_3108_14_2,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.02065
+14_303_3108_14_3,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00008
+14_303_3108_14_4,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00012
+14_303_3107_4_1,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.00146
+14_303_3107_4_2,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.00144
+14_303_3107_4_3,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00001
+14_303_3107_4_4,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00001
+14_303_3108_4_1,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.00662
+14_303_3108_4_2,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.00657
+14_303_3108_4_3,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00002
+14_303_3108_4_4,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00003
+14_303_3107_9_1,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.00234
+14_303_3107_9_2,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.00232
+14_303_3107_9_3,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00001
+14_303_3107_9_4,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00001
+14_303_3108_9_1,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.01066
+14_303_3108_9_2,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.01058
+14_303_3108_9_3,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00003
+14_303_3108_9_4,Scope 3,UK electricity T&D for EVs,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00004

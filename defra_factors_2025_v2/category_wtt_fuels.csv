@@ -1,0 +1,119 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+11_100_1000_15_1,Scope 3,WTT- fuels,Gaseous fuels,Butane,,,tonnes,kg CO2e,344.30947
+11_100_1000_8_1,Scope 3,WTT- fuels,Gaseous fuels,Butane,,,litres,kg CO2e,0.19765
+11_100_1000_7_1,Scope 3,WTT- fuels,Gaseous fuels,Butane,,,kWh (Net CV),kg CO2e,0.02736
+11_100_1000_6_1,Scope 3,WTT- fuels,Gaseous fuels,Butane,,,kWh (Gross CV),kg CO2e,0.02524
+11_100_1001_15_1,Scope 3,WTT- fuels,Gaseous fuels,CNG,,,tonnes,kg CO2e,530.77887
+11_100_1001_8_1,Scope 3,WTT- fuels,Gaseous fuels,CNG,,,litres,kg CO2e,0.09289
+11_100_1001_7_1,Scope 3,WTT- fuels,Gaseous fuels,CNG,,,kWh (Net CV),kg CO2e,0.04198
+11_100_1001_6_1,Scope 3,WTT- fuels,Gaseous fuels,CNG,,,kWh (Gross CV),kg CO2e,0.03789
+11_100_1002_15_1,Scope 3,WTT- fuels,Gaseous fuels,LNG,,,tonnes,kg CO2e,912.22817
+11_100_1002_8_1,Scope 3,WTT- fuels,Gaseous fuels,LNG,,,litres,kg CO2e,0.41277
+11_100_1002_7_1,Scope 3,WTT- fuels,Gaseous fuels,LNG,,,kWh (Net CV),kg CO2e,0.07214
+11_100_1002_6_1,Scope 3,WTT- fuels,Gaseous fuels,LNG,,,kWh (Gross CV),kg CO2e,0.06512
+11_100_1003_15_1,Scope 3,WTT- fuels,Gaseous fuels,LPG,,,tonnes,kg CO2e,349.29282
+11_100_1003_8_1,Scope 3,WTT- fuels,Gaseous fuels,LPG,,,litres,kg CO2e,0.18551
+11_100_1003_7_1,Scope 3,WTT- fuels,Gaseous fuels,LPG,,,kWh (Net CV),kg CO2e,0.02736
+11_100_1003_6_1,Scope 3,WTT- fuels,Gaseous fuels,LPG,,,kWh (Gross CV),kg CO2e,0.02548
+11_100_1004_15_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,,,tonnes,kg CO2e,423.16368
+11_100_1004_1_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,,,cubic metres,kg CO2e,0.3366
+11_100_1004_7_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,,,kWh (Net CV),kg CO2e,0.03347
+11_100_1004_6_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas,,,kWh (Gross CV),kg CO2e,0.03021
+11_100_1005_15_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),,,tonnes,kg CO2e,423.16368
+11_100_1005_1_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),,,cubic metres,kg CO2e,0.3366
+11_100_1005_7_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),,,kWh (Net CV),kg CO2e,0.03347
+11_100_1005_6_1,Scope 3,WTT- fuels,Gaseous fuels,Natural gas (100% mineral blend),,,kWh (Gross CV),kg CO2e,0.03021
+11_100_1006_15_1,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,,,tonnes,kg CO2e,302.95197
+11_100_1006_8_1,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,,,litres,kg CO2e,0.11097
+11_100_1006_7_1,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,,,kWh (Net CV),kg CO2e,0.0234
+11_100_1006_6_1,Scope 3,WTT- fuels,Gaseous fuels,Other petroleum gas,,,kWh (Gross CV),kg CO2e,0.02153
+11_100_1007_15_1,Scope 3,WTT- fuels,Gaseous fuels,Propane,,,tonnes,kg CO2e,352.67018
+11_100_1007_8_1,Scope 3,WTT- fuels,Gaseous fuels,Propane,,,litres,kg CO2e,0.1817
+11_100_1007_7_1,Scope 3,WTT- fuels,Gaseous fuels,Propane,,,kWh (Net CV),kg CO2e,0.02736
+11_100_1007_6_1,Scope 3,WTT- fuels,Gaseous fuels,Propane,,,kWh (Gross CV),kg CO2e,0.02519
+11_101_1008_15_1,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,,,tonnes,kg CO2e,813.26357
+11_101_1008_8_1,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,,,litres,kg CO2e,0.61425
+11_101_1008_7_1,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,,,kWh (Net CV),kg CO2e,0.06582
+11_101_1008_6_1,Scope 3,WTT- fuels,Liquid fuels,Aviation spirit,,,kWh (Gross CV),kg CO2e,0.06253
+11_101_1009_15_1,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,,,tonnes,kg CO2e,661.79468
+11_101_1009_8_1,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,,,litres,kg CO2e,0.52817
+11_101_1009_7_1,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,,,kWh (Net CV),kg CO2e,0.05424
+11_101_1009_6_1,Scope 3,WTT- fuels,Liquid fuels,Aviation turbine fuel,,,kWh (Gross CV),kg CO2e,0.05153
+11_101_1010_15_1,Scope 3,WTT- fuels,Liquid fuels,Burning oil,,,tonnes,kg CO2e,660.82605
+11_101_1010_8_1,Scope 3,WTT- fuels,Liquid fuels,Burning oil,,,litres,kg CO2e,0.53078
+11_101_1010_7_1,Scope 3,WTT- fuels,Liquid fuels,Burning oil,,,kWh (Net CV),kg CO2e,0.05424
+11_101_1010_6_1,Scope 3,WTT- fuels,Liquid fuels,Burning oil,,,kWh (Gross CV),kg CO2e,0.05153
+11_101_1011_15_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),,,tonnes,kg CO2e,733.64436
+11_101_1011_8_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),,,litres,kg CO2e,0.61101
+11_101_1011_7_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),,,kWh (Net CV),kg CO2e,0.06181
+11_101_1011_6_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (average biofuel blend),,,kWh (Gross CV),kg CO2e,0.05816
+11_101_1012_15_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),,,tonnes,kg CO2e,752.0276
+11_101_1012_8_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),,,litres,kg CO2e,0.62409
+11_101_1012_7_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),,,kWh (Net CV),kg CO2e,0.06291
+11_101_1012_6_1,Scope 3,WTT- fuels,Liquid fuels,Diesel (100% mineral diesel),,,kWh (Gross CV),kg CO2e,0.05913
+11_101_1013_15_1,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,,,tonnes,kg CO2e,714.86545
+11_101_1013_8_1,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,,,litres,kg CO2e,0.69539
+11_101_1013_7_1,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,,,kWh (Net CV),kg CO2e,0.06291
+11_101_1013_6_1,Scope 3,WTT- fuels,Liquid fuels,Fuel oil,,,kWh (Gross CV),kg CO2e,0.05913
+11_101_1014_15_1,Scope 3,WTT- fuels,Liquid fuels,Gas oil,,,tonnes,kg CO2e,743.83524
+11_101_1014_8_1,Scope 3,WTT- fuels,Liquid fuels,Gas oil,,,litres,kg CO2e,0.62665
+11_101_1014_7_1,Scope 3,WTT- fuels,Liquid fuels,Gas oil,,,kWh (Net CV),kg CO2e,0.06291
+11_101_1014_6_1,Scope 3,WTT- fuels,Liquid fuels,Gas oil,,,kWh (Gross CV),kg CO2e,0.05913
+11_101_1015_15_1,Scope 3,WTT- fuels,Liquid fuels,Lubricants,,,tonnes,kg CO2e,1116.83712
+11_101_1015_8_1,Scope 3,WTT- fuels,Liquid fuels,Lubricants,,,litres,kg CO2e,
+11_101_1015_7_1,Scope 3,WTT- fuels,Liquid fuels,Lubricants,,,kWh (Net CV),kg CO2e,0.09828
+11_101_1015_6_1,Scope 3,WTT- fuels,Liquid fuels,Lubricants,,,kWh (Gross CV),kg CO2e,0.09238
+11_101_1016_15_1,Scope 3,WTT- fuels,Liquid fuels,Naphtha,,,tonnes,kg CO2e,640.41464
+11_101_1016_8_1,Scope 3,WTT- fuels,Liquid fuels,Naphtha,,,litres,kg CO2e,
+11_101_1016_7_1,Scope 3,WTT- fuels,Liquid fuels,Naphtha,,,kWh (Net CV),kg CO2e,0.05076
+11_101_1016_6_1,Scope 3,WTT- fuels,Liquid fuels,Naphtha,,,kWh (Gross CV),kg CO2e,0.04822
+11_101_1017_15_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),,,tonnes,kg CO2e,777.33392
+11_101_1017_8_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),,,litres,kg CO2e,0.58094
+11_101_1017_7_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),,,kWh (Net CV),kg CO2e,0.0648
+11_101_1017_6_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (average biofuel blend),,,kWh (Gross CV),kg CO2e,0.0614
+11_101_1018_15_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),,,tonnes,kg CO2e,815.93523
+11_101_1018_8_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),,,litres,kg CO2e,0.60664
+11_101_1018_7_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),,,kWh (Net CV),kg CO2e,0.06582
+11_101_1018_6_1,Scope 3,WTT- fuels,Liquid fuels,Petrol (100% mineral petrol),,,kWh (Gross CV),kg CO2e,0.06253
+11_101_1019_15_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,,,tonnes,kg CO2e,1132.08149
+11_101_1019_8_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,,,litres,kg CO2e,1.10125
+11_101_1019_7_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,,,kWh (Net CV),kg CO2e,0.09962
+11_101_1019_6_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - residual oil,,,kWh (Gross CV),kg CO2e,0.09364
+11_101_1020_15_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,,,tonnes,kg CO2e,1123.49881
+11_101_1020_8_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,,,litres,kg CO2e,0.9465
+11_101_1020_7_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,,,kWh (Net CV),kg CO2e,0.09501
+11_101_1020_6_1,Scope 3,WTT- fuels,Liquid fuels,Processed fuel oils - distillate oil,,,kWh (Gross CV),kg CO2e,0.08931
+11_101_1021_15_1,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,,,tonnes,kg CO2e,348.98258
+11_101_1021_8_1,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,,,litres,kg CO2e,
+11_101_1021_7_1,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,,,kWh (Net CV),kg CO2e,0.03077
+11_101_1021_6_1,Scope 3,WTT- fuels,Liquid fuels,Refinery miscellaneous,,,kWh (Gross CV),kg CO2e,0.02923
+11_101_1022_15_1,Scope 3,WTT- fuels,Liquid fuels,Waste oils,,,tonnes,kg CO2e,1116.83712
+11_101_1022_8_1,Scope 3,WTT- fuels,Liquid fuels,Waste oils,,,litres,kg CO2e,
+11_101_1022_7_1,Scope 3,WTT- fuels,Liquid fuels,Waste oils,,,kWh (Net CV),kg CO2e,0.09526
+11_101_1022_6_1,Scope 3,WTT- fuels,Liquid fuels,Waste oils,,,kWh (Gross CV),kg CO2e,0.08895
+11_101_1023_15_1,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,,,tonnes,kg CO2e,743.83524
+11_101_1023_8_1,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,,,litres,kg CO2e,0.62665
+11_101_1023_7_1,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,,,kWh (Net CV),kg CO2e,0.06291
+11_101_1023_6_1,Scope 3,WTT- fuels,Liquid fuels,Marine gas oil,,,kWh (Gross CV),kg CO2e,0.05913
+11_101_1024_15_1,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,,,tonnes,kg CO2e,714.86545
+11_101_1024_8_1,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,,,litres,kg CO2e,0.69539
+11_101_1024_7_1,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,,,kWh (Net CV),kg CO2e,0.06291
+11_101_1024_6_1,Scope 3,WTT- fuels,Liquid fuels,Marine fuel oil,,,kWh (Gross CV),kg CO2e,0.05913
+11_102_1025_15_1,Scope 3,WTT- fuels,Solid fuels,Coal (industrial),,,tonnes,kg CO2e,418.14964
+11_102_1025_7_1,Scope 3,WTT- fuels,Solid fuels,Coal (industrial),,,kWh (Net CV),kg CO2e,0.05925
+11_102_1025_6_1,Scope 3,WTT- fuels,Solid fuels,Coal (industrial),,,kWh (Gross CV),kg CO2e,0.05629
+11_102_1026_15_1,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation),,,tonnes,kg CO2e,390.06647
+11_102_1026_7_1,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation),,,kWh (Net CV),kg CO2e,0.05925
+11_102_1026_6_1,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation),,,kWh (Gross CV),kg CO2e,0.05629
+11_102_1027_15_1,Scope 3,WTT- fuels,Solid fuels,Coal (domestic),,,tonnes,kg CO2e,470.95724
+11_102_1027_7_1,Scope 3,WTT- fuels,Solid fuels,Coal (domestic),,,kWh (Net CV),kg CO2e,0.05925
+11_102_1027_6_1,Scope 3,WTT- fuels,Solid fuels,Coal (domestic),,,kWh (Gross CV),kg CO2e,0.05629
+11_102_1028_15_1,Scope 3,WTT- fuels,Solid fuels,Coking coal,,,tonnes,kg CO2e,497.73658
+11_102_1028_7_1,Scope 3,WTT- fuels,Solid fuels,Coking coal,,,kWh (Net CV),kg CO2e,0.05925
+11_102_1028_6_1,Scope 3,WTT- fuels,Solid fuels,Coking coal,,,kWh (Gross CV),kg CO2e,0.05629
+11_102_1029_15_1,Scope 3,WTT- fuels,Solid fuels,Petroleum coke,,,tonnes,kg CO2e,402.62468
+11_102_1029_7_1,Scope 3,WTT- fuels,Solid fuels,Petroleum coke,,,kWh (Net CV),kg CO2e,0.04267
+11_102_1029_6_1,Scope 3,WTT- fuels,Solid fuels,Petroleum coke,,,kWh (Gross CV),kg CO2e,0.04053
+11_102_1030_15_1,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation - home produced coal only),,,tonnes,kg CO2e,389.45704
+11_102_1030_7_1,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation - home produced coal only),,,kWh (Net CV),kg CO2e,0.05925
+11_102_1030_6_1,Scope 3,WTT- fuels,Solid fuels,Coal (electricity generation - home produced coal only),,,kWh (Gross CV),kg CO2e,0.05629

@@ -1,0 +1,295 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+20_500_5168_15_1,Scope 3,Waste disposal,Construction,Aggregates,,Re-use,tonnes,kg CO2e,
+20_500_5169_15_1,Scope 3,Waste disposal,Construction,Aggregates,,Open-loop,tonnes,kg CO2e,1.00835
+20_500_5170_15_1,Scope 3,Waste disposal,Construction,Aggregates,,Closed-loop,tonnes,kg CO2e,1.00835
+20_500_5171_15_1,Scope 3,Waste disposal,Construction,Aggregates,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5172_15_1,Scope 3,Waste disposal,Construction,Aggregates,,Composting,tonnes,kg CO2e,
+20_500_5173_15_1,Scope 3,Waste disposal,Construction,Aggregates,,Landfill,tonnes,kg CO2e,1.26338
+20_500_5174_15_1,Scope 3,Waste disposal,Construction,Aggregates,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5175_15_1,Scope 3,Waste disposal,Construction,Average construction,,Re-use,tonnes,kg CO2e,
+20_500_5176_15_1,Scope 3,Waste disposal,Construction,Average construction,,Open-loop,tonnes,kg CO2e,1.00835
+20_500_5177_15_1,Scope 3,Waste disposal,Construction,Average construction,,Closed-loop,tonnes,kg CO2e,1.00835
+20_500_5178_15_1,Scope 3,Waste disposal,Construction,Average construction,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_500_5179_15_1,Scope 3,Waste disposal,Construction,Average construction,,Composting,tonnes,kg CO2e,
+20_500_5180_15_1,Scope 3,Waste disposal,Construction,Average construction,,Landfill,tonnes,kg CO2e,
+20_500_5181_15_1,Scope 3,Waste disposal,Construction,Average construction,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5182_15_1,Scope 3,Waste disposal,Construction,Asbestos,,Re-use,tonnes,kg CO2e,
+20_500_5183_15_1,Scope 3,Waste disposal,Construction,Asbestos,,Open-loop,tonnes,kg CO2e,
+20_500_5184_15_1,Scope 3,Waste disposal,Construction,Asbestos,,Closed-loop,tonnes,kg CO2e,
+20_500_5185_15_1,Scope 3,Waste disposal,Construction,Asbestos,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5186_15_1,Scope 3,Waste disposal,Construction,Asbestos,,Composting,tonnes,kg CO2e,
+20_500_5187_15_1,Scope 3,Waste disposal,Construction,Asbestos,,Landfill,tonnes,kg CO2e,5.9416
+20_500_5188_15_1,Scope 3,Waste disposal,Construction,Asbestos,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5189_15_1,Scope 3,Waste disposal,Construction,Asphalt,,Re-use,tonnes,kg CO2e,
+20_500_5190_15_1,Scope 3,Waste disposal,Construction,Asphalt,,Open-loop,tonnes,kg CO2e,1.00835
+20_500_5191_15_1,Scope 3,Waste disposal,Construction,Asphalt,,Closed-loop,tonnes,kg CO2e,1.00835
+20_500_5192_15_1,Scope 3,Waste disposal,Construction,Asphalt,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5193_15_1,Scope 3,Waste disposal,Construction,Asphalt,,Composting,tonnes,kg CO2e,
+20_500_5194_15_1,Scope 3,Waste disposal,Construction,Asphalt,,Landfill,tonnes,kg CO2e,1.26338
+20_500_5195_15_1,Scope 3,Waste disposal,Construction,Asphalt,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5196_15_1,Scope 3,Waste disposal,Construction,Bricks,,Re-use,tonnes,kg CO2e,
+20_500_5197_15_1,Scope 3,Waste disposal,Construction,Bricks,,Open-loop,tonnes,kg CO2e,1.00835
+20_500_5198_15_1,Scope 3,Waste disposal,Construction,Bricks,,Closed-loop,tonnes,kg CO2e,
+20_500_5199_15_1,Scope 3,Waste disposal,Construction,Bricks,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5200_15_1,Scope 3,Waste disposal,Construction,Bricks,,Composting,tonnes,kg CO2e,
+20_500_5201_15_1,Scope 3,Waste disposal,Construction,Bricks,,Landfill,tonnes,kg CO2e,1.26338
+20_500_5202_15_1,Scope 3,Waste disposal,Construction,Bricks,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5203_15_1,Scope 3,Waste disposal,Construction,Concrete,,Re-use,tonnes,kg CO2e,
+20_500_5204_15_1,Scope 3,Waste disposal,Construction,Concrete,,Open-loop,tonnes,kg CO2e,1.00835
+20_500_5205_15_1,Scope 3,Waste disposal,Construction,Concrete,,Closed-loop,tonnes,kg CO2e,1.00835
+20_500_5206_15_1,Scope 3,Waste disposal,Construction,Concrete,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5207_15_1,Scope 3,Waste disposal,Construction,Concrete,,Composting,tonnes,kg CO2e,
+20_500_5208_15_1,Scope 3,Waste disposal,Construction,Concrete,,Landfill,tonnes,kg CO2e,1.26338
+20_500_5209_15_1,Scope 3,Waste disposal,Construction,Concrete,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5210_15_1,Scope 3,Waste disposal,Construction,Insulation,,Re-use,tonnes,kg CO2e,
+20_500_5211_15_1,Scope 3,Waste disposal,Construction,Insulation,,Open-loop,tonnes,kg CO2e,
+20_500_5212_15_1,Scope 3,Waste disposal,Construction,Insulation,,Closed-loop,tonnes,kg CO2e,1.00835
+20_500_5213_15_1,Scope 3,Waste disposal,Construction,Insulation,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5214_15_1,Scope 3,Waste disposal,Construction,Insulation,,Composting,tonnes,kg CO2e,
+20_500_5215_15_1,Scope 3,Waste disposal,Construction,Insulation,,Landfill,tonnes,kg CO2e,1.26338
+20_500_5216_15_1,Scope 3,Waste disposal,Construction,Insulation,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5217_15_1,Scope 3,Waste disposal,Construction,Metals,,Re-use,tonnes,kg CO2e,
+20_500_5218_15_1,Scope 3,Waste disposal,Construction,Metals,,Open-loop,tonnes,kg CO2e,
+20_500_5219_15_1,Scope 3,Waste disposal,Construction,Metals,,Closed-loop,tonnes,kg CO2e,1.00835
+20_500_5220_15_1,Scope 3,Waste disposal,Construction,Metals,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5221_15_1,Scope 3,Waste disposal,Construction,Metals,,Composting,tonnes,kg CO2e,
+20_500_5222_15_1,Scope 3,Waste disposal,Construction,Metals,,Landfill,tonnes,kg CO2e,1.26435
+20_500_5223_15_1,Scope 3,Waste disposal,Construction,Metals,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5224_15_1,Scope 3,Waste disposal,Construction,Soils,,Re-use,tonnes,kg CO2e,
+20_500_5225_15_1,Scope 3,Waste disposal,Construction,Soils,,Open-loop,tonnes,kg CO2e,
+20_500_5226_15_1,Scope 3,Waste disposal,Construction,Soils,,Closed-loop,tonnes,kg CO2e,1.00835
+20_500_5227_15_1,Scope 3,Waste disposal,Construction,Soils,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5228_15_1,Scope 3,Waste disposal,Construction,Soils,,Composting,tonnes,kg CO2e,
+20_500_5229_15_1,Scope 3,Waste disposal,Construction,Soils,,Landfill,tonnes,kg CO2e,19.54671
+20_500_5230_15_1,Scope 3,Waste disposal,Construction,Soils,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5231_15_1,Scope 3,Waste disposal,Construction,Mineral oil,,Re-use,tonnes,kg CO2e,
+20_500_5232_15_1,Scope 3,Waste disposal,Construction,Mineral oil,,Open-loop,tonnes,kg CO2e,
+20_500_5233_15_1,Scope 3,Waste disposal,Construction,Mineral oil,,Closed-loop,tonnes,kg CO2e,4.68568
+20_500_5234_15_1,Scope 3,Waste disposal,Construction,Mineral oil,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_500_5235_15_1,Scope 3,Waste disposal,Construction,Mineral oil,,Composting,tonnes,kg CO2e,
+20_500_5236_15_1,Scope 3,Waste disposal,Construction,Mineral oil,,Landfill,tonnes,kg CO2e,
+20_500_5237_15_1,Scope 3,Waste disposal,Construction,Mineral oil,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5238_15_1,Scope 3,Waste disposal,Construction,Plasterboard,,Re-use,tonnes,kg CO2e,
+20_500_5239_15_1,Scope 3,Waste disposal,Construction,Plasterboard,,Open-loop,tonnes,kg CO2e,
+20_500_5240_15_1,Scope 3,Waste disposal,Construction,Plasterboard,,Closed-loop,tonnes,kg CO2e,4.68568
+20_500_5241_15_1,Scope 3,Waste disposal,Construction,Plasterboard,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5242_15_1,Scope 3,Waste disposal,Construction,Plasterboard,,Composting,tonnes,kg CO2e,
+20_500_5243_15_1,Scope 3,Waste disposal,Construction,Plasterboard,,Landfill,tonnes,kg CO2e,71.95
+20_500_5244_15_1,Scope 3,Waste disposal,Construction,Plasterboard,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5245_15_1,Scope 3,Waste disposal,Construction,Tyres,,Re-use,tonnes,kg CO2e,
+20_500_5246_15_1,Scope 3,Waste disposal,Construction,Tyres,,Open-loop,tonnes,kg CO2e,
+20_500_5247_15_1,Scope 3,Waste disposal,Construction,Tyres,,Closed-loop,tonnes,kg CO2e,4.68568
+20_500_5248_15_1,Scope 3,Waste disposal,Construction,Tyres,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_500_5249_15_1,Scope 3,Waste disposal,Construction,Tyres,,Composting,tonnes,kg CO2e,
+20_500_5250_15_1,Scope 3,Waste disposal,Construction,Tyres,,Landfill,tonnes,kg CO2e,
+20_500_5251_15_1,Scope 3,Waste disposal,Construction,Tyres,,Anaerobic digestion,tonnes,kg CO2e,
+20_500_5252_15_1,Scope 3,Waste disposal,Construction,Wood,,Re-use,tonnes,kg CO2e,
+20_500_5253_15_1,Scope 3,Waste disposal,Construction,Wood,,Open-loop,tonnes,kg CO2e,
+20_500_5254_15_1,Scope 3,Waste disposal,Construction,Wood,,Closed-loop,tonnes,kg CO2e,4.68568
+20_500_5255_15_1,Scope 3,Waste disposal,Construction,Wood,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_500_5256_15_1,Scope 3,Waste disposal,Construction,Wood,,Composting,tonnes,kg CO2e,8.98311
+20_500_5257_15_1,Scope 3,Waste disposal,Construction,Wood,,Landfill,tonnes,kg CO2e,925.34348
+20_500_5258_15_1,Scope 3,Waste disposal,Construction,Wood,,Anaerobic digestion,tonnes,kg CO2e,
+20_501_5259_15_1,Scope 3,Waste disposal,Other,Books,,Re-use,tonnes,kg CO2e,
+20_501_5260_15_1,Scope 3,Waste disposal,Other,Books,,Open-loop,tonnes,kg CO2e,
+20_501_5261_15_1,Scope 3,Waste disposal,Other,Books,,Closed-loop,tonnes,kg CO2e,4.68568
+20_501_5262_15_1,Scope 3,Waste disposal,Other,Books,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_501_5263_15_1,Scope 3,Waste disposal,Other,Books,,Composting,tonnes,kg CO2e,8.98311
+20_501_5264_15_1,Scope 3,Waste disposal,Other,Books,,Landfill,tonnes,kg CO2e,1164.4894
+20_501_5265_15_1,Scope 3,Waste disposal,Other,Books,,Anaerobic digestion,tonnes,kg CO2e,
+20_501_5266_15_1,Scope 3,Waste disposal,Other,Glass,,Re-use,tonnes,kg CO2e,
+20_501_5267_15_1,Scope 3,Waste disposal,Other,Glass,,Open-loop,tonnes,kg CO2e,4.68568
+20_501_5268_15_1,Scope 3,Waste disposal,Other,Glass,,Closed-loop,tonnes,kg CO2e,4.68568
+20_501_5269_15_1,Scope 3,Waste disposal,Other,Glass,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_501_5270_15_1,Scope 3,Waste disposal,Other,Glass,,Composting,tonnes,kg CO2e,
+20_501_5271_15_1,Scope 3,Waste disposal,Other,Glass,,Landfill,tonnes,kg CO2e,8.98311
+20_501_5272_15_1,Scope 3,Waste disposal,Other,Glass,,Anaerobic digestion,tonnes,kg CO2e,
+20_501_5273_15_1,Scope 3,Waste disposal,Other,Clothing,,Re-use,tonnes,kg CO2e,
+20_501_5274_15_1,Scope 3,Waste disposal,Other,Clothing,,Open-loop,tonnes,kg CO2e,
+20_501_5275_15_1,Scope 3,Waste disposal,Other,Clothing,,Closed-loop,tonnes,kg CO2e,4.68568
+20_501_5276_15_1,Scope 3,Waste disposal,Other,Clothing,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_501_5277_15_1,Scope 3,Waste disposal,Other,Clothing,,Composting,tonnes,kg CO2e,
+20_501_5278_15_1,Scope 3,Waste disposal,Other,Clothing,,Landfill,tonnes,kg CO2e,496.78228
+20_501_5279_15_1,Scope 3,Waste disposal,Other,Clothing,,Anaerobic digestion,tonnes,kg CO2e,
+20_507_5280_15_1,Scope 3,Waste disposal,Refuse,Household residual waste,,Re-use,tonnes,kg CO2e,
+20_507_5281_15_1,Scope 3,Waste disposal,Refuse,Household residual waste,,Open-loop,tonnes,kg CO2e,
+20_507_5282_15_1,Scope 3,Waste disposal,Refuse,Household residual waste,,Closed-loop,tonnes,kg CO2e,
+20_507_5283_15_1,Scope 3,Waste disposal,Refuse,Household residual waste,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_507_5284_15_1,Scope 3,Waste disposal,Refuse,Household residual waste,,Composting,tonnes,kg CO2e,
+20_507_5285_15_1,Scope 3,Waste disposal,Refuse,Household residual waste,,Landfill,tonnes,kg CO2e,497.24244
+20_507_5286_15_1,Scope 3,Waste disposal,Refuse,Household residual waste,,Anaerobic digestion,tonnes,kg CO2e,
+20_507_5287_15_1,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,,Re-use,tonnes,kg CO2e,
+20_507_5288_15_1,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,,Open-loop,tonnes,kg CO2e,
+20_507_5289_15_1,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,,Closed-loop,tonnes,kg CO2e,
+20_507_5290_15_1,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_507_5291_15_1,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,,Composting,tonnes,kg CO2e,8.98311
+20_507_5292_15_1,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,,Landfill,tonnes,kg CO2e,700.30886
+20_507_5293_15_1,Scope 3,Waste disposal,Refuse,Organic: food and drink waste,,Anaerobic digestion,tonnes,kg CO2e,8.98311
+20_507_5294_15_1,Scope 3,Waste disposal,Refuse,Organic: garden waste,,Re-use,tonnes,kg CO2e,
+20_507_5295_15_1,Scope 3,Waste disposal,Refuse,Organic: garden waste,,Open-loop,tonnes,kg CO2e,
+20_507_5296_15_1,Scope 3,Waste disposal,Refuse,Organic: garden waste,,Closed-loop,tonnes,kg CO2e,
+20_507_5297_15_1,Scope 3,Waste disposal,Refuse,Organic: garden waste,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_507_5298_15_1,Scope 3,Waste disposal,Refuse,Organic: garden waste,,Composting,tonnes,kg CO2e,8.98311
+20_507_5299_15_1,Scope 3,Waste disposal,Refuse,Organic: garden waste,,Landfill,tonnes,kg CO2e,646.70557
+20_507_5300_15_1,Scope 3,Waste disposal,Refuse,Organic: garden waste,,Anaerobic digestion,tonnes,kg CO2e,8.98311
+20_507_5301_15_1,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,,Re-use,tonnes,kg CO2e,
+20_507_5302_15_1,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,,Open-loop,tonnes,kg CO2e,
+20_507_5303_15_1,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,,Closed-loop,tonnes,kg CO2e,
+20_507_5304_15_1,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_507_5305_15_1,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,,Composting,tonnes,kg CO2e,8.98311
+20_507_5306_15_1,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,,Landfill,tonnes,kg CO2e,656.08614
+20_507_5307_15_1,Scope 3,Waste disposal,Refuse,Organic: mixed food and garden waste,,Anaerobic digestion,tonnes,kg CO2e,8.98311
+20_507_5308_15_1,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,,Re-use,tonnes,kg CO2e,
+20_507_5309_15_1,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,,Open-loop,tonnes,kg CO2e,
+20_507_5310_15_1,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,,Closed-loop,tonnes,kg CO2e,
+20_507_5311_15_1,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_507_5312_15_1,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,,Composting,tonnes,kg CO2e,
+20_507_5313_15_1,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,,Landfill,tonnes,kg CO2e,520.5327
+20_507_5314_15_1,Scope 3,Waste disposal,Refuse,Commercial and industrial waste,,Anaerobic digestion,tonnes,kg CO2e,
+20_503_5315_15_1,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,,Re-use,tonnes,kg CO2e,
+20_503_5316_15_1,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,,Open-loop,tonnes,kg CO2e,4.68568
+20_503_5317_15_1,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,,Closed-loop,tonnes,kg CO2e,
+20_503_5318_15_1,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_503_5319_15_1,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,,Composting,tonnes,kg CO2e,
+20_503_5320_15_1,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,,Landfill,tonnes,kg CO2e,8.98311
+20_503_5321_15_1,Scope 3,Waste disposal,Electrical items,WEEE - fridges and freezers,,Anaerobic digestion,tonnes,kg CO2e,
+20_503_5322_15_1,Scope 3,Waste disposal,Electrical items,WEEE - large,,Re-use,tonnes,kg CO2e,
+20_503_5323_15_1,Scope 3,Waste disposal,Electrical items,WEEE - large,,Open-loop,tonnes,kg CO2e,4.68568
+20_503_5324_15_1,Scope 3,Waste disposal,Electrical items,WEEE - large,,Closed-loop,tonnes,kg CO2e,
+20_503_5325_15_1,Scope 3,Waste disposal,Electrical items,WEEE - large,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_503_5326_15_1,Scope 3,Waste disposal,Electrical items,WEEE - large,,Composting,tonnes,kg CO2e,
+20_503_5327_15_1,Scope 3,Waste disposal,Electrical items,WEEE - large,,Landfill,tonnes,kg CO2e,8.98311
+20_503_5328_15_1,Scope 3,Waste disposal,Electrical items,WEEE - large,,Anaerobic digestion,tonnes,kg CO2e,
+20_503_5329_15_1,Scope 3,Waste disposal,Electrical items,WEEE - mixed,,Re-use,tonnes,kg CO2e,
+20_503_5330_15_1,Scope 3,Waste disposal,Electrical items,WEEE - mixed,,Open-loop,tonnes,kg CO2e,4.68568
+20_503_5331_15_1,Scope 3,Waste disposal,Electrical items,WEEE - mixed,,Closed-loop,tonnes,kg CO2e,
+20_503_5332_15_1,Scope 3,Waste disposal,Electrical items,WEEE - mixed,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_503_5333_15_1,Scope 3,Waste disposal,Electrical items,WEEE - mixed,,Composting,tonnes,kg CO2e,
+20_503_5334_15_1,Scope 3,Waste disposal,Electrical items,WEEE - mixed,,Landfill,tonnes,kg CO2e,8.98311
+20_503_5335_15_1,Scope 3,Waste disposal,Electrical items,WEEE - mixed,,Anaerobic digestion,tonnes,kg CO2e,
+20_503_5336_15_1,Scope 3,Waste disposal,Electrical items,WEEE - small,,Re-use,tonnes,kg CO2e,
+20_503_5337_15_1,Scope 3,Waste disposal,Electrical items,WEEE - small,,Open-loop,tonnes,kg CO2e,4.68568
+20_503_5338_15_1,Scope 3,Waste disposal,Electrical items,WEEE - small,,Closed-loop,tonnes,kg CO2e,
+20_503_5339_15_1,Scope 3,Waste disposal,Electrical items,WEEE - small,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_503_5340_15_1,Scope 3,Waste disposal,Electrical items,WEEE - small,,Composting,tonnes,kg CO2e,
+20_503_5341_15_1,Scope 3,Waste disposal,Electrical items,WEEE - small,,Landfill,tonnes,kg CO2e,8.98311
+20_503_5342_15_1,Scope 3,Waste disposal,Electrical items,WEEE - small,,Anaerobic digestion,tonnes,kg CO2e,
+20_503_5343_15_1,Scope 3,Waste disposal,Electrical items,Batteries,,Re-use,tonnes,kg CO2e,
+20_503_5344_15_1,Scope 3,Waste disposal,Electrical items,Batteries,,Open-loop,tonnes,kg CO2e,4.68568
+20_503_5345_15_1,Scope 3,Waste disposal,Electrical items,Batteries,,Closed-loop,tonnes,kg CO2e,
+20_503_5346_15_1,Scope 3,Waste disposal,Electrical items,Batteries,,Incineration with Energy Recovery,tonnes,kg CO2e,
+20_503_5347_15_1,Scope 3,Waste disposal,Electrical items,Batteries,,Composting,tonnes,kg CO2e,
+20_503_5348_15_1,Scope 3,Waste disposal,Electrical items,Batteries,,Landfill,tonnes,kg CO2e,8.98311
+20_503_5349_15_1,Scope 3,Waste disposal,Electrical items,Batteries,,Anaerobic digestion,tonnes,kg CO2e,
+20_504_5350_15_1,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),,Re-use,tonnes,kg CO2e,
+20_504_5351_15_1,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),,Open-loop,tonnes,kg CO2e,4.68568
+20_504_5352_15_1,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),,Closed-loop,tonnes,kg CO2e,4.68568
+20_504_5353_15_1,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_504_5354_15_1,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),,Composting,tonnes,kg CO2e,
+20_504_5355_15_1,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),,Landfill,tonnes,kg CO2e,8.98311
+20_504_5356_15_1,Scope 3,Waste disposal,Metal,Metal: aluminium cans and foil (excl. forming),,Anaerobic digestion,tonnes,kg CO2e,
+20_504_5357_15_1,Scope 3,Waste disposal,Metal,Metal: mixed cans,,Re-use,tonnes,kg CO2e,
+20_504_5358_15_1,Scope 3,Waste disposal,Metal,Metal: mixed cans,,Open-loop,tonnes,kg CO2e,4.68568
+20_504_5359_15_1,Scope 3,Waste disposal,Metal,Metal: mixed cans,,Closed-loop,tonnes,kg CO2e,4.68568
+20_504_5360_15_1,Scope 3,Waste disposal,Metal,Metal: mixed cans,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_504_5361_15_1,Scope 3,Waste disposal,Metal,Metal: mixed cans,,Composting,tonnes,kg CO2e,
+20_504_5362_15_1,Scope 3,Waste disposal,Metal,Metal: mixed cans,,Landfill,tonnes,kg CO2e,8.98311
+20_504_5363_15_1,Scope 3,Waste disposal,Metal,Metal: mixed cans,,Anaerobic digestion,tonnes,kg CO2e,
+20_504_5364_15_1,Scope 3,Waste disposal,Metal,Metal: scrap metal,,Re-use,tonnes,kg CO2e,
+20_504_5365_15_1,Scope 3,Waste disposal,Metal,Metal: scrap metal,,Open-loop,tonnes,kg CO2e,4.68568
+20_504_5366_15_1,Scope 3,Waste disposal,Metal,Metal: scrap metal,,Closed-loop,tonnes,kg CO2e,4.68568
+20_504_5367_15_1,Scope 3,Waste disposal,Metal,Metal: scrap metal,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_504_5368_15_1,Scope 3,Waste disposal,Metal,Metal: scrap metal,,Composting,tonnes,kg CO2e,
+20_504_5369_15_1,Scope 3,Waste disposal,Metal,Metal: scrap metal,,Landfill,tonnes,kg CO2e,8.98311
+20_504_5370_15_1,Scope 3,Waste disposal,Metal,Metal: scrap metal,,Anaerobic digestion,tonnes,kg CO2e,
+20_504_5371_15_1,Scope 3,Waste disposal,Metal,Metal: steel cans,,Re-use,tonnes,kg CO2e,
+20_504_5372_15_1,Scope 3,Waste disposal,Metal,Metal: steel cans,,Open-loop,tonnes,kg CO2e,4.68568
+20_504_5373_15_1,Scope 3,Waste disposal,Metal,Metal: steel cans,,Closed-loop,tonnes,kg CO2e,4.68568
+20_504_5374_15_1,Scope 3,Waste disposal,Metal,Metal: steel cans,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_504_5375_15_1,Scope 3,Waste disposal,Metal,Metal: steel cans,,Composting,tonnes,kg CO2e,
+20_504_5376_15_1,Scope 3,Waste disposal,Metal,Metal: steel cans,,Landfill,tonnes,kg CO2e,8.98311
+20_504_5377_15_1,Scope 3,Waste disposal,Metal,Metal: steel cans,,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5378_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastics,,Re-use,tonnes,kg CO2e,
+20_505_5379_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastics,,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5380_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastics,,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5381_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastics,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5382_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastics,,Composting,tonnes,kg CO2e,
+20_505_5383_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastics,,Landfill,tonnes,kg CO2e,8.98311
+20_505_5384_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastics,,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5385_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,,Re-use,tonnes,kg CO2e,
+20_505_5386_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5387_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5388_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5389_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,,Composting,tonnes,kg CO2e,
+20_505_5390_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,,Landfill,tonnes,kg CO2e,8.98311
+20_505_5391_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic film,,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5392_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,,Re-use,tonnes,kg CO2e,
+20_505_5393_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5394_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5395_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5396_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,,Composting,tonnes,kg CO2e,
+20_505_5397_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,,Landfill,tonnes,kg CO2e,8.98311
+20_505_5398_15_1,Scope 3,Waste disposal,Plastic,Plastics: average plastic rigid,,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5399_15_1,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),,Re-use,tonnes,kg CO2e,
+20_505_5400_15_1,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5401_15_1,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5402_15_1,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5403_15_1,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),,Composting,tonnes,kg CO2e,
+20_505_5404_15_1,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),,Landfill,tonnes,kg CO2e,8.98311
+20_505_5405_15_1,Scope 3,Waste disposal,Plastic,Plastics: HDPE (incl. forming),,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5406_15_1,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Re-use,tonnes,kg CO2e,
+20_505_5407_15_1,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5408_15_1,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5409_15_1,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5410_15_1,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Composting,tonnes,kg CO2e,
+20_505_5411_15_1,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Landfill,tonnes,kg CO2e,8.98311
+20_505_5412_15_1,Scope 3,Waste disposal,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5413_15_1,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),,Re-use,tonnes,kg CO2e,
+20_505_5414_15_1,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5415_15_1,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5416_15_1,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5417_15_1,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),,Composting,tonnes,kg CO2e,
+20_505_5418_15_1,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),,Landfill,tonnes,kg CO2e,8.98311
+20_505_5419_15_1,Scope 3,Waste disposal,Plastic,Plastics: PET (incl. forming),,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5420_15_1,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),,Re-use,tonnes,kg CO2e,
+20_505_5421_15_1,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5422_15_1,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5423_15_1,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5424_15_1,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),,Composting,tonnes,kg CO2e,
+20_505_5425_15_1,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),,Landfill,tonnes,kg CO2e,8.98311
+20_505_5426_15_1,Scope 3,Waste disposal,Plastic,Plastics: PP (incl. forming),,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5427_15_1,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),,Re-use,tonnes,kg CO2e,
+20_505_5428_15_1,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5429_15_1,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5430_15_1,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5431_15_1,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),,Composting,tonnes,kg CO2e,
+20_505_5432_15_1,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),,Landfill,tonnes,kg CO2e,8.98311
+20_505_5433_15_1,Scope 3,Waste disposal,Plastic,Plastics: PS (incl. forming),,Anaerobic digestion,tonnes,kg CO2e,
+20_505_5434_15_1,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),,Re-use,tonnes,kg CO2e,
+20_505_5435_15_1,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),,Open-loop,tonnes,kg CO2e,4.68568
+20_505_5436_15_1,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),,Closed-loop,tonnes,kg CO2e,4.68568
+20_505_5437_15_1,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_505_5438_15_1,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),,Composting,tonnes,kg CO2e,
+20_505_5439_15_1,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),,Landfill,tonnes,kg CO2e,8.98311
+20_505_5440_15_1,Scope 3,Waste disposal,Plastic,Plastics: PVC (incl. forming),,Anaerobic digestion,tonnes,kg CO2e,
+20_506_5441_15_1,Scope 3,Waste disposal,Paper,Paper and board: board,,Re-use,tonnes,kg CO2e,
+20_506_5442_15_1,Scope 3,Waste disposal,Paper,Paper and board: board,,Open-loop,tonnes,kg CO2e,
+20_506_5443_15_1,Scope 3,Waste disposal,Paper,Paper and board: board,,Closed-loop,tonnes,kg CO2e,4.68568
+20_506_5444_15_1,Scope 3,Waste disposal,Paper,Paper and board: board,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_506_5445_15_1,Scope 3,Waste disposal,Paper,Paper and board: board,,Composting,tonnes,kg CO2e,8.98311
+20_506_5446_15_1,Scope 3,Waste disposal,Paper,Paper and board: board,,Landfill,tonnes,kg CO2e,1164.4894
+20_506_5447_15_1,Scope 3,Waste disposal,Paper,Paper and board: board,,Anaerobic digestion,tonnes,kg CO2e,
+20_506_5448_15_1,Scope 3,Waste disposal,Paper,Paper and board: mixed,,Re-use,tonnes,kg CO2e,
+20_506_5449_15_1,Scope 3,Waste disposal,Paper,Paper and board: mixed,,Open-loop,tonnes,kg CO2e,
+20_506_5450_15_1,Scope 3,Waste disposal,Paper,Paper and board: mixed,,Closed-loop,tonnes,kg CO2e,4.68568
+20_506_5451_15_1,Scope 3,Waste disposal,Paper,Paper and board: mixed,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_506_5452_15_1,Scope 3,Waste disposal,Paper,Paper and board: mixed,,Composting,tonnes,kg CO2e,8.98311
+20_506_5453_15_1,Scope 3,Waste disposal,Paper,Paper and board: mixed,,Landfill,tonnes,kg CO2e,1164.4894
+20_506_5454_15_1,Scope 3,Waste disposal,Paper,Paper and board: mixed,,Anaerobic digestion,tonnes,kg CO2e,
+20_506_5455_15_1,Scope 3,Waste disposal,Paper,Paper and board: paper,,Re-use,tonnes,kg CO2e,
+20_506_5456_15_1,Scope 3,Waste disposal,Paper,Paper and board: paper,,Open-loop,tonnes,kg CO2e,
+20_506_5457_15_1,Scope 3,Waste disposal,Paper,Paper and board: paper,,Closed-loop,tonnes,kg CO2e,4.68568
+20_506_5458_15_1,Scope 3,Waste disposal,Paper,Paper and board: paper,,Incineration with Energy Recovery,tonnes,kg CO2e,4.68568
+20_506_5459_15_1,Scope 3,Waste disposal,Paper,Paper and board: paper,,Composting,tonnes,kg CO2e,8.98311
+20_506_5460_15_1,Scope 3,Waste disposal,Paper,Paper and board: paper,,Landfill,tonnes,kg CO2e,1164.4894
+20_506_5461_15_1,Scope 3,Waste disposal,Paper,Paper and board: paper,,Anaerobic digestion,tonnes,kg CO2e,

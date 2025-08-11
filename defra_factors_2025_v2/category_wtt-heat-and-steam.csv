@@ -1,0 +1,4 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+16_919_4002_5_1,Scope 3,WTT- heat and steam,WTT- heat and steam,Onsite heat and steam,kWh,,kWh,kg CO2e,0.03341
+16_919_4003_5_1,Scope 3,WTT- heat and steam,WTT- heat and steam,District heat and steam,kWh,,kWh,kg CO2e,0.03341
+16_920_4004_5_1,Scope 3,WTT- heat and steam,WTT- district heat & steam distribution,5% loss,kWh,,kWh,kg CO2e,0.00176

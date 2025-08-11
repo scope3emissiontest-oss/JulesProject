@@ -1,0 +1,1353 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+27_303_3081_14_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,tonne.km,kg CO2e,0.87423
+27_303_3081_14_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,tonne.km,kg CO2e of CO2 per unit,0.86501
+27_303_3081_14_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_303_3081_14_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,tonne.km,kg CO2e of N2O per unit,0.00919
+27_303_3082_14_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,tonne.km,kg CO2e,1.42906
+27_303_3082_14_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,tonne.km,kg CO2e of CO2 per unit,1.42528
+27_303_3082_14_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,tonne.km,kg CO2e of CH4 per unit,0.00143
+27_303_3082_14_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,tonne.km,kg CO2e of N2O per unit,0.00235
+27_303_3083_14_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,tonne.km,kg CO2e,
+27_303_3083_14_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,tonne.km,kg CO2e of CO2 per unit,
+27_303_3083_14_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,tonne.km,kg CO2e of CH4 per unit,
+27_303_3083_14_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,tonne.km,kg CO2e of N2O per unit,
+27_303_3084_14_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,tonne.km,kg CO2e,
+27_303_3084_14_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,tonne.km,kg CO2e of CO2 per unit,
+27_303_3084_14_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,tonne.km,kg CO2e of CH4 per unit,
+27_303_3084_14_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,tonne.km,kg CO2e of N2O per unit,
+27_303_3085_14_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,tonne.km,kg CO2e,
+27_303_3085_14_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,tonne.km,kg CO2e of CO2 per unit,
+27_303_3085_14_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,tonne.km,kg CO2e of CH4 per unit,
+27_303_3085_14_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,tonne.km,kg CO2e of N2O per unit,
+27_303_3086_14_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,
+27_303_3086_14_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,
+27_303_3086_14_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,
+27_303_3086_14_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,
+27_303_3087_14_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.12474
+27_303_3087_14_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.12288
+27_303_3087_14_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00078
+27_303_3087_14_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00108
+27_303_3081_4_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e,0.15738
+27_303_3081_4_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.15572
+27_303_3081_4_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+27_303_3081_4_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+27_303_3082_4_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e,0.20188
+27_303_3082_4_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.20118
+27_303_3082_4_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+27_303_3082_4_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+27_303_3083_4_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e,
+27_303_3083_4_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e of CO2 per unit,
+27_303_3083_4_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e of CH4 per unit,
+27_303_3083_4_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e of N2O per unit,
+27_303_3084_4_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e,
+27_303_3084_4_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e of CO2 per unit,
+27_303_3084_4_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e of CH4 per unit,
+27_303_3084_4_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e of N2O per unit,
+27_303_3085_4_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e,
+27_303_3085_4_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e of CO2 per unit,
+27_303_3085_4_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e of CH4 per unit,
+27_303_3085_4_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e of N2O per unit,
+27_303_3086_4_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+27_303_3086_4_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+27_303_3086_4_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+27_303_3086_4_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+27_303_3087_4_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.03798
+27_303_3087_4_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03759
+27_303_3087_4_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00017
+27_303_3087_4_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00022
+27_303_3081_9_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,miles,kg CO2e,0.25329
+27_303_3081_9_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,miles,kg CO2e of CO2 per unit,0.25061
+27_303_3081_9_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+27_303_3081_9_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Diesel,miles,kg CO2e of N2O per unit,0.00267
+27_303_3082_9_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,miles,kg CO2e,0.3249
+27_303_3082_9_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,miles,kg CO2e of CO2 per unit,0.32377
+27_303_3082_9_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,miles,kg CO2e of CH4 per unit,0.00043
+27_303_3082_9_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Petrol,miles,kg CO2e of N2O per unit,0.0007
+27_303_3083_9_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,miles,kg CO2e,
+27_303_3083_9_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,miles,kg CO2e of CO2 per unit,
+27_303_3083_9_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,miles,kg CO2e of CH4 per unit,
+27_303_3083_9_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,CNG,miles,kg CO2e of N2O per unit,
+27_303_3084_9_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,miles,kg CO2e,
+27_303_3084_9_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,miles,kg CO2e of CO2 per unit,
+27_303_3084_9_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,miles,kg CO2e of CH4 per unit,
+27_303_3084_9_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,LPG,miles,kg CO2e of N2O per unit,
+27_303_3085_9_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,miles,kg CO2e,
+27_303_3085_9_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,miles,kg CO2e of CO2 per unit,
+27_303_3085_9_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,miles,kg CO2e of CH4 per unit,
+27_303_3085_9_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Unknown,miles,kg CO2e of N2O per unit,
+27_303_3086_9_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+27_303_3086_9_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+27_303_3086_9_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+27_303_3086_9_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+27_303_3087_9_1,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.06113
+27_303_3087_9_2,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0605
+27_303_3087_9_3,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00027
+27_303_3087_9_4,Scope 3,Freighting goods,Vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00036
+27_303_3088_14_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,tonne.km,kg CO2e,0.62562
+27_303_3088_14_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,tonne.km,kg CO2e of CO2 per unit,0.61993
+27_303_3088_14_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_303_3088_14_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,tonne.km,kg CO2e of N2O per unit,0.00568
+27_303_3089_14_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,tonne.km,kg CO2e,0.81534
+27_303_3089_14_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,tonne.km,kg CO2e of CO2 per unit,0.81277
+27_303_3089_14_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,tonne.km,kg CO2e of CH4 per unit,0.00097
+27_303_3089_14_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,tonne.km,kg CO2e of N2O per unit,0.00159
+27_303_3090_14_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,tonne.km,kg CO2e,
+27_303_3090_14_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,tonne.km,kg CO2e of CO2 per unit,
+27_303_3090_14_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,tonne.km,kg CO2e of CH4 per unit,
+27_303_3090_14_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,tonne.km,kg CO2e of N2O per unit,
+27_303_3091_14_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,tonne.km,kg CO2e,
+27_303_3091_14_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,tonne.km,kg CO2e of CO2 per unit,
+27_303_3091_14_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,tonne.km,kg CO2e of CH4 per unit,
+27_303_3091_14_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,tonne.km,kg CO2e of N2O per unit,
+27_303_3092_14_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,tonne.km,kg CO2e,
+27_303_3092_14_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,tonne.km,kg CO2e of CO2 per unit,
+27_303_3092_14_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,tonne.km,kg CO2e of CH4 per unit,
+27_303_3092_14_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,tonne.km,kg CO2e of N2O per unit,
+27_303_3093_14_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,
+27_303_3093_14_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,
+27_303_3093_14_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,
+27_303_3093_14_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,
+27_303_3094_14_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.24915
+27_303_3094_14_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.24671
+27_303_3094_14_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00103
+27_303_3094_14_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00141
+27_303_3088_4_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e,0.1926
+27_303_3088_4_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.19094
+27_303_3088_4_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+27_303_3088_4_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+27_303_3089_4_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e,0.20874
+27_303_3089_4_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.20804
+27_303_3089_4_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+27_303_3089_4_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+27_303_3090_4_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e,
+27_303_3090_4_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e of CO2 per unit,
+27_303_3090_4_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e of CH4 per unit,
+27_303_3090_4_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e of N2O per unit,
+27_303_3091_4_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e,
+27_303_3091_4_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e of CO2 per unit,
+27_303_3091_4_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e of CH4 per unit,
+27_303_3091_4_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e of N2O per unit,
+27_303_3092_4_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e,
+27_303_3092_4_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e of CO2 per unit,
+27_303_3092_4_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e of CH4 per unit,
+27_303_3092_4_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e of N2O per unit,
+27_303_3093_4_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+27_303_3093_4_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+27_303_3093_4_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+27_303_3093_4_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+27_303_3094_4_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.05777
+27_303_3094_4_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.05723
+27_303_3094_4_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+27_303_3094_4_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+27_303_3088_9_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,miles,kg CO2e,0.30996
+27_303_3088_9_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,miles,kg CO2e of CO2 per unit,0.30728
+27_303_3088_9_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+27_303_3088_9_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Diesel,miles,kg CO2e of N2O per unit,0.00267
+27_303_3089_9_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,miles,kg CO2e,0.33594
+27_303_3089_9_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,miles,kg CO2e of CO2 per unit,0.33481
+27_303_3089_9_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,miles,kg CO2e of CH4 per unit,0.00043
+27_303_3089_9_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Petrol,miles,kg CO2e of N2O per unit,0.0007
+27_303_3090_9_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,miles,kg CO2e,
+27_303_3090_9_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,miles,kg CO2e of CO2 per unit,
+27_303_3090_9_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,miles,kg CO2e of CH4 per unit,
+27_303_3090_9_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,CNG,miles,kg CO2e of N2O per unit,
+27_303_3091_9_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,miles,kg CO2e,
+27_303_3091_9_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,miles,kg CO2e of CO2 per unit,
+27_303_3091_9_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,miles,kg CO2e of CH4 per unit,
+27_303_3091_9_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,LPG,miles,kg CO2e of N2O per unit,
+27_303_3092_9_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,miles,kg CO2e,
+27_303_3092_9_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,miles,kg CO2e of CO2 per unit,
+27_303_3092_9_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,miles,kg CO2e of CH4 per unit,
+27_303_3092_9_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Unknown,miles,kg CO2e of N2O per unit,
+27_303_3093_9_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+27_303_3093_9_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+27_303_3093_9_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+27_303_3093_9_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+27_303_3094_9_1,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.09298
+27_303_3094_9_2,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0921
+27_303_3094_9_3,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00037
+27_303_3094_9_4,Scope 3,Freighting goods,Vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00051
+27_303_3095_14_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,tonne.km,kg CO2e,0.62849
+27_303_3095_14_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,tonne.km,kg CO2e of CO2 per unit,0.62478
+27_303_3095_14_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_303_3095_14_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,tonne.km,kg CO2e of N2O per unit,0.0037
+27_303_3096_14_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,tonne.km,kg CO2e,0.83593
+27_303_3096_14_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,tonne.km,kg CO2e of CO2 per unit,0.83418
+27_303_3096_14_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,tonne.km,kg CO2e of CH4 per unit,0.00066
+27_303_3096_14_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,tonne.km,kg CO2e of N2O per unit,0.00108
+27_303_3097_14_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,tonne.km,kg CO2e,
+27_303_3097_14_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,tonne.km,kg CO2e of CO2 per unit,
+27_303_3097_14_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,tonne.km,kg CO2e of CH4 per unit,
+27_303_3097_14_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,tonne.km,kg CO2e of N2O per unit,
+27_303_3098_14_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,tonne.km,kg CO2e,
+27_303_3098_14_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,tonne.km,kg CO2e of CO2 per unit,
+27_303_3098_14_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,tonne.km,kg CO2e of CH4 per unit,
+27_303_3098_14_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,tonne.km,kg CO2e of N2O per unit,
+27_303_3099_14_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,tonne.km,kg CO2e,
+27_303_3099_14_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,tonne.km,kg CO2e of CO2 per unit,
+27_303_3099_14_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,tonne.km,kg CO2e of CH4 per unit,
+27_303_3099_14_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,tonne.km,kg CO2e of N2O per unit,
+27_303_3100_14_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,0.36985
+27_303_3100_14_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.36487
+27_303_3100_14_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00022
+27_303_3100_14_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00476
+27_303_3101_14_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.20519
+27_303_3101_14_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.20291
+27_303_3101_14_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00096
+27_303_3101_14_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00132
+27_303_3095_4_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e,0.27878
+27_303_3095_4_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.27712
+27_303_3095_4_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+27_303_3095_4_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+27_303_3096_4_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e,0.33845
+27_303_3096_4_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.33775
+27_303_3096_4_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+27_303_3096_4_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+27_303_3097_4_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e,
+27_303_3097_4_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e of CO2 per unit,
+27_303_3097_4_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e of CH4 per unit,
+27_303_3097_4_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e of N2O per unit,
+27_303_3098_4_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e,
+27_303_3098_4_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e of CO2 per unit,
+27_303_3098_4_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e of CH4 per unit,
+27_303_3098_4_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e of N2O per unit,
+27_303_3099_4_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e,
+27_303_3099_4_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e of CO2 per unit,
+27_303_3099_4_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e of CH4 per unit,
+27_303_3099_4_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e of N2O per unit,
+27_303_3100_4_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.14592
+27_303_3100_4_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.14395
+27_303_3100_4_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00009
+27_303_3100_4_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00189
+27_303_3101_4_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.07609
+27_303_3101_4_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.07533
+27_303_3101_4_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00032
+27_303_3101_4_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00044
+27_303_3095_9_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,miles,kg CO2e,0.44866
+27_303_3095_9_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,miles,kg CO2e of CO2 per unit,0.44598
+27_303_3095_9_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+27_303_3095_9_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Diesel,miles,kg CO2e of N2O per unit,0.00267
+27_303_3096_9_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,miles,kg CO2e,0.54468
+27_303_3096_9_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,miles,kg CO2e of CO2 per unit,0.54355
+27_303_3096_9_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,miles,kg CO2e of CH4 per unit,0.00043
+27_303_3096_9_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Petrol,miles,kg CO2e of N2O per unit,0.0007
+27_303_3097_9_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,miles,kg CO2e,
+27_303_3097_9_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,miles,kg CO2e of CO2 per unit,
+27_303_3097_9_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,miles,kg CO2e of CH4 per unit,
+27_303_3097_9_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,CNG,miles,kg CO2e of N2O per unit,
+27_303_3098_9_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,miles,kg CO2e,
+27_303_3098_9_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,miles,kg CO2e of CO2 per unit,
+27_303_3098_9_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,miles,kg CO2e of CH4 per unit,
+27_303_3098_9_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,LPG,miles,kg CO2e of N2O per unit,
+27_303_3099_9_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,miles,kg CO2e,
+27_303_3099_9_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,miles,kg CO2e of CO2 per unit,
+27_303_3099_9_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,miles,kg CO2e of CH4 per unit,
+27_303_3099_9_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Unknown,miles,kg CO2e of N2O per unit,
+27_303_3100_9_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.23485
+27_303_3100_9_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.23166
+27_303_3100_9_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00015
+27_303_3100_9_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00304
+27_303_3101_9_1,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.12246
+27_303_3101_9_2,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.12124
+27_303_3101_9_3,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00052
+27_303_3101_9_4,Scope 3,Freighting goods,Vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.0007
+27_303_3102_14_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,tonne.km,kg CO2e,0.6313
+27_303_3102_14_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,tonne.km,kg CO2e of CO2 per unit,0.62715
+27_303_3102_14_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_303_3102_14_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,tonne.km,kg CO2e of N2O per unit,0.00414
+27_303_3103_14_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,tonne.km,kg CO2e,0.85537
+27_303_3103_14_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,tonne.km,kg CO2e of CO2 per unit,0.85297
+27_303_3103_14_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,tonne.km,kg CO2e of CH4 per unit,0.00091
+27_303_3103_14_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,tonne.km,kg CO2e of N2O per unit,0.00149
+27_303_3104_14_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,tonne.km,kg CO2e,0.62419
+27_303_3104_14_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,tonne.km,kg CO2e of CO2 per unit,0.61964
+27_303_3104_14_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,tonne.km,kg CO2e of CH4 per unit,0.0033
+27_303_3104_14_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,tonne.km,kg CO2e of N2O per unit,0.00124
+27_303_3105_14_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,tonne.km,kg CO2e,0.68621
+27_303_3105_14_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,tonne.km,kg CO2e of CO2 per unit,0.68486
+27_303_3105_14_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,tonne.km,kg CO2e of CH4 per unit,0.0001
+27_303_3105_14_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,tonne.km,kg CO2e of N2O per unit,0.00124
+27_303_3106_14_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,tonne.km,kg CO2e,0.63823
+27_303_3106_14_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,tonne.km,kg CO2e of CO2 per unit,0.63415
+27_303_3106_14_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,tonne.km,kg CO2e of CH4 per unit,0.00003
+27_303_3106_14_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,tonne.km,kg CO2e of N2O per unit,0.00405
+27_303_3107_14_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e,0.36985
+27_303_3107_14_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.36487
+27_303_3107_14_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00022
+27_303_3107_14_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00476
+27_303_3108_14_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e,0.21992
+27_303_3108_14_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CO2 per unit,0.21748
+27_303_3108_14_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of CH4 per unit,0.00103
+27_303_3108_14_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,tonne.km,kg CO2e of N2O per unit,0.00141
+27_303_3102_4_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e,0.25561
+27_303_3102_4_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.25395
+27_303_3102_4_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+27_303_3102_4_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+27_303_3103_4_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e,0.21335
+27_303_3103_4_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.21265
+27_303_3103_4_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+27_303_3103_4_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+27_303_3104_4_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e,0.25113
+27_303_3104_4_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e of CO2 per unit,0.24931
+27_303_3104_4_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e of CH4 per unit,0.00132
+27_303_3104_4_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e of N2O per unit,0.0005
+27_303_3105_4_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e,0.2761
+27_303_3105_4_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e of CO2 per unit,0.27556
+27_303_3105_4_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e of CH4 per unit,0.00004
+27_303_3105_4_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e of N2O per unit,0.0005
+27_303_3106_4_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e,0.2543
+27_303_3106_4_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e of CO2 per unit,0.25267
+27_303_3106_4_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e of CH4 per unit,0.00001
+27_303_3106_4_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e of N2O per unit,0.00162
+27_303_3107_4_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.14592
+27_303_3107_4_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.14395
+27_303_3107_4_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00009
+27_303_3107_4_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00189
+27_303_3108_4_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.06976
+27_303_3108_4_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.06922
+27_303_3108_4_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+27_303_3108_4_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+27_303_3102_9_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,miles,kg CO2e,0.41138
+27_303_3102_9_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,miles,kg CO2e of CO2 per unit,0.4087
+27_303_3102_9_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+27_303_3102_9_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Diesel,miles,kg CO2e of N2O per unit,0.00267
+27_303_3103_9_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,miles,kg CO2e,0.34336
+27_303_3103_9_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,miles,kg CO2e of CO2 per unit,0.34223
+27_303_3103_9_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,miles,kg CO2e of CH4 per unit,0.00043
+27_303_3103_9_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Petrol,miles,kg CO2e of N2O per unit,0.0007
+27_303_3104_9_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,miles,kg CO2e,0.40415
+27_303_3104_9_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,miles,kg CO2e of CO2 per unit,0.40123
+27_303_3104_9_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,miles,kg CO2e of CH4 per unit,0.00212
+27_303_3104_9_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,CNG,miles,kg CO2e of N2O per unit,0.0008
+27_303_3105_9_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,miles,kg CO2e,0.44433
+27_303_3105_9_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,miles,kg CO2e of CO2 per unit,0.44346
+27_303_3105_9_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,miles,kg CO2e of CH4 per unit,0.00007
+27_303_3105_9_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,LPG,miles,kg CO2e of N2O per unit,0.0008
+27_303_3106_9_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,miles,kg CO2e,0.40926
+27_303_3106_9_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,miles,kg CO2e of CO2 per unit,0.40664
+27_303_3106_9_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,miles,kg CO2e of CH4 per unit,0.00002
+27_303_3106_9_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Unknown,miles,kg CO2e of N2O per unit,0.0026
+27_303_3107_9_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.23485
+27_303_3107_9_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.23166
+27_303_3107_9_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00015
+27_303_3107_9_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00304
+27_303_3108_9_1,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e,0.11228
+27_303_3108_9_2,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.1114
+27_303_3108_9_3,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00037
+27_303_3108_9_4,Scope 3,Freighting goods,Vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00051
+27_304_3109_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e,
+27_304_3109_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3109_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3109_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3110_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e,0.45916
+27_304_3110_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.45411
+27_304_3110_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.0001
+27_304_3110_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00495
+27_304_3111_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e,0.24776
+27_304_3111_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.24522
+27_304_3111_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_304_3111_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00248
+27_304_3112_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e,0.52761
+27_304_3112_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.52212
+27_304_3112_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00011
+27_304_3112_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00538
+27_304_3109_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e,0.46138
+27_304_3109_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.45595
+27_304_3109_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00011
+27_304_3109_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00532
+27_304_3110_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e,0.50103
+27_304_3110_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.4956
+27_304_3110_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00011
+27_304_3110_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00532
+27_304_3111_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e,0.54068
+27_304_3111_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.53525
+27_304_3111_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00011
+27_304_3111_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00532
+27_304_3112_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e,0.49548
+27_304_3112_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.49005
+27_304_3112_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00011
+27_304_3112_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00532
+27_304_3109_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e,0.74251
+27_304_3109_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e of CO2 per unit,0.73378
+27_304_3109_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e of CH4 per unit,0.00018
+27_304_3109_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e of N2O per unit,0.00855
+27_304_3110_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e,0.80632
+27_304_3110_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e of CO2 per unit,0.79759
+27_304_3110_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e of CH4 per unit,0.00018
+27_304_3110_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e of N2O per unit,0.00855
+27_304_3111_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e,0.87012
+27_304_3111_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e of CO2 per unit,0.86139
+27_304_3111_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e of CH4 per unit,0.00018
+27_304_3111_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e of N2O per unit,0.00855
+27_304_3112_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e,0.79738
+27_304_3112_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e of CO2 per unit,0.78865
+27_304_3112_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e of CH4 per unit,0.00018
+27_304_3112_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e of N2O per unit,0.00855
+27_304_3113_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e,
+27_304_3113_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3113_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3113_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3114_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e,0.26427
+27_304_3114_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.26166
+27_304_3114_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_304_3114_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00255
+27_304_3115_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e,0.14849
+27_304_3115_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.14719
+27_304_3115_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_304_3115_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00128
+27_304_3116_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e,0.36362
+27_304_3116_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.35979
+27_304_3116_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00008
+27_304_3116_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00375
+27_304_3113_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e,0.55061
+27_304_3113_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.54399
+27_304_3113_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00013
+27_304_3113_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00648
+27_304_3114_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e,0.62832
+27_304_3114_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.6217
+27_304_3114_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00013
+27_304_3114_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00648
+27_304_3115_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e,0.70603
+27_304_3115_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.69941
+27_304_3115_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00013
+27_304_3115_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00648
+27_304_3116_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e,0.60501
+27_304_3116_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.59839
+27_304_3116_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00013
+27_304_3116_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00648
+27_304_3113_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e,0.88612
+27_304_3113_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e of CO2 per unit,0.87546
+27_304_3113_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3113_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e of N2O per unit,0.01043
+27_304_3114_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e,1.01119
+27_304_3114_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e of CO2 per unit,1.00053
+27_304_3114_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3114_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e of N2O per unit,0.01043
+27_304_3115_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e,1.13625
+27_304_3115_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e of CO2 per unit,1.12559
+27_304_3115_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3115_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e of N2O per unit,0.01043
+27_304_3116_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e,0.97367
+27_304_3116_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e of CO2 per unit,0.96301
+27_304_3116_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3116_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e of N2O per unit,0.01043
+27_304_3117_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e,
+27_304_3117_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3117_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3117_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3118_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e,0.21116
+27_304_3118_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.20879
+27_304_3118_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00004
+27_304_3118_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00232
+27_304_3119_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e,0.12436
+27_304_3119_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.12318
+27_304_3119_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_304_3119_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00116
+27_304_3120_14_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e,0.17146
+27_304_3120_14_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.16941
+27_304_3120_14_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00004
+27_304_3120_14_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00201
+27_304_3117_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e,0.774
+27_304_3117_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.76318
+27_304_3117_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00022
+27_304_3117_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.01059
+27_304_3118_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e,0.94152
+27_304_3118_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.9307
+27_304_3118_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00022
+27_304_3118_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.01059
+27_304_3119_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e,1.10905
+27_304_3119_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,1.09823
+27_304_3119_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00022
+27_304_3119_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.01059
+27_304_3120_4_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e,0.99156
+27_304_3120_4_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.98074
+27_304_3120_4_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00022
+27_304_3120_4_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.01059
+27_304_3117_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e,1.24562
+27_304_3117_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e of CO2 per unit,1.22821
+27_304_3117_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e of CH4 per unit,0.00037
+27_304_3117_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e of N2O per unit,0.01704
+27_304_3118_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e,1.51523
+27_304_3118_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e of CO2 per unit,1.49782
+27_304_3118_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e of CH4 per unit,0.00037
+27_304_3118_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e of N2O per unit,0.01704
+27_304_3119_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e,1.78484
+27_304_3119_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e of CO2 per unit,1.76743
+27_304_3119_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e of CH4 per unit,0.00037
+27_304_3119_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e of N2O per unit,0.01704
+27_304_3120_9_1,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e,1.59575
+27_304_3120_9_2,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e of CO2 per unit,1.57834
+27_304_3120_9_3,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e of CH4 per unit,0.00037
+27_304_3120_9_4,Scope 3,Freighting goods,HGV (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e of N2O per unit,0.01704
+27_304_3121_14_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e,
+27_304_3121_14_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3121_14_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3121_14_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3122_14_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e,0.2258
+27_304_3122_14_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.22325
+27_304_3122_14_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_304_3122_14_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00249
+27_304_3123_14_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e,0.13155
+27_304_3123_14_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.13028
+27_304_3123_14_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_304_3123_14_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00124
+27_304_3124_14_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,tonne.km,kg CO2e,0.19748
+27_304_3124_14_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,tonne.km,kg CO2e of CO2 per unit,0.19514
+27_304_3124_14_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00004
+27_304_3124_14_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,tonne.km,kg CO2e of N2O per unit,0.00229
+27_304_3121_4_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,km,kg CO2e,0.67912
+27_304_3121_4_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,km,kg CO2e of CO2 per unit,0.67005
+27_304_3121_4_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,km,kg CO2e of CH4 per unit,0.00019
+27_304_3121_4_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,km,kg CO2e of N2O per unit,0.00888
+27_304_3122_4_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,km,kg CO2e,0.80803
+27_304_3122_4_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,km,kg CO2e of CO2 per unit,0.79896
+27_304_3122_4_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,km,kg CO2e of CH4 per unit,0.00019
+27_304_3122_4_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,km,kg CO2e of N2O per unit,0.00888
+27_304_3123_4_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,km,kg CO2e,0.93695
+27_304_3123_4_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,km,kg CO2e of CO2 per unit,0.92788
+27_304_3123_4_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,km,kg CO2e of CH4 per unit,0.00019
+27_304_3123_4_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,km,kg CO2e of N2O per unit,0.00888
+27_304_3124_4_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,km,kg CO2e,0.83751
+27_304_3124_4_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,km,kg CO2e of CO2 per unit,0.82844
+27_304_3124_4_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,km,kg CO2e of CH4 per unit,0.00019
+27_304_3124_4_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,km,kg CO2e of N2O per unit,0.00888
+27_304_3121_9_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,miles,kg CO2e,1.09292
+27_304_3121_9_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,miles,kg CO2e of CO2 per unit,1.07833
+27_304_3121_9_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,miles,kg CO2e of CH4 per unit,0.0003
+27_304_3121_9_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,0% Laden,miles,kg CO2e of N2O per unit,0.01429
+27_304_3122_9_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,miles,kg CO2e,1.3004
+27_304_3122_9_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,miles,kg CO2e of CO2 per unit,1.28581
+27_304_3122_9_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,miles,kg CO2e of CH4 per unit,0.0003
+27_304_3122_9_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,50% Laden,miles,kg CO2e of N2O per unit,0.01429
+27_304_3123_9_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,miles,kg CO2e,1.50787
+27_304_3123_9_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,miles,kg CO2e of CO2 per unit,1.49328
+27_304_3123_9_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,miles,kg CO2e of CH4 per unit,0.0003
+27_304_3123_9_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,100% Laden,miles,kg CO2e of N2O per unit,0.01429
+27_304_3124_9_1,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,miles,kg CO2e,1.34783
+27_304_3124_9_2,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,miles,kg CO2e of CO2 per unit,1.33324
+27_304_3124_9_3,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,miles,kg CO2e of CH4 per unit,0.0003
+27_304_3124_9_4,Scope 3,Freighting goods,HGV (all diesel),All rigids,,Average laden,miles,kg CO2e of N2O per unit,0.01429
+27_304_3125_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e,
+27_304_3125_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3125_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3125_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3126_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e,0.12823
+27_304_3126_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.1263
+27_304_3126_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_304_3126_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.0019
+27_304_3127_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e,0.07674
+27_304_3127_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.07578
+27_304_3127_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3127_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00095
+27_304_3128_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e,0.12633
+27_304_3128_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.12432
+27_304_3128_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_304_3128_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00198
+27_304_3125_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e,0.62775
+27_304_3125_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CO2 per unit,0.61554
+27_304_3125_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00012
+27_304_3125_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of N2O per unit,0.01209
+27_304_3126_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e,0.78163
+27_304_3126_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CO2 per unit,0.76942
+27_304_3126_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00012
+27_304_3126_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of N2O per unit,0.01209
+27_304_3127_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e,0.93552
+27_304_3127_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CO2 per unit,0.92331
+27_304_3127_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00012
+27_304_3127_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of N2O per unit,0.01209
+27_304_3128_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e,0.78471
+27_304_3128_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CO2 per unit,0.7725
+27_304_3128_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CH4 per unit,0.00012
+27_304_3128_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of N2O per unit,0.01209
+27_304_3125_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e,1.01024
+27_304_3125_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e of CO2 per unit,0.99061
+27_304_3125_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e of CH4 per unit,0.00019
+27_304_3125_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e of N2O per unit,0.01944
+27_304_3126_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e,1.25789
+27_304_3126_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e of CO2 per unit,1.23826
+27_304_3126_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e of CH4 per unit,0.00019
+27_304_3126_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e of N2O per unit,0.01944
+27_304_3127_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e,1.50555
+27_304_3127_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e of CO2 per unit,1.48592
+27_304_3127_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e of CH4 per unit,0.00019
+27_304_3127_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e of N2O per unit,0.01944
+27_304_3128_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e,1.26285
+27_304_3128_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e of CO2 per unit,1.24322
+27_304_3128_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e of CH4 per unit,0.00019
+27_304_3128_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e of N2O per unit,0.01944
+27_304_3129_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e,
+27_304_3129_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3129_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3129_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3130_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e,0.09612
+27_304_3130_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.09453
+27_304_3130_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3130_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00158
+27_304_3131_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e,0.05988
+27_304_3131_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.05908
+27_304_3131_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3131_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00079
+27_304_3132_14_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e,0.07703
+27_304_3132_14_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.07576
+27_304_3132_14_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3132_14_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00125
+27_304_3129_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e,0.64734
+27_304_3129_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CO2 per unit,0.63282
+27_304_3129_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3129_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of N2O per unit,0.01438
+27_304_3130_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e,0.85827
+27_304_3130_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CO2 per unit,0.84375
+27_304_3130_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3130_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of N2O per unit,0.01438
+27_304_3131_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e,1.06921
+27_304_3131_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CO2 per unit,1.05469
+27_304_3131_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3131_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of N2O per unit,0.01438
+27_304_3132_4_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e,0.93421
+27_304_3132_4_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CO2 per unit,0.91969
+27_304_3132_4_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3132_4_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of N2O per unit,0.01438
+27_304_3129_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e,1.04178
+27_304_3129_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e of CO2 per unit,1.01842
+27_304_3129_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3129_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e of N2O per unit,0.02314
+27_304_3130_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e,1.38125
+27_304_3130_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e of CO2 per unit,1.35789
+27_304_3130_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3130_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e of N2O per unit,0.02314
+27_304_3131_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e,1.72072
+27_304_3131_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e of CO2 per unit,1.69736
+27_304_3131_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3131_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e of N2O per unit,0.02314
+27_304_3132_9_1,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e,1.50346
+27_304_3132_9_2,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e of CO2 per unit,1.4801
+27_304_3132_9_3,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3132_9_4,Scope 3,Freighting goods,HGV (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e of N2O per unit,0.02314
+27_304_3133_14_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,tonne.km,kg CO2e,
+27_304_3133_14_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3133_14_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3133_14_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3134_14_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,tonne.km,kg CO2e,0.09675
+27_304_3134_14_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.09515
+27_304_3134_14_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3134_14_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00159
+27_304_3135_14_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,tonne.km,kg CO2e,0.06021
+27_304_3135_14_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.05941
+27_304_3135_14_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3135_14_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00079
+27_304_3136_14_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,tonne.km,kg CO2e,0.078
+27_304_3136_14_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,tonne.km,kg CO2e of CO2 per unit,0.07672
+27_304_3136_14_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3136_14_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,tonne.km,kg CO2e of N2O per unit,0.00127
+27_304_3133_4_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,km,kg CO2e,0.64659
+27_304_3133_4_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,km,kg CO2e of CO2 per unit,0.63216
+27_304_3133_4_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3133_4_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,km,kg CO2e of N2O per unit,0.01428
+27_304_3134_4_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,km,kg CO2e,0.85536
+27_304_3134_4_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,km,kg CO2e of CO2 per unit,0.84093
+27_304_3134_4_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3134_4_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,km,kg CO2e of N2O per unit,0.01428
+27_304_3135_4_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,km,kg CO2e,1.06414
+27_304_3135_4_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,km,kg CO2e of CO2 per unit,1.04971
+27_304_3135_4_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3135_4_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,km,kg CO2e of N2O per unit,0.01428
+27_304_3136_4_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,km,kg CO2e,0.92854
+27_304_3136_4_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,km,kg CO2e of CO2 per unit,0.91411
+27_304_3136_4_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,km,kg CO2e of CH4 per unit,0.00015
+27_304_3136_4_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,km,kg CO2e of N2O per unit,0.01428
+27_304_3133_9_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,miles,kg CO2e,1.04057
+27_304_3133_9_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,miles,kg CO2e of CO2 per unit,1.01736
+27_304_3133_9_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3133_9_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,0% Laden,miles,kg CO2e of N2O per unit,0.02299
+27_304_3134_9_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,miles,kg CO2e,1.37656
+27_304_3134_9_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,miles,kg CO2e of CO2 per unit,1.35335
+27_304_3134_9_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3134_9_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,50% Laden,miles,kg CO2e of N2O per unit,0.02299
+27_304_3135_9_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,miles,kg CO2e,1.71255
+27_304_3135_9_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,miles,kg CO2e of CO2 per unit,1.68934
+27_304_3135_9_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3135_9_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,100% Laden,miles,kg CO2e of N2O per unit,0.02299
+27_304_3136_9_1,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,miles,kg CO2e,1.49432
+27_304_3136_9_2,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,miles,kg CO2e of CO2 per unit,1.47111
+27_304_3136_9_3,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+27_304_3136_9_4,Scope 3,Freighting goods,HGV (all diesel),All artics,,Average laden,miles,kg CO2e of N2O per unit,0.02299
+27_304_3137_14_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e,
+27_304_3137_14_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_304_3137_14_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_304_3137_14_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_304_3138_14_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e,0.12226
+27_304_3138_14_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.12046
+27_304_3138_14_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_304_3138_14_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00178
+27_304_3139_14_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e,0.07431
+27_304_3139_14_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.07341
+27_304_3139_14_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_304_3139_14_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00089
+27_304_3140_14_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e,0.10163
+27_304_3140_14_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e of CO2 per unit,0.10012
+27_304_3140_14_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_304_3140_14_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e of N2O per unit,0.00149
+27_304_3137_4_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e,0.65975
+27_304_3137_4_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e of CO2 per unit,0.64764
+27_304_3137_4_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e of CH4 per unit,0.00016
+27_304_3137_4_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e of N2O per unit,0.01195
+27_304_3138_4_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e,0.83589
+27_304_3138_4_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e of CO2 per unit,0.82378
+27_304_3138_4_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e of CH4 per unit,0.00016
+27_304_3138_4_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e of N2O per unit,0.01195
+27_304_3139_4_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e,1.01203
+27_304_3139_4_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e of CO2 per unit,0.99992
+27_304_3139_4_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e of CH4 per unit,0.00016
+27_304_3139_4_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e of N2O per unit,0.01195
+27_304_3140_4_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,km,kg CO2e,0.89121
+27_304_3140_4_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,km,kg CO2e of CO2 per unit,0.8791
+27_304_3140_4_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,km,kg CO2e of CH4 per unit,0.00016
+27_304_3140_4_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,km,kg CO2e of N2O per unit,0.01195
+27_304_3137_9_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,miles,kg CO2e,1.06176
+27_304_3137_9_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,miles,kg CO2e of CO2 per unit,1.04228
+27_304_3137_9_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,miles,kg CO2e of CH4 per unit,0.00026
+27_304_3137_9_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,0% Laden,miles,kg CO2e of N2O per unit,0.01923
+27_304_3138_9_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,miles,kg CO2e,1.34523
+27_304_3138_9_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,miles,kg CO2e of CO2 per unit,1.32575
+27_304_3138_9_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,miles,kg CO2e of CH4 per unit,0.00026
+27_304_3138_9_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,50% Laden,miles,kg CO2e of N2O per unit,0.01923
+27_304_3139_9_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,miles,kg CO2e,1.6287
+27_304_3139_9_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,miles,kg CO2e of CO2 per unit,1.60922
+27_304_3139_9_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,miles,kg CO2e of CH4 per unit,0.00026
+27_304_3139_9_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,100% Laden,miles,kg CO2e of N2O per unit,0.01923
+27_304_3140_9_1,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,miles,kg CO2e,1.43425
+27_304_3140_9_2,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,miles,kg CO2e of CO2 per unit,1.41477
+27_304_3140_9_3,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,miles,kg CO2e of CH4 per unit,0.00026
+27_304_3140_9_4,Scope 3,Freighting goods,HGV (all diesel),All HGVs,,Average laden,miles,kg CO2e of N2O per unit,0.01923
+27_306_3109_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e,
+27_306_3109_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3109_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3109_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3110_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e,0.5468
+27_306_3110_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.54175
+27_306_3110_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.0001
+27_306_3110_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00495
+27_306_3111_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e,0.29508
+27_306_3111_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.29254
+27_306_3111_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_306_3111_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00248
+27_306_3112_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e,0.62837
+27_306_3112_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.62288
+27_306_3112_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00011
+27_306_3112_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00538
+27_306_3109_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e,0.54937
+27_306_3109_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.54394
+27_306_3109_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00011
+27_306_3109_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00532
+27_306_3110_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e,0.59667
+27_306_3110_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.59124
+27_306_3110_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00011
+27_306_3110_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00532
+27_306_3111_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e,0.64397
+27_306_3111_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.63854
+27_306_3111_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00011
+27_306_3111_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00532
+27_306_3112_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e,0.59005
+27_306_3112_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.58462
+27_306_3112_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00011
+27_306_3112_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00532
+27_306_3109_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e,0.88412
+27_306_3109_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e of CO2 per unit,0.87539
+27_306_3109_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e of CH4 per unit,0.00018
+27_306_3109_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,miles,kg CO2e of N2O per unit,0.00855
+27_306_3110_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e,0.96024
+27_306_3110_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e of CO2 per unit,0.95151
+27_306_3110_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e of CH4 per unit,0.00018
+27_306_3110_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,miles,kg CO2e of N2O per unit,0.00855
+27_306_3111_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e,1.03637
+27_306_3111_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e of CO2 per unit,1.02764
+27_306_3111_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e of CH4 per unit,0.00018
+27_306_3111_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,miles,kg CO2e of N2O per unit,0.00855
+27_306_3112_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e,0.94959
+27_306_3112_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e of CO2 per unit,0.94086
+27_306_3112_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e of CH4 per unit,0.00018
+27_306_3112_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,miles,kg CO2e of N2O per unit,0.00855
+27_306_3113_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e,
+27_306_3113_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3113_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3113_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3114_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e,0.31477
+27_306_3114_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.31216
+27_306_3114_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_306_3114_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00255
+27_306_3115_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e,0.17689
+27_306_3115_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.17559
+27_306_3115_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_306_3115_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00128
+27_306_3116_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e,0.43306
+27_306_3116_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.42923
+27_306_3116_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00008
+27_306_3116_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00375
+27_306_3113_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e,0.65559
+27_306_3113_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.64897
+27_306_3113_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00013
+27_306_3113_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00648
+27_306_3114_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e,0.7483
+27_306_3114_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.74168
+27_306_3114_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00013
+27_306_3114_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00648
+27_306_3115_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e,0.84101
+27_306_3115_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.83439
+27_306_3115_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00013
+27_306_3115_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00648
+27_306_3116_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e,0.72049
+27_306_3116_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.71387
+27_306_3116_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00013
+27_306_3116_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00648
+27_306_3113_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e,1.05508
+27_306_3113_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e of CO2 per unit,1.04442
+27_306_3113_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3113_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,miles,kg CO2e of N2O per unit,0.01043
+27_306_3114_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e,1.20428
+27_306_3114_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e of CO2 per unit,1.19362
+27_306_3114_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3114_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,miles,kg CO2e of N2O per unit,0.01043
+27_306_3115_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e,1.35348
+27_306_3115_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e of CO2 per unit,1.34282
+27_306_3115_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3115_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,miles,kg CO2e of N2O per unit,0.01043
+27_306_3116_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e,1.15952
+27_306_3116_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e of CO2 per unit,1.14886
+27_306_3116_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3116_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,miles,kg CO2e of N2O per unit,0.01043
+27_306_3117_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e,
+27_306_3117_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3117_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3117_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3118_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e,0.25145
+27_306_3118_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.24908
+27_306_3118_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00004
+27_306_3118_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00232
+27_306_3119_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e,0.14814
+27_306_3119_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.14696
+27_306_3119_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_306_3119_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00116
+27_306_3120_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e,0.20416
+27_306_3120_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.20211
+27_306_3120_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00004
+27_306_3120_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00201
+27_306_3117_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e,0.92128
+27_306_3117_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.91046
+27_306_3117_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00022
+27_306_3117_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.01059
+27_306_3118_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e,1.12114
+27_306_3118_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,1.11032
+27_306_3118_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00022
+27_306_3118_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.01059
+27_306_3119_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e,1.321
+27_306_3119_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,1.31018
+27_306_3119_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00022
+27_306_3119_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.01059
+27_306_3120_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e,1.18083
+27_306_3120_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,1.17001
+27_306_3120_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00022
+27_306_3120_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.01059
+27_306_3117_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e,1.48266
+27_306_3117_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e of CO2 per unit,1.46525
+27_306_3117_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e of CH4 per unit,0.00037
+27_306_3117_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,miles,kg CO2e of N2O per unit,0.01704
+27_306_3118_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e,1.8043
+27_306_3118_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e of CO2 per unit,1.78689
+27_306_3118_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e of CH4 per unit,0.00037
+27_306_3118_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,miles,kg CO2e of N2O per unit,0.01704
+27_306_3119_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e,2.12594
+27_306_3119_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e of CO2 per unit,2.10853
+27_306_3119_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e of CH4 per unit,0.00037
+27_306_3119_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,miles,kg CO2e of N2O per unit,0.01704
+27_306_3120_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e,1.90036
+27_306_3120_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e of CO2 per unit,1.88295
+27_306_3120_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e of CH4 per unit,0.00037
+27_306_3120_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,miles,kg CO2e of N2O per unit,0.01704
+27_306_3121_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e,
+27_306_3121_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3121_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3121_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3122_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e,0.26888
+27_306_3122_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.26633
+27_306_3122_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_306_3122_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00249
+27_306_3123_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e,0.15669
+27_306_3123_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.15542
+27_306_3123_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_306_3123_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00124
+27_306_3124_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,tonne.km,kg CO2e,0.23514
+27_306_3124_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,tonne.km,kg CO2e of CO2 per unit,0.2328
+27_306_3124_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00004
+27_306_3124_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,tonne.km,kg CO2e of N2O per unit,0.00229
+27_306_3121_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e,0.80843
+27_306_3121_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e of CO2 per unit,0.79936
+27_306_3121_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e of CH4 per unit,0.00019
+27_306_3121_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e of N2O per unit,0.00888
+27_306_3122_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e,0.96223
+27_306_3122_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e of CO2 per unit,0.95316
+27_306_3122_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e of CH4 per unit,0.00019
+27_306_3122_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e of N2O per unit,0.00888
+27_306_3123_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e,1.11603
+27_306_3123_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e of CO2 per unit,1.10696
+27_306_3123_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e of CH4 per unit,0.00019
+27_306_3123_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e of N2O per unit,0.00888
+27_306_3124_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e,0.99739
+27_306_3124_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e of CO2 per unit,0.98832
+27_306_3124_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e of CH4 per unit,0.00019
+27_306_3124_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e of N2O per unit,0.00888
+27_306_3121_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,miles,kg CO2e,1.30103
+27_306_3121_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,miles,kg CO2e of CO2 per unit,1.28644
+27_306_3121_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,miles,kg CO2e of CH4 per unit,0.0003
+27_306_3121_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,0% Laden,miles,kg CO2e of N2O per unit,0.01429
+27_306_3122_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,miles,kg CO2e,1.54855
+27_306_3122_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,miles,kg CO2e of CO2 per unit,1.53396
+27_306_3122_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,miles,kg CO2e of CH4 per unit,0.0003
+27_306_3122_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,50% Laden,miles,kg CO2e of N2O per unit,0.01429
+27_306_3123_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,miles,kg CO2e,1.79606
+27_306_3123_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,miles,kg CO2e of CO2 per unit,1.78147
+27_306_3123_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,miles,kg CO2e of CH4 per unit,0.0003
+27_306_3123_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,100% Laden,miles,kg CO2e of N2O per unit,0.01429
+27_306_3124_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,miles,kg CO2e,1.60513
+27_306_3124_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,miles,kg CO2e of CO2 per unit,1.59054
+27_306_3124_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,miles,kg CO2e of CH4 per unit,0.0003
+27_306_3124_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All rigids,,Average laden,miles,kg CO2e of N2O per unit,0.01429
+27_306_3125_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e,
+27_306_3125_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3125_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3125_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3126_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e,0.14833
+27_306_3126_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.1464
+27_306_3126_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_306_3126_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.0019
+27_306_3127_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e,0.0888
+27_306_3127_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.08784
+27_306_3127_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3127_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00095
+27_306_3128_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e,0.14611
+27_306_3128_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.1441
+27_306_3128_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_306_3128_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00198
+27_306_3125_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e,0.72566
+27_306_3125_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CO2 per unit,0.71345
+27_306_3125_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00012
+27_306_3125_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of N2O per unit,0.01209
+27_306_3126_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e,0.90403
+27_306_3126_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CO2 per unit,0.89182
+27_306_3126_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00012
+27_306_3126_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of N2O per unit,0.01209
+27_306_3127_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e,1.08239
+27_306_3127_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CO2 per unit,1.07018
+27_306_3127_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00012
+27_306_3127_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of N2O per unit,0.01209
+27_306_3128_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e,0.90759
+27_306_3128_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CO2 per unit,0.89538
+27_306_3128_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CH4 per unit,0.00012
+27_306_3128_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of N2O per unit,0.01209
+27_306_3125_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e,1.16782
+27_306_3125_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e of CO2 per unit,1.14819
+27_306_3125_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e of CH4 per unit,0.00019
+27_306_3125_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,miles,kg CO2e of N2O per unit,0.01944
+27_306_3126_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e,1.45487
+27_306_3126_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e of CO2 per unit,1.43524
+27_306_3126_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e of CH4 per unit,0.00019
+27_306_3126_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,miles,kg CO2e of N2O per unit,0.01944
+27_306_3127_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e,1.74192
+27_306_3127_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e of CO2 per unit,1.72229
+27_306_3127_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e of CH4 per unit,0.00019
+27_306_3127_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,miles,kg CO2e of N2O per unit,0.01944
+27_306_3128_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e,1.46061
+27_306_3128_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e of CO2 per unit,1.44098
+27_306_3128_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e of CH4 per unit,0.00019
+27_306_3128_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,miles,kg CO2e of N2O per unit,0.01944
+27_306_3129_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e,
+27_306_3129_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3129_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3129_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3130_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e,0.11115
+27_306_3130_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.10956
+27_306_3130_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3130_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00158
+27_306_3131_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e,0.06928
+27_306_3131_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.06848
+27_306_3131_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3131_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00079
+27_306_3132_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e,0.08908
+27_306_3132_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e of CO2 per unit,0.08781
+27_306_3132_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3132_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,tonne.km,kg CO2e of N2O per unit,0.00125
+27_306_3129_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e,0.748
+27_306_3129_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CO2 per unit,0.73348
+27_306_3129_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3129_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of N2O per unit,0.01438
+27_306_3130_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e,0.99249
+27_306_3130_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CO2 per unit,0.97797
+27_306_3130_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3130_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of N2O per unit,0.01438
+27_306_3131_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e,1.23699
+27_306_3131_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CO2 per unit,1.22247
+27_306_3131_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3131_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of N2O per unit,0.01438
+27_306_3132_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e,1.08051
+27_306_3132_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CO2 per unit,1.06599
+27_306_3132_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3132_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of N2O per unit,0.01438
+27_306_3129_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e,1.20378
+27_306_3129_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e of CO2 per unit,1.18042
+27_306_3129_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3129_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,miles,kg CO2e of N2O per unit,0.02314
+27_306_3130_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e,1.59725
+27_306_3130_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e of CO2 per unit,1.57389
+27_306_3130_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3130_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,miles,kg CO2e of N2O per unit,0.02314
+27_306_3131_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e,1.99073
+27_306_3131_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e of CO2 per unit,1.96737
+27_306_3131_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3131_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,miles,kg CO2e of N2O per unit,0.02314
+27_306_3132_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e,1.7389
+27_306_3132_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e of CO2 per unit,1.71554
+27_306_3132_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3132_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),Articulated (>33t),,Average laden,miles,kg CO2e of N2O per unit,0.02314
+27_306_3133_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,tonne.km,kg CO2e,
+27_306_3133_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3133_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3133_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3134_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,tonne.km,kg CO2e,0.11189
+27_306_3134_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.11029
+27_306_3134_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3134_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00159
+27_306_3135_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,tonne.km,kg CO2e,0.06966
+27_306_3135_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.06886
+27_306_3135_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3135_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00079
+27_306_3136_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,tonne.km,kg CO2e,0.0902
+27_306_3136_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,tonne.km,kg CO2e of CO2 per unit,0.08892
+27_306_3136_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3136_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,tonne.km,kg CO2e of N2O per unit,0.00127
+27_306_3133_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e,0.74715
+27_306_3133_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e of CO2 per unit,0.73272
+27_306_3133_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3133_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e of N2O per unit,0.01428
+27_306_3134_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e,0.98913
+27_306_3134_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e of CO2 per unit,0.9747
+27_306_3134_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3134_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e of N2O per unit,0.01428
+27_306_3135_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e,1.23112
+27_306_3135_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e of CO2 per unit,1.21669
+27_306_3135_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3135_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e of N2O per unit,0.01428
+27_306_3136_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e,1.07395
+27_306_3136_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e of CO2 per unit,1.05952
+27_306_3136_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e of CH4 per unit,0.00015
+27_306_3136_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e of N2O per unit,0.01428
+27_306_3133_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,miles,kg CO2e,1.20241
+27_306_3133_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,miles,kg CO2e of CO2 per unit,1.1792
+27_306_3133_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3133_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,0% Laden,miles,kg CO2e of N2O per unit,0.02299
+27_306_3134_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,miles,kg CO2e,1.59184
+27_306_3134_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,miles,kg CO2e of CO2 per unit,1.56863
+27_306_3134_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3134_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,50% Laden,miles,kg CO2e of N2O per unit,0.02299
+27_306_3135_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,miles,kg CO2e,1.98128
+27_306_3135_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,miles,kg CO2e of CO2 per unit,1.95807
+27_306_3135_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3135_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,100% Laden,miles,kg CO2e of N2O per unit,0.02299
+27_306_3136_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,miles,kg CO2e,1.72834
+27_306_3136_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,miles,kg CO2e of CO2 per unit,1.70513
+27_306_3136_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,miles,kg CO2e of CH4 per unit,0.00022
+27_306_3136_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All artics,,Average laden,miles,kg CO2e of N2O per unit,0.02299
+27_306_3137_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e,
+27_306_3137_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e of CO2 per unit,
+27_306_3137_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e of CH4 per unit,
+27_306_3137_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,tonne.km,kg CO2e of N2O per unit,
+27_306_3138_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e,0.14309
+27_306_3138_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e of CO2 per unit,0.14129
+27_306_3138_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_306_3138_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,tonne.km,kg CO2e of N2O per unit,0.00178
+27_306_3139_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e,0.08701
+27_306_3139_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e of CO2 per unit,0.08611
+27_306_3139_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_306_3139_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,tonne.km,kg CO2e of N2O per unit,0.00089
+27_306_3140_14_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e,0.11894
+27_306_3140_14_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e of CO2 per unit,0.11743
+27_306_3140_14_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_306_3140_14_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,tonne.km,kg CO2e of N2O per unit,0.00149
+27_306_3137_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e,0.77175
+27_306_3137_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e of CO2 per unit,0.75964
+27_306_3137_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e of CH4 per unit,0.00016
+27_306_3137_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e of N2O per unit,0.01195
+27_306_3138_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e,0.97835
+27_306_3138_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e of CO2 per unit,0.96624
+27_306_3138_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e of CH4 per unit,0.00016
+27_306_3138_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e of N2O per unit,0.01195
+27_306_3139_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e,1.18495
+27_306_3139_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e of CO2 per unit,1.17284
+27_306_3139_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e of CH4 per unit,0.00016
+27_306_3139_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e of N2O per unit,0.01195
+27_306_3140_4_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e,1.04323
+27_306_3140_4_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e of CO2 per unit,1.03112
+27_306_3140_4_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e of CH4 per unit,0.00016
+27_306_3140_4_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e of N2O per unit,0.01195
+27_306_3137_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,miles,kg CO2e,1.242
+27_306_3137_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,miles,kg CO2e of CO2 per unit,1.22252
+27_306_3137_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,miles,kg CO2e of CH4 per unit,0.00026
+27_306_3137_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,0% Laden,miles,kg CO2e of N2O per unit,0.01923
+27_306_3138_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,miles,kg CO2e,1.5745
+27_306_3138_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,miles,kg CO2e of CO2 per unit,1.55502
+27_306_3138_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,miles,kg CO2e of CH4 per unit,0.00026
+27_306_3138_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,50% Laden,miles,kg CO2e of N2O per unit,0.01923
+27_306_3139_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,miles,kg CO2e,1.90699
+27_306_3139_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,miles,kg CO2e of CO2 per unit,1.88751
+27_306_3139_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,miles,kg CO2e of CH4 per unit,0.00026
+27_306_3139_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,100% Laden,miles,kg CO2e of N2O per unit,0.01923
+27_306_3140_9_1,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,miles,kg CO2e,1.67891
+27_306_3140_9_2,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,miles,kg CO2e of CO2 per unit,1.65943
+27_306_3140_9_3,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,miles,kg CO2e of CH4 per unit,0.00026
+27_306_3140_9_4,Scope 3,Freighting goods,HGV refrigerated (all diesel),All HGVs,,Average laden,miles,kg CO2e of N2O per unit,0.01923
+27_317_3152_14_1,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,With RF,tonne.km,kg CO2e,4.60397
+27_317_3152_14_2,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,With RF,tonne.km,kg CO2e of CO2 per unit,4.57703
+27_317_3152_14_3,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,With RF,tonne.km,kg CO2e of CH4 per unit,0.00393
+27_317_3152_14_4,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,With RF,tonne.km,kg CO2e of N2O per unit,0.02301
+27_317_3153_14_1,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,Without RF,tonne.km,kg CO2e,2.71931
+27_317_3153_14_2,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,Without RF,tonne.km,kg CO2e of CO2 per unit,2.69237
+27_317_3153_14_3,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,Without RF,tonne.km,kg CO2e of CH4 per unit,0.00393
+27_317_3153_14_4,Scope 3,Freighting goods,Freight flights,"Domestic, to/from UK",,Without RF,tonne.km,kg CO2e of N2O per unit,0.02301
+27_317_3154_14_1,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,With RF,tonne.km,kg CO2e,1.27835
+27_317_3154_14_2,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,With RF,tonne.km,kg CO2e of CO2 per unit,1.27005
+27_317_3154_14_3,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,With RF,tonne.km,kg CO2e of CH4 per unit,0.00008
+27_317_3154_14_4,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,With RF,tonne.km,kg CO2e of N2O per unit,0.00822
+27_317_3155_14_1,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,Without RF,tonne.km,kg CO2e,0.75539
+27_317_3155_14_2,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,Without RF,tonne.km,kg CO2e of CO2 per unit,0.74709
+27_317_3155_14_3,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,Without RF,tonne.km,kg CO2e of CH4 per unit,0.00008
+27_317_3155_14_4,Scope 3,Freighting goods,Freight flights,"Short-haul, to/from UK",,Without RF,tonne.km,kg CO2e of N2O per unit,0.00822
+27_317_3156_14_1,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,With RF,tonne.km,kg CO2e,0.89939
+27_317_3156_14_2,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,With RF,tonne.km,kg CO2e of CO2 per unit,0.89392
+27_317_3156_14_3,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,With RF,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_317_3156_14_4,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,With RF,tonne.km,kg CO2e of N2O per unit,0.00542
+27_317_3157_14_1,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,Without RF,tonne.km,kg CO2e,0.5313
+27_317_3157_14_2,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,Without RF,tonne.km,kg CO2e of CO2 per unit,0.52583
+27_317_3157_14_3,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,Without RF,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_317_3157_14_4,Scope 3,Freighting goods,Freight flights,"Long-haul, to/from UK",,Without RF,tonne.km,kg CO2e of N2O per unit,0.00542
+27_317_3158_14_1,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,With RF,tonne.km,kg CO2e,0.89939
+27_317_3158_14_2,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,With RF,tonne.km,kg CO2e of CO2 per unit,0.89392
+27_317_3158_14_3,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,With RF,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_317_3158_14_4,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,With RF,tonne.km,kg CO2e of N2O per unit,0.00542
+27_317_3159_14_1,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,Without RF,tonne.km,kg CO2e,0.5313
+27_317_3159_14_2,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,Without RF,tonne.km,kg CO2e of CO2 per unit,0.52583
+27_317_3159_14_3,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,Without RF,tonne.km,kg CO2e of CH4 per unit,0.00006
+27_317_3159_14_4,Scope 3,Freighting goods,Freight flights,"International, to/from non-UK",,Without RF,tonne.km,kg CO2e of N2O per unit,0.00542
+27_315_3151_14_1,Scope 3,Freighting goods,Rail,Freight train,,,tonne.km,kg CO2e,0.02779
+27_315_3151_14_2,Scope 3,Freighting goods,Rail,Freight train,,,tonne.km,kg CO2e of CO2 per unit,0.02749
+27_315_3151_14_3,Scope 3,Freighting goods,Rail,Freight train,,,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_315_3151_14_4,Scope 3,Freighting goods,Rail,Freight train,,,tonne.km,kg CO2e of N2O per unit,0.00028
+27_319_3191_14_1,Scope 3,Freighting goods,Sea tanker,Crude tanker,"200,000+ dwt",,tonne.km,kg CO2e,0.00294
+27_319_3191_14_2,Scope 3,Freighting goods,Sea tanker,Crude tanker,"200,000+ dwt",,tonne.km,kg CO2e of CO2 per unit,0.0029
+27_319_3191_14_3,Scope 3,Freighting goods,Sea tanker,Crude tanker,"200,000+ dwt",,tonne.km,kg CO2e of CH4 per unit,0.000001
+27_319_3191_14_4,Scope 3,Freighting goods,Sea tanker,Crude tanker,"200,000+ dwt",,tonne.km,kg CO2e of N2O per unit,0.00003
+27_319_3192_14_1,Scope 3,Freighting goods,Sea tanker,Crude tanker,"120,000�199,999 dwt",,tonne.km,kg CO2e,0.00445
+27_319_3192_14_2,Scope 3,Freighting goods,Sea tanker,Crude tanker,"120,000�199,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0044
+27_319_3192_14_3,Scope 3,Freighting goods,Sea tanker,Crude tanker,"120,000�199,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000001
+27_319_3192_14_4,Scope 3,Freighting goods,Sea tanker,Crude tanker,"120,000�199,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00005
+27_319_3193_14_1,Scope 3,Freighting goods,Sea tanker,Crude tanker,"80,000�119,999 dwt",,tonne.km,kg CO2e,0.00597
+27_319_3193_14_2,Scope 3,Freighting goods,Sea tanker,Crude tanker,"80,000�119,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0059
+27_319_3193_14_3,Scope 3,Freighting goods,Sea tanker,Crude tanker,"80,000�119,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000002
+27_319_3193_14_4,Scope 3,Freighting goods,Sea tanker,Crude tanker,"80,000�119,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00007
+27_319_3194_14_1,Scope 3,Freighting goods,Sea tanker,Crude tanker,"60,000�79,999 dwt",,tonne.km,kg CO2e,0.00759
+27_319_3194_14_2,Scope 3,Freighting goods,Sea tanker,Crude tanker,"60,000�79,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0075
+27_319_3194_14_3,Scope 3,Freighting goods,Sea tanker,Crude tanker,"60,000�79,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000002
+27_319_3194_14_4,Scope 3,Freighting goods,Sea tanker,Crude tanker,"60,000�79,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00009
+27_319_3195_14_1,Scope 3,Freighting goods,Sea tanker,Crude tanker,"10,000�59,999 dwt",,tonne.km,kg CO2e,0.00921
+27_319_3195_14_2,Scope 3,Freighting goods,Sea tanker,Crude tanker,"10,000�59,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0091
+27_319_3195_14_3,Scope 3,Freighting goods,Sea tanker,Crude tanker,"10,000�59,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3195_14_4,Scope 3,Freighting goods,Sea tanker,Crude tanker,"10,000�59,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00011
+27_319_3196_14_1,Scope 3,Freighting goods,Sea tanker,Crude tanker,0�9999 dwt,,tonne.km,kg CO2e,0.03371
+27_319_3196_14_2,Scope 3,Freighting goods,Sea tanker,Crude tanker,0�9999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.0333
+27_319_3196_14_3,Scope 3,Freighting goods,Sea tanker,Crude tanker,0�9999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_319_3196_14_4,Scope 3,Freighting goods,Sea tanker,Crude tanker,0�9999 dwt,,tonne.km,kg CO2e of N2O per unit,0.0004
+27_319_3197_14_1,Scope 3,Freighting goods,Sea tanker,Crude tanker,Average,,tonne.km,kg CO2e,0.00457
+27_319_3197_14_2,Scope 3,Freighting goods,Sea tanker,Crude tanker,Average,,tonne.km,kg CO2e of CO2 per unit,0.00451
+27_319_3197_14_3,Scope 3,Freighting goods,Sea tanker,Crude tanker,Average,,tonne.km,kg CO2e of CH4 per unit,0.000001
+27_319_3197_14_4,Scope 3,Freighting goods,Sea tanker,Crude tanker,Average,,tonne.km,kg CO2e of N2O per unit,0.00005
+27_319_3198_14_1,Scope 3,Freighting goods,Sea tanker,Products tanker ,"60,000+ dwt",,tonne.km,kg CO2e,0.00577
+27_319_3198_14_2,Scope 3,Freighting goods,Sea tanker,Products tanker ,"60,000+ dwt",,tonne.km,kg CO2e of CO2 per unit,0.0057
+27_319_3198_14_3,Scope 3,Freighting goods,Sea tanker,Products tanker ,"60,000+ dwt",,tonne.km,kg CO2e of CH4 per unit,0.000002
+27_319_3198_14_4,Scope 3,Freighting goods,Sea tanker,Products tanker ,"60,000+ dwt",,tonne.km,kg CO2e of N2O per unit,0.00007
+27_319_3199_14_1,Scope 3,Freighting goods,Sea tanker,Products tanker ,"20,000�59,999 dwt",,tonne.km,kg CO2e,0.01043
+27_319_3199_14_2,Scope 3,Freighting goods,Sea tanker,Products tanker ,"20,000�59,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0103
+27_319_3199_14_3,Scope 3,Freighting goods,Sea tanker,Products tanker ,"20,000�59,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3199_14_4,Scope 3,Freighting goods,Sea tanker,Products tanker ,"20,000�59,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00012
+27_319_3200_14_1,Scope 3,Freighting goods,Sea tanker,Products tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e,0.01893
+27_319_3200_14_2,Scope 3,Freighting goods,Sea tanker,Products tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0187
+27_319_3200_14_3,Scope 3,Freighting goods,Sea tanker,Products tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_319_3200_14_4,Scope 3,Freighting goods,Sea tanker,Products tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00023
+27_319_3201_14_1,Scope 3,Freighting goods,Sea tanker,Products tanker ,5000�9999 dwt,,tonne.km,kg CO2e,0.02956
+27_319_3201_14_2,Scope 3,Freighting goods,Sea tanker,Products tanker ,5000�9999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.0292
+27_319_3201_14_3,Scope 3,Freighting goods,Sea tanker,Products tanker ,5000�9999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_319_3201_14_4,Scope 3,Freighting goods,Sea tanker,Products tanker ,5000�9999 dwt,,tonne.km,kg CO2e of N2O per unit,0.00035
+27_319_3202_14_1,Scope 3,Freighting goods,Sea tanker,Products tanker ,0�4999 dwt,,tonne.km,kg CO2e,0.04556
+27_319_3202_14_2,Scope 3,Freighting goods,Sea tanker,Products tanker ,0�4999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.045
+27_319_3202_14_3,Scope 3,Freighting goods,Sea tanker,Products tanker ,0�4999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_319_3202_14_4,Scope 3,Freighting goods,Sea tanker,Products tanker ,0�4999 dwt,,tonne.km,kg CO2e of N2O per unit,0.00055
+27_319_3203_14_1,Scope 3,Freighting goods,Sea tanker,Products tanker ,Average,,tonne.km,kg CO2e,0.00902
+27_319_3203_14_2,Scope 3,Freighting goods,Sea tanker,Products tanker ,Average,,tonne.km,kg CO2e of CO2 per unit,0.00891
+27_319_3203_14_3,Scope 3,Freighting goods,Sea tanker,Products tanker ,Average,,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3203_14_4,Scope 3,Freighting goods,Sea tanker,Products tanker ,Average,,tonne.km,kg CO2e of N2O per unit,0.00011
+27_319_3204_14_1,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"20,000+ dwt",,tonne.km,kg CO2e,0.0085
+27_319_3204_14_2,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"20,000+ dwt",,tonne.km,kg CO2e of CO2 per unit,0.0084
+27_319_3204_14_3,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"20,000+ dwt",,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3204_14_4,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"20,000+ dwt",,tonne.km,kg CO2e of N2O per unit,0.0001
+27_319_3205_14_1,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e,0.01093
+27_319_3205_14_2,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0108
+27_319_3205_14_3,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3205_14_4,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,"10,000�19,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00013
+27_319_3206_14_1,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,5000�9999 dwt,,tonne.km,kg CO2e,0.01529
+27_319_3206_14_2,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,5000�9999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.0151
+27_319_3206_14_3,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,5000�9999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_319_3206_14_4,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,5000�9999 dwt,,tonne.km,kg CO2e of N2O per unit,0.00018
+27_319_3207_14_1,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,0�4999 dwt,,tonne.km,kg CO2e,0.02248
+27_319_3207_14_2,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,0�4999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.0222
+27_319_3207_14_3,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,0�4999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_319_3207_14_4,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,0�4999 dwt,,tonne.km,kg CO2e of N2O per unit,0.00027
+27_319_3208_14_1,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,Average,,tonne.km,kg CO2e,0.01031
+27_319_3208_14_2,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,Average,,tonne.km,kg CO2e of CO2 per unit,0.01018
+27_319_3208_14_3,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,Average,,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3208_14_4,Scope 3,Freighting goods,Sea tanker,Chemical tanker ,Average,,tonne.km,kg CO2e of N2O per unit,0.00012
+27_319_3209_14_1,Scope 3,Freighting goods,Sea tanker,LNG tanker,"200,000+ m3",,tonne.km,kg CO2e,0.00942
+27_319_3209_14_2,Scope 3,Freighting goods,Sea tanker,LNG tanker,"200,000+ m3",,tonne.km,kg CO2e of CO2 per unit,0.0093
+27_319_3209_14_3,Scope 3,Freighting goods,Sea tanker,LNG tanker,"200,000+ m3",,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3209_14_4,Scope 3,Freighting goods,Sea tanker,LNG tanker,"200,000+ m3",,tonne.km,kg CO2e of N2O per unit,0.00011
+27_319_3210_14_1,Scope 3,Freighting goods,Sea tanker,LNG tanker,"0�199,999 m3",,tonne.km,kg CO2e,0.01468
+27_319_3210_14_2,Scope 3,Freighting goods,Sea tanker,LNG tanker,"0�199,999 m3",,tonne.km,kg CO2e of CO2 per unit,0.0145
+27_319_3210_14_3,Scope 3,Freighting goods,Sea tanker,LNG tanker,"0�199,999 m3",,tonne.km,kg CO2e of CH4 per unit,0.000004
+27_319_3210_14_4,Scope 3,Freighting goods,Sea tanker,LNG tanker,"0�199,999 m3",,tonne.km,kg CO2e of N2O per unit,0.00018
+27_319_3211_14_1,Scope 3,Freighting goods,Sea tanker,LNG tanker,Average,,tonne.km,kg CO2e,0.01153
+27_319_3211_14_2,Scope 3,Freighting goods,Sea tanker,LNG tanker,Average,,tonne.km,kg CO2e of CO2 per unit,0.01139
+27_319_3211_14_3,Scope 3,Freighting goods,Sea tanker,LNG tanker,Average,,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3211_14_4,Scope 3,Freighting goods,Sea tanker,LNG tanker,Average,,tonne.km,kg CO2e of N2O per unit,0.00014
+27_319_3212_14_1,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"50,000+ m3",,tonne.km,kg CO2e,0.00911
+27_319_3212_14_2,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"50,000+ m3",,tonne.km,kg CO2e of CO2 per unit,0.009
+27_319_3212_14_3,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"50,000+ m3",,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3212_14_4,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"50,000+ m3",,tonne.km,kg CO2e of N2O per unit,0.00011
+27_319_3213_14_1,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"0�49,999 m3",,tonne.km,kg CO2e,0.04404
+27_319_3213_14_2,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"0�49,999 m3",,tonne.km,kg CO2e of CO2 per unit,0.0435
+27_319_3213_14_3,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"0�49,999 m3",,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_319_3213_14_4,Scope 3,Freighting goods,Sea tanker,LPG Tanker,"0�49,999 m3",,tonne.km,kg CO2e of N2O per unit,0.00053
+27_319_3214_14_1,Scope 3,Freighting goods,Sea tanker,LPG Tanker,Average,,tonne.km,kg CO2e,0.01037
+27_319_3214_14_2,Scope 3,Freighting goods,Sea tanker,LPG Tanker,Average,,tonne.km,kg CO2e of CO2 per unit,0.01024
+27_319_3214_14_3,Scope 3,Freighting goods,Sea tanker,LPG Tanker,Average,,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_319_3214_14_4,Scope 3,Freighting goods,Sea tanker,LPG Tanker,Average,,tonne.km,kg CO2e of N2O per unit,0.00012
+27_320_3215_14_1,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"200,000+ dwt",,tonne.km,kg CO2e,0.00253
+27_320_3215_14_2,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"200,000+ dwt",,tonne.km,kg CO2e of CO2 per unit,0.0025
+27_320_3215_14_3,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"200,000+ dwt",,tonne.km,kg CO2e of CH4 per unit,0.000001
+27_320_3215_14_4,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"200,000+ dwt",,tonne.km,kg CO2e of N2O per unit,0.00003
+27_320_3216_14_1,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"100,000�199,999 dwt",,tonne.km,kg CO2e,0.00304
+27_320_3216_14_2,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"100,000�199,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.003
+27_320_3216_14_3,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"100,000�199,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000001
+27_320_3216_14_4,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"100,000�199,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00004
+27_320_3217_14_1,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"60,000�99,999 dwt",,tonne.km,kg CO2e,0.00415
+27_320_3217_14_2,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"60,000�99,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0041
+27_320_3217_14_3,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"60,000�99,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000001
+27_320_3217_14_4,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"60,000�99,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00005
+27_320_3218_14_1,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"35,000�59,999 dwt",,tonne.km,kg CO2e,0.00577
+27_320_3218_14_2,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"35,000�59,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0057
+27_320_3218_14_3,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"35,000�59,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000002
+27_320_3218_14_4,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"35,000�59,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.00007
+27_320_3219_14_1,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"10,000�34,999 dwt",,tonne.km,kg CO2e,0.008
+27_320_3219_14_2,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"10,000�34,999 dwt",,tonne.km,kg CO2e of CO2 per unit,0.0079
+27_320_3219_14_3,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"10,000�34,999 dwt",,tonne.km,kg CO2e of CH4 per unit,0.000002
+27_320_3219_14_4,Scope 3,Freighting goods,Cargo ship,Bulk carrier,"10,000�34,999 dwt",,tonne.km,kg CO2e of N2O per unit,0.0001
+27_320_3220_14_1,Scope 3,Freighting goods,Cargo ship,Bulk carrier,0�9999 dwt,,tonne.km,kg CO2e,0.02956
+27_320_3220_14_2,Scope 3,Freighting goods,Cargo ship,Bulk carrier,0�9999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.0292
+27_320_3220_14_3,Scope 3,Freighting goods,Cargo ship,Bulk carrier,0�9999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3220_14_4,Scope 3,Freighting goods,Cargo ship,Bulk carrier,0�9999 dwt,,tonne.km,kg CO2e of N2O per unit,0.00035
+27_320_3221_14_1,Scope 3,Freighting goods,Cargo ship,Bulk carrier,Average,,tonne.km,kg CO2e,0.00353
+27_320_3221_14_2,Scope 3,Freighting goods,Cargo ship,Bulk carrier,Average,,tonne.km,kg CO2e of CO2 per unit,0.00349
+27_320_3221_14_3,Scope 3,Freighting goods,Cargo ship,Bulk carrier,Average,,tonne.km,kg CO2e of CH4 per unit,0.000001
+27_320_3221_14_4,Scope 3,Freighting goods,Cargo ship,Bulk carrier,Average,,tonne.km,kg CO2e of N2O per unit,0.00004
+27_320_3222_14_1,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt",,tonne.km,kg CO2e,0.01205
+27_320_3222_14_2,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt",,tonne.km,kg CO2e of CO2 per unit,0.0119
+27_320_3222_14_3,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt",,tonne.km,kg CO2e of CH4 per unit,0.000004
+27_320_3222_14_4,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt",,tonne.km,kg CO2e of N2O per unit,0.00014
+27_320_3223_14_1,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt,,tonne.km,kg CO2e,0.016
+27_320_3223_14_2,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.0158
+27_320_3223_14_3,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3223_14_4,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt,,tonne.km,kg CO2e of N2O per unit,0.00019
+27_320_3224_14_1,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt,,tonne.km,kg CO2e,0.01407
+27_320_3224_14_2,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt,,tonne.km,kg CO2e of CO2 per unit,0.0139
+27_320_3224_14_3,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt,,tonne.km,kg CO2e of CH4 per unit,0.000004
+27_320_3224_14_4,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt,,tonne.km,kg CO2e of N2O per unit,0.00017
+27_320_3225_14_1,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",,tonne.km,kg CO2e,0.01114
+27_320_3225_14_2,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",,tonne.km,kg CO2e of CO2 per unit,0.011
+27_320_3225_14_3,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",,tonne.km,kg CO2e of CH4 per unit,0.000003
+27_320_3225_14_4,Scope 3,Freighting goods,Cargo ship,General cargo,"10,000+ dwt 100+ TEU",,tonne.km,kg CO2e of N2O per unit,0.00013
+27_320_3226_14_1,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt 100+ TEU,,tonne.km,kg CO2e,0.01772
+27_320_3226_14_2,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt 100+ TEU,,tonne.km,kg CO2e of CO2 per unit,0.0175
+27_320_3226_14_3,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt 100+ TEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3226_14_4,Scope 3,Freighting goods,Cargo ship,General cargo,5000�9999 dwt 100+ TEU,,tonne.km,kg CO2e of N2O per unit,0.00021
+27_320_3227_14_1,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt 100+ TEU,,tonne.km,kg CO2e,0.02005
+27_320_3227_14_2,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt 100+ TEU,,tonne.km,kg CO2e of CO2 per unit,0.0198
+27_320_3227_14_3,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt 100+ TEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3227_14_4,Scope 3,Freighting goods,Cargo ship,General cargo,0�4999 dwt 100+ TEU,,tonne.km,kg CO2e of N2O per unit,0.00024
+27_320_3228_14_1,Scope 3,Freighting goods,Cargo ship,General cargo,Average,,tonne.km,kg CO2e,0.01321
+27_320_3228_14_2,Scope 3,Freighting goods,Cargo ship,General cargo,Average,,tonne.km,kg CO2e of CO2 per unit,0.01305
+27_320_3228_14_3,Scope 3,Freighting goods,Cargo ship,General cargo,Average,,tonne.km,kg CO2e of CH4 per unit,0.000004
+27_320_3228_14_4,Scope 3,Freighting goods,Cargo ship,General cargo,Average,,tonne.km,kg CO2e of N2O per unit,0.00016
+27_320_3229_14_1,Scope 3,Freighting goods,Cargo ship,Container ship,8000+ TEU,,tonne.km,kg CO2e,0.01266
+27_320_3229_14_2,Scope 3,Freighting goods,Cargo ship,Container ship,8000+ TEU,,tonne.km,kg CO2e of CO2 per unit,0.0125
+27_320_3229_14_3,Scope 3,Freighting goods,Cargo ship,Container ship,8000+ TEU,,tonne.km,kg CO2e of CH4 per unit,0.000004
+27_320_3229_14_4,Scope 3,Freighting goods,Cargo ship,Container ship,8000+ TEU,,tonne.km,kg CO2e of N2O per unit,0.00015
+27_320_3230_14_1,Scope 3,Freighting goods,Cargo ship,Container ship,5000�7999 TEU,,tonne.km,kg CO2e,0.01681
+27_320_3230_14_2,Scope 3,Freighting goods,Cargo ship,Container ship,5000�7999 TEU,,tonne.km,kg CO2e of CO2 per unit,0.0166
+27_320_3230_14_3,Scope 3,Freighting goods,Cargo ship,Container ship,5000�7999 TEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3230_14_4,Scope 3,Freighting goods,Cargo ship,Container ship,5000�7999 TEU,,tonne.km,kg CO2e of N2O per unit,0.0002
+27_320_3231_14_1,Scope 3,Freighting goods,Cargo ship,Container ship,3000�4999 TEU,,tonne.km,kg CO2e,0.01681
+27_320_3231_14_2,Scope 3,Freighting goods,Cargo ship,Container ship,3000�4999 TEU,,tonne.km,kg CO2e of CO2 per unit,0.0166
+27_320_3231_14_3,Scope 3,Freighting goods,Cargo ship,Container ship,3000�4999 TEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3231_14_4,Scope 3,Freighting goods,Cargo ship,Container ship,3000�4999 TEU,,tonne.km,kg CO2e of N2O per unit,0.0002
+27_320_3232_14_1,Scope 3,Freighting goods,Cargo ship,Container ship,2000�2999 TEU,,tonne.km,kg CO2e,0.02025
+27_320_3232_14_2,Scope 3,Freighting goods,Cargo ship,Container ship,2000�2999 TEU,,tonne.km,kg CO2e of CO2 per unit,0.02
+27_320_3232_14_3,Scope 3,Freighting goods,Cargo ship,Container ship,2000�2999 TEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3232_14_4,Scope 3,Freighting goods,Cargo ship,Container ship,2000�2999 TEU,,tonne.km,kg CO2e of N2O per unit,0.00024
+27_320_3233_14_1,Scope 3,Freighting goods,Cargo ship,Container ship,1000�1999 TEU,,tonne.km,kg CO2e,0.0325
+27_320_3233_14_2,Scope 3,Freighting goods,Cargo ship,Container ship,1000�1999 TEU,,tonne.km,kg CO2e of CO2 per unit,0.0321
+27_320_3233_14_3,Scope 3,Freighting goods,Cargo ship,Container ship,1000�1999 TEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3233_14_4,Scope 3,Freighting goods,Cargo ship,Container ship,1000�1999 TEU,,tonne.km,kg CO2e of N2O per unit,0.00039
+27_320_3234_14_1,Scope 3,Freighting goods,Cargo ship,Container ship,0�999 TEU,,tonne.km,kg CO2e,0.03675
+27_320_3234_14_2,Scope 3,Freighting goods,Cargo ship,Container ship,0�999 TEU,,tonne.km,kg CO2e of CO2 per unit,0.0363
+27_320_3234_14_3,Scope 3,Freighting goods,Cargo ship,Container ship,0�999 TEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3234_14_4,Scope 3,Freighting goods,Cargo ship,Container ship,0�999 TEU,,tonne.km,kg CO2e of N2O per unit,0.00044
+27_320_3235_14_1,Scope 3,Freighting goods,Cargo ship,Container ship,Average,,tonne.km,kg CO2e,0.01612
+27_320_3235_14_2,Scope 3,Freighting goods,Cargo ship,Container ship,Average,,tonne.km,kg CO2e of CO2 per unit,0.01592
+27_320_3235_14_3,Scope 3,Freighting goods,Cargo ship,Container ship,Average,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3235_14_4,Scope 3,Freighting goods,Cargo ship,Container ship,Average,,tonne.km,kg CO2e of N2O per unit,0.00019
+27_320_3236_14_1,Scope 3,Freighting goods,Cargo ship,Vehicle transport,4000+ CEU,,tonne.km,kg CO2e,0.0324
+27_320_3236_14_2,Scope 3,Freighting goods,Cargo ship,Vehicle transport,4000+ CEU,,tonne.km,kg CO2e of CO2 per unit,0.032
+27_320_3236_14_3,Scope 3,Freighting goods,Cargo ship,Vehicle transport,4000+ CEU,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3236_14_4,Scope 3,Freighting goods,Cargo ship,Vehicle transport,4000+ CEU,,tonne.km,kg CO2e of N2O per unit,0.00039
+27_320_3237_14_1,Scope 3,Freighting goods,Cargo ship,Vehicle transport,0�3999 CEU,,tonne.km,kg CO2e,0.05832
+27_320_3237_14_2,Scope 3,Freighting goods,Cargo ship,Vehicle transport,0�3999 CEU,,tonne.km,kg CO2e of CO2 per unit,0.0576
+27_320_3237_14_3,Scope 3,Freighting goods,Cargo ship,Vehicle transport,0�3999 CEU,,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_320_3237_14_4,Scope 3,Freighting goods,Cargo ship,Vehicle transport,0�3999 CEU,,tonne.km,kg CO2e of N2O per unit,0.0007
+27_320_3238_14_1,Scope 3,Freighting goods,Cargo ship,Vehicle transport,Average,,tonne.km,kg CO2e,0.03852
+27_320_3238_14_2,Scope 3,Freighting goods,Cargo ship,Vehicle transport,Average,,tonne.km,kg CO2e of CO2 per unit,0.03805
+27_320_3238_14_3,Scope 3,Freighting goods,Cargo ship,Vehicle transport,Average,,tonne.km,kg CO2e of CH4 per unit,0.00001
+27_320_3238_14_4,Scope 3,Freighting goods,Cargo ship,Vehicle transport,Average,,tonne.km,kg CO2e of N2O per unit,0.00046
+27_320_3239_14_1,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,2000+ LM,,tonne.km,kg CO2e,0.05012
+27_320_3239_14_2,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,2000+ LM,,tonne.km,kg CO2e of CO2 per unit,0.0495
+27_320_3239_14_3,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,2000+ LM,,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_320_3239_14_4,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,2000+ LM,,tonne.km,kg CO2e of N2O per unit,0.0006
+27_320_3240_14_1,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,0�1999 LM,,tonne.km,kg CO2e,0.06105
+27_320_3240_14_2,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,0�1999 LM,,tonne.km,kg CO2e of CO2 per unit,0.0603
+27_320_3240_14_3,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,0�1999 LM,,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_320_3240_14_4,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,0�1999 LM,,tonne.km,kg CO2e of N2O per unit,0.00073
+27_320_3241_14_1,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,Average,,tonne.km,kg CO2e,0.05158
+27_320_3241_14_2,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,Average,,tonne.km,kg CO2e of CO2 per unit,0.05095
+27_320_3241_14_3,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,Average,,tonne.km,kg CO2e of CH4 per unit,0.00002
+27_320_3241_14_4,Scope 3,Freighting goods,Cargo ship,RoRo-Ferry,Average,,tonne.km,kg CO2e of N2O per unit,0.00062
+27_320_3242_14_1,Scope 3,Freighting goods,Cargo ship,Large RoPax ferry,Average,,tonne.km,kg CO2e,0.37612
+27_320_3242_14_2,Scope 3,Freighting goods,Cargo ship,Large RoPax ferry,Average,,tonne.km,kg CO2e of CO2 per unit,0.3715
+27_320_3242_14_3,Scope 3,Freighting goods,Cargo ship,Large RoPax ferry,Average,,tonne.km,kg CO2e of CH4 per unit,0.00012
+27_320_3242_14_4,Scope 3,Freighting goods,Cargo ship,Large RoPax ferry,Average,,tonne.km,kg CO2e of N2O per unit,0.0045
+27_320_3243_14_1,Scope 3,Freighting goods,Cargo ship,Refrigerated cargo, All dwt,,tonne.km,kg CO2e,0.01306
+27_320_3243_14_2,Scope 3,Freighting goods,Cargo ship,Refrigerated cargo, All dwt,,tonne.km,kg CO2e of CO2 per unit,0.0129
+27_320_3243_14_3,Scope 3,Freighting goods,Cargo ship,Refrigerated cargo, All dwt,,tonne.km,kg CO2e of CH4 per unit,0.000004
+27_320_3243_14_4,Scope 3,Freighting goods,Cargo ship,Refrigerated cargo, All dwt,,tonne.km,kg CO2e of N2O per unit,0.00016

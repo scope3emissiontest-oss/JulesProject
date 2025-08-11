@@ -1,0 +1,4 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+24_914_3188_11_1,Scope 3,WTT- business travel- sea,WTT- ferry,Foot passenger,,,passenger.km,kg CO2e,0.00424
+24_914_3189_11_1,Scope 3,WTT- business travel- sea,WTT- ferry,Car passenger,,,passenger.km,kg CO2e,0.02932
+24_914_3190_11_1,Scope 3,WTT- business travel- sea,WTT- ferry,Average (all passenger),,,passenger.km,kg CO2e,0.02555

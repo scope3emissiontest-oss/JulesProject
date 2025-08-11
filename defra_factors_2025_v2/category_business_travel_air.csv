@@ -1,0 +1,113 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+21_316_3160_11_1,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,With RF,passenger.km,kg CO2e,0.22928
+21_316_3160_11_2,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of CO2 per unit,0.22771
+21_316_3160_11_3,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of CH4 per unit,0.00022
+21_316_3160_11_4,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of N2O per unit,0.00134
+21_316_3161_11_1,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e,0.13552
+21_316_3161_11_2,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of CO2 per unit,0.13395
+21_316_3161_11_3,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00022
+21_316_3161_11_4,Scope 3,Business travel- air,Flights,"Domestic, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of N2O per unit,0.00134
+21_316_3162_11_1,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e,0.12786
+21_316_3162_11_2,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of CO2 per unit,0.12693
+21_316_3162_11_3,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3162_11_4,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of N2O per unit,0.00092
+21_316_3163_11_1,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e,0.07559
+21_316_3163_11_2,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of CO2 per unit,0.07466
+21_316_3163_11_3,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3163_11_4,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of N2O per unit,0.00092
+21_316_3164_11_1,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e,0.12576
+21_316_3164_11_2,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e of CO2 per unit,0.12485
+21_316_3164_11_3,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3164_11_4,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e of N2O per unit,0.0009
+21_316_3165_11_1,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e,0.07435
+21_316_3165_11_2,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.07344
+21_316_3165_11_3,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3165_11_4,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e of N2O per unit,0.0009
+21_316_3166_11_1,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e,0.18863
+21_316_3166_11_2,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e of CO2 per unit,0.18727
+21_316_3166_11_3,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3166_11_4,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e of N2O per unit,0.00135
+21_316_3167_11_1,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e,0.11152
+21_316_3167_11_2,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.11016
+21_316_3167_11_3,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3167_11_4,Scope 3,Business travel- air,Flights,"Short-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00135
+21_316_3168_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e,0.15282
+21_316_3168_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of CO2 per unit,0.15152
+21_316_3168_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3168_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,With RF,passenger.km,kg CO2e of N2O per unit,0.00129
+21_316_3169_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e,0.09043
+21_316_3169_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of CO2 per unit,0.08913
+21_316_3169_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3169_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Average passenger,Without RF,passenger.km,kg CO2e of N2O per unit,0.00129
+21_316_3170_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e,0.11704
+21_316_3170_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e of CO2 per unit,0.11604
+21_316_3170_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3170_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,With RF,passenger.km,kg CO2e of N2O per unit,0.00099
+21_316_3171_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e,0.06926
+21_316_3171_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.06826
+21_316_3171_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3171_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Economy class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00099
+21_316_3172_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,With RF,passenger.km,kg CO2e,0.18726
+21_316_3172_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,With RF,passenger.km,kg CO2e of CO2 per unit,0.18567
+21_316_3172_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3172_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,With RF,passenger.km,kg CO2e of N2O per unit,0.00157
+21_316_3173_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,Without RF,passenger.km,kg CO2e,0.11081
+21_316_3173_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.10922
+21_316_3173_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3173_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Premium economy class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00157
+21_316_3174_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e,0.3394
+21_316_3174_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e of CO2 per unit,0.33652
+21_316_3174_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00002
+21_316_3174_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,With RF,passenger.km,kg CO2e of N2O per unit,0.00285
+21_316_3175_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e,0.20083
+21_316_3175_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.19795
+21_316_3175_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00002
+21_316_3175_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",Business class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00285
+21_316_3176_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,With RF,passenger.km,kg CO2e,0.46814
+21_316_3176_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,With RF,passenger.km,kg CO2e of CO2 per unit,0.46417
+21_316_3176_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00003
+21_316_3176_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,With RF,passenger.km,kg CO2e of N2O per unit,0.00394
+21_316_3177_11_1,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,Without RF,passenger.km,kg CO2e,0.27701
+21_316_3177_11_2,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.27304
+21_316_3177_11_3,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00003
+21_316_3177_11_4,Scope 3,Business travel- air,Flights,"Long-haul, to/from UK",First class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00394
+21_316_3178_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,With RF,passenger.km,kg CO2e,0.14253
+21_316_3178_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,With RF,passenger.km,kg CO2e of CO2 per unit,0.14166
+21_316_3178_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3178_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,With RF,passenger.km,kg CO2e of N2O per unit,0.00086
+21_316_3179_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,Without RF,passenger.km,kg CO2e,0.0842
+21_316_3179_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,Without RF,passenger.km,kg CO2e of CO2 per unit,0.08333
+21_316_3179_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3179_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Average passenger,Without RF,passenger.km,kg CO2e of N2O per unit,0.00086
+21_316_3180_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,With RF,passenger.km,kg CO2e,0.10916
+21_316_3180_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,With RF,passenger.km,kg CO2e of CO2 per unit,0.10849
+21_316_3180_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3180_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,With RF,passenger.km,kg CO2e of N2O per unit,0.00067
+21_316_3181_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,Without RF,passenger.km,kg CO2e,0.06449
+21_316_3181_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.06382
+21_316_3181_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3181_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Economy class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00067
+21_316_3182_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,With RF,passenger.km,kg CO2e,0.17465
+21_316_3182_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,With RF,passenger.km,kg CO2e of CO2 per unit,0.17358
+21_316_3182_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3182_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,With RF,passenger.km,kg CO2e of N2O per unit,0.00106
+21_316_3183_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,Without RF,passenger.km,kg CO2e,0.10318
+21_316_3183_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.10211
+21_316_3183_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00001
+21_316_3183_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Premium economy class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00106
+21_316_3184_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,With RF,passenger.km,kg CO2e,0.31656
+21_316_3184_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,With RF,passenger.km,kg CO2e of CO2 per unit,0.31462
+21_316_3184_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00002
+21_316_3184_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,With RF,passenger.km,kg CO2e of N2O per unit,0.00192
+21_316_3185_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,Without RF,passenger.km,kg CO2e,0.18701
+21_316_3185_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.18507
+21_316_3185_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00002
+21_316_3185_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",Business class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00192
+21_316_3186_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,With RF,passenger.km,kg CO2e,0.43663
+21_316_3186_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,With RF,passenger.km,kg CO2e of CO2 per unit,0.43396
+21_316_3186_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,With RF,passenger.km,kg CO2e of CH4 per unit,0.00002
+21_316_3186_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,With RF,passenger.km,kg CO2e of N2O per unit,0.00265
+21_316_3187_11_1,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,Without RF,passenger.km,kg CO2e,0.25794
+21_316_3187_11_2,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,Without RF,passenger.km,kg CO2e of CO2 per unit,0.25527
+21_316_3187_11_3,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,Without RF,passenger.km,kg CO2e of CH4 per unit,0.00002
+21_316_3187_11_4,Scope 3,Business travel- air,Flights,"International, to/from non-UK",First class,Without RF,passenger.km,kg CO2e of N2O per unit,0.00265

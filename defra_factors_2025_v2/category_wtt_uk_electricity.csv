@@ -1,0 +1,3 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+15_917_4000_5_1,Scope 3,WTT- UK electricity,WTT- UK electricity (generation),Electricity: UK,kWh,,kWh,kg CO2e,0.0459
+15_918_4000_5_1,Scope 3,WTT- UK electricity,WTT- UK electricity (T&D),Electricity: UK,kWh,,kWh,kg CO2e,0.00397

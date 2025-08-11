@@ -1,0 +1,59 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+99_604_1011_15_2,Outside of Scopes,Outside of scopes,Forecourt fuels containing biofuel,Diesel (average biofuel blend),,,tonnes,kg CO2e of CO2 per unit,163.17
+99_604_1011_8_2,Outside of Scopes,Outside of scopes,Forecourt fuels containing biofuel,Diesel (average biofuel blend),,,litres,kg CO2e of CO2 per unit,0.14
+99_604_1011_5_2,Outside of Scopes,Outside of scopes,Forecourt fuels containing biofuel,Diesel (average biofuel blend),,,kWh,kg CO2e of CO2 per unit,0.01
+99_604_1017_15_2,Outside of Scopes,Outside of scopes,Forecourt fuels containing biofuel,Petrol (average biofuel blend),,,tonnes,kg CO2e of CO2 per unit,177.88
+99_604_1017_8_2,Outside of Scopes,Outside of scopes,Forecourt fuels containing biofuel,Petrol (average biofuel blend),,,litres,kg CO2e of CO2 per unit,0.13
+99_604_1017_5_2,Outside of Scopes,Outside of scopes,Forecourt fuels containing biofuel,Petrol (average biofuel blend),,,kWh,kg CO2e of CO2 per unit,0.01
+99_103_1031_8_2,Outside of Scopes,Outside of scopes,Biofuel,Bioethanol,,,litres,kg CO2e of CO2 per unit,1.52
+99_103_1031_2_2,Outside of Scopes,Outside of scopes,Biofuel,Bioethanol,,,GJ,kg CO2e of CO2 per unit,71.37
+99_103_1031_3_2,Outside of Scopes,Outside of scopes,Biofuel,Bioethanol,,,kg,kg CO2e of CO2 per unit,1.91
+99_103_1032_8_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME,,,litres,kg CO2e of CO2 per unit,2.39
+99_103_1032_2_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME,,,GJ,kg CO2e of CO2 per unit,72.16
+99_103_1032_3_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME,,,kg,kg CO2e of CO2 per unit,2.68
+99_103_1033_8_2,Outside of Scopes,Outside of scopes,Biofuel,Biomethane (compressed),,,litres,kg CO2e of CO2 per unit,
+99_103_1033_2_2,Outside of Scopes,Outside of scopes,Biofuel,Biomethane (compressed),,,GJ,kg CO2e of CO2 per unit,55.28
+99_103_1033_3_2,Outside of Scopes,Outside of scopes,Biofuel,Biomethane (compressed),,,kg,kg CO2e of CO2 per unit,2.71
+99_103_1034_8_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME (from used cooking oil),,,litres,kg CO2e of CO2 per unit,2.39
+99_103_1034_2_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME (from used cooking oil),,,GJ,kg CO2e of CO2 per unit,72.16
+99_103_1034_3_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME (from used cooking oil),,,kg,kg CO2e of CO2 per unit,2.68
+99_103_1035_8_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME (from Tallow),,,litres,kg CO2e of CO2 per unit,2.39
+99_103_1035_2_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME (from Tallow),,,GJ,kg CO2e of CO2 per unit,72.16
+99_103_1035_3_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel ME (from Tallow),,,kg,kg CO2e of CO2 per unit,2.68
+99_103_1036_8_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel HVO,,,litres,kg CO2e of CO2 per unit,2.43
+99_103_1036_2_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel HVO,,,GJ,kg CO2e of CO2 per unit,70.83
+99_103_1036_3_2,Outside of Scopes,Outside of scopes,Biofuel,Biodiesel HVO,,,kg,kg CO2e of CO2 per unit,3.12
+99_103_1037_8_2,Outside of Scopes,Outside of scopes,Biofuel,Biopropane,,,litres,kg CO2e of CO2 per unit,1.54
+99_103_1037_2_2,Outside of Scopes,Outside of scopes,Biofuel,Biopropane,,,GJ,kg CO2e of CO2 per unit,64.51
+99_103_1037_3_2,Outside of Scopes,Outside of scopes,Biofuel,Biopropane,,,kg,kg CO2e of CO2 per unit,2.99
+99_103_1038_8_2,Outside of Scopes,Outside of scopes,Biofuel,Development diesel,,,litres,kg CO2e of CO2 per unit,2.63
+99_103_1038_2_2,Outside of Scopes,Outside of scopes,Biofuel,Development diesel,,,GJ,kg CO2e of CO2 per unit,73.54
+99_103_1038_3_2,Outside of Scopes,Outside of scopes,Biofuel,Development diesel,,,kg,kg CO2e of CO2 per unit,3.16
+99_103_1039_8_2,Outside of Scopes,Outside of scopes,Biofuel,Development petrol,,,litres,kg CO2e of CO2 per unit,2.33
+99_103_1039_2_2,Outside of Scopes,Outside of scopes,Biofuel,Development petrol,,,GJ,kg CO2e of CO2 per unit,70.21
+99_103_1039_3_2,Outside of Scopes,Outside of scopes,Biofuel,Development petrol,,,kg,kg CO2e of CO2 per unit,3.13
+99_103_1040_8_2,Outside of Scopes,Outside of scopes,Biofuel,Off road biodiesel,,,litres,kg CO2e of CO2 per unit,2.39
+99_103_1040_2_2,Outside of Scopes,Outside of scopes,Biofuel,Off road biodiesel,,,GJ,kg CO2e of CO2 per unit,72.16
+99_103_1040_3_2,Outside of Scopes,Outside of scopes,Biofuel,Off road biodiesel,,,kg,kg CO2e of CO2 per unit,2.68
+99_103_1041_8_2,Outside of Scopes,Outside of scopes,Biofuel,Biomethane (liquified),,,litres,kg CO2e of CO2 per unit,
+99_103_1041_2_2,Outside of Scopes,Outside of scopes,Biofuel,Biomethane (liquified),,,GJ,kg CO2e of CO2 per unit,56.8
+99_103_1041_3_2,Outside of Scopes,Outside of scopes,Biofuel,Biomethane (liquified),,,kg,kg CO2e of CO2 per unit,2.78
+99_103_1042_8_2,Outside of Scopes,Outside of scopes,Biofuel,Methanol (bio),,,litres,kg CO2e of CO2 per unit,1.09
+99_103_1042_2_2,Outside of Scopes,Outside of scopes,Biofuel,Methanol (bio),,,GJ,kg CO2e of CO2 per unit,68.92
+99_103_1042_3_2,Outside of Scopes,Outside of scopes,Biofuel,Methanol (bio),,,kg,kg CO2e of CO2 per unit,1.37
+99_103_1049_8_2,Outside of Scopes,Outside of scopes,Biofuel,Avtur (renewable),,,litres,kg CO2e of CO2 per unit,2.51
+99_103_1049_2_2,Outside of Scopes,Outside of scopes,Biofuel,Avtur (renewable),,,GJ,kg CO2e of CO2 per unit,71.74
+99_103_1049_3_2,Outside of Scopes,Outside of scopes,Biofuel,Avtur (renewable),,,kg,kg CO2e of CO2 per unit,3.15
+99_104_1043_15_2,Outside of Scopes,Outside of scopes,Biomass,Wood logs,,,tonnes,kg CO2e of CO2 per unit,1436.23
+99_104_1043_5_2,Outside of Scopes,Outside of scopes,Biomass,Wood logs,,,kWh,kg CO2e of CO2 per unit,0.35
+99_104_1044_15_2,Outside of Scopes,Outside of scopes,Biomass,Wood chips,,,tonnes,kg CO2e of CO2 per unit,1335.71
+99_104_1044_5_2,Outside of Scopes,Outside of scopes,Biomass,Wood chips,,,kWh,kg CO2e of CO2 per unit,0.35
+99_104_1045_15_2,Outside of Scopes,Outside of scopes,Biomass,Wood pellets,,,tonnes,kg CO2e of CO2 per unit,1677.18
+99_104_1045_5_2,Outside of Scopes,Outside of scopes,Biomass,Wood pellets,,,kWh,kg CO2e of CO2 per unit,0.35
+99_104_1046_15_2,Outside of Scopes,Outside of scopes,Biomass,Grass/straw,,,tonnes,kg CO2e of CO2 per unit,1287.25
+99_104_1046_5_2,Outside of Scopes,Outside of scopes,Biomass,Grass/straw,,,kWh,kg CO2e of CO2 per unit,0.35
+99_105_1047_15_2,Outside of Scopes,Outside of scopes,Biogas,Biogas,,,tonnes,kg CO2e of CO2 per unit,1105.6695
+99_105_1047_5_2,Outside of Scopes,Outside of scopes,Biogas,Biogas,,,kWh,kg CO2e of CO2 per unit,0.19902
+99_105_1048_15_2,Outside of Scopes,Outside of scopes,Biogas,Landfill gas,,,tonnes,kg CO2e of CO2 per unit,679.98674
+99_105_1048_5_2,Outside of Scopes,Outside of scopes,Biogas,Landfill gas,,,kWh,kg CO2e of CO2 per unit,0.19902
+99_400_4001_5_2,Outside of Scopes,Outside of scopes,Electricity generated,Electricity: UK,,,kWh,kg CO2e of CO2 per unit,0.11507

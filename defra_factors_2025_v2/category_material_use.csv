@@ -1,0 +1,169 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+19_500_5000_15_1,Scope 3,Material use,Construction,Aggregates,,Primary material production,tonnes,kg CO2e,7.79306
+19_500_5001_15_1,Scope 3,Material use,Construction,Aggregates,,Re-used,tonnes,kg CO2e,2.21
+19_500_5002_15_1,Scope 3,Material use,Construction,Aggregates,,Open-loop source,tonnes,kg CO2e,
+19_500_5003_15_1,Scope 3,Material use,Construction,Aggregates,,Closed-loop source,tonnes,kg CO2e,3.21835
+19_500_5004_15_1,Scope 3,Material use,Construction,Average construction,,Primary material production,tonnes,kg CO2e,75.00675
+19_500_5005_15_1,Scope 3,Material use,Construction,Average construction,,Re-used,tonnes,kg CO2e,
+19_500_5006_15_1,Scope 3,Material use,Construction,Average construction,,Open-loop source,tonnes,kg CO2e,
+19_500_5007_15_1,Scope 3,Material use,Construction,Average construction,,Closed-loop source,tonnes,kg CO2e,
+19_500_5008_15_1,Scope 3,Material use,Construction,Asbestos,,Primary material production,tonnes,kg CO2e,27
+19_500_5009_15_1,Scope 3,Material use,Construction,Asbestos,,Re-used,tonnes,kg CO2e,
+19_500_5010_15_1,Scope 3,Material use,Construction,Asbestos,,Open-loop source,tonnes,kg CO2e,
+19_500_5011_15_1,Scope 3,Material use,Construction,Asbestos,,Closed-loop source,tonnes,kg CO2e,
+19_500_5012_15_1,Scope 3,Material use,Construction,Asphalt,,Primary material production,tonnes,kg CO2e,39.21249
+19_500_5013_15_1,Scope 3,Material use,Construction,Asphalt,,Re-used,tonnes,kg CO2e,1.73826
+19_500_5014_15_1,Scope 3,Material use,Construction,Asphalt,,Open-loop source,tonnes,kg CO2e,
+19_500_5015_15_1,Scope 3,Material use,Construction,Asphalt,,Closed-loop source,tonnes,kg CO2e,28.67835
+19_500_5016_15_1,Scope 3,Material use,Construction,Bricks,,Primary material production,tonnes,kg CO2e,241.79306
+19_500_5017_15_1,Scope 3,Material use,Construction,Bricks,,Re-used,tonnes,kg CO2e,
+19_500_5018_15_1,Scope 3,Material use,Construction,Bricks,,Open-loop source,tonnes,kg CO2e,
+19_500_5019_15_1,Scope 3,Material use,Construction,Bricks,,Closed-loop source,tonnes,kg CO2e,
+19_500_5020_15_1,Scope 3,Material use,Construction,Concrete,,Primary material production,tonnes,kg CO2e,118.79306
+19_500_5021_15_1,Scope 3,Material use,Construction,Concrete,,Re-used,tonnes,kg CO2e,
+19_500_5022_15_1,Scope 3,Material use,Construction,Concrete,,Open-loop source,tonnes,kg CO2e,
+19_500_5023_15_1,Scope 3,Material use,Construction,Concrete,,Closed-loop source,tonnes,kg CO2e,3.21835
+19_500_5024_15_1,Scope 3,Material use,Construction,Insulation,,Primary material production,tonnes,kg CO2e,1861.79306
+19_500_5025_15_1,Scope 3,Material use,Construction,Insulation,,Re-used,tonnes,kg CO2e,
+19_500_5026_15_1,Scope 3,Material use,Construction,Insulation,,Open-loop source,tonnes,kg CO2e,
+19_500_5027_15_1,Scope 3,Material use,Construction,Insulation,,Closed-loop source,tonnes,kg CO2e,1852.12293
+19_500_5028_15_1,Scope 3,Material use,Construction,Metals,,Primary material production,tonnes,kg CO2e,3824.09335
+19_500_5029_15_1,Scope 3,Material use,Construction,Metals,,Re-used,tonnes,kg CO2e,
+19_500_5030_15_1,Scope 3,Material use,Construction,Metals,,Open-loop source,tonnes,kg CO2e,
+19_500_5031_15_1,Scope 3,Material use,Construction,Metals,,Closed-loop source,tonnes,kg CO2e,1638.74406
+19_500_5032_15_1,Scope 3,Material use,Construction,Soils,,Primary material production,tonnes,kg CO2e,
+19_500_5033_15_1,Scope 3,Material use,Construction,Soils,,Re-used,tonnes,kg CO2e,
+19_500_5034_15_1,Scope 3,Material use,Construction,Soils,,Open-loop source,tonnes,kg CO2e,
+19_500_5035_15_1,Scope 3,Material use,Construction,Soils,,Closed-loop source,tonnes,kg CO2e,1.00835
+19_500_5036_15_1,Scope 3,Material use,Construction,Mineral oil,,Primary material production,tonnes,kg CO2e,1401
+19_500_5037_15_1,Scope 3,Material use,Construction,Mineral oil,,Re-used,tonnes,kg CO2e,
+19_500_5038_15_1,Scope 3,Material use,Construction,Mineral oil,,Open-loop source,tonnes,kg CO2e,
+19_500_5039_15_1,Scope 3,Material use,Construction,Mineral oil,,Closed-loop source,tonnes,kg CO2e,676
+19_500_5040_15_1,Scope 3,Material use,Construction,Plasterboard,,Primary material production,tonnes,kg CO2e,120.05
+19_500_5041_15_1,Scope 3,Material use,Construction,Plasterboard,,Re-used,tonnes,kg CO2e,
+19_500_5042_15_1,Scope 3,Material use,Construction,Plasterboard,,Open-loop source,tonnes,kg CO2e,
+19_500_5043_15_1,Scope 3,Material use,Construction,Plasterboard,,Closed-loop source,tonnes,kg CO2e,32.17
+19_500_5044_15_1,Scope 3,Material use,Construction,Tyres,,Primary material production,tonnes,kg CO2e,3335.5719
+19_500_5045_15_1,Scope 3,Material use,Construction,Tyres,,Re-used,tonnes,kg CO2e,731.21789
+19_500_5046_15_1,Scope 3,Material use,Construction,Tyres,,Open-loop source,tonnes,kg CO2e,
+19_500_5047_15_1,Scope 3,Material use,Construction,Tyres,,Closed-loop source,tonnes,kg CO2e,
+19_500_5048_15_1,Scope 3,Material use,Construction,Wood,,Primary material production,tonnes,kg CO2e,269.50416
+19_500_5049_15_1,Scope 3,Material use,Construction,Wood,,Re-used,tonnes,kg CO2e,38.54288
+19_500_5050_15_1,Scope 3,Material use,Construction,Wood,,Open-loop source,tonnes,kg CO2e,
+19_500_5051_15_1,Scope 3,Material use,Construction,Wood,,Closed-loop source,tonnes,kg CO2e,
+19_501_5052_15_1,Scope 3,Material use,Other,Books,,Primary material production,tonnes,kg CO2e,
+19_501_5053_15_1,Scope 3,Material use,Other,Books,,Re-used,tonnes,kg CO2e,
+19_501_5054_15_1,Scope 3,Material use,Other,Books,,Open-loop source,tonnes,kg CO2e,
+19_501_5055_15_1,Scope 3,Material use,Other,Books,,Closed-loop source,tonnes,kg CO2e,
+19_501_5056_15_1,Scope 3,Material use,Other,Glass,,Primary material production,tonnes,kg CO2e,1402.76667
+19_501_5057_15_1,Scope 3,Material use,Other,Glass,,Re-used,tonnes,kg CO2e,
+19_501_5058_15_1,Scope 3,Material use,Other,Glass,,Open-loop source,tonnes,kg CO2e,
+19_501_5059_15_1,Scope 3,Material use,Other,Glass,,Closed-loop source,tonnes,kg CO2e,823.18954
+19_501_5060_15_1,Scope 3,Material use,Other,Clothing,,Primary material production,tonnes,kg CO2e,22310
+19_501_5061_15_1,Scope 3,Material use,Other,Clothing,,Re-used,tonnes,kg CO2e,152.25
+19_501_5062_15_1,Scope 3,Material use,Other,Clothing,,Open-loop source,tonnes,kg CO2e,
+19_501_5063_15_1,Scope 3,Material use,Other,Clothing,,Closed-loop source,tonnes,kg CO2e,
+19_501_5064_15_1,Scope 3,Material use,Other,Food and drink,,Primary material production,tonnes,kg CO2e,3701.40359
+19_501_5065_15_1,Scope 3,Material use,Other,Food and drink,,Re-used,tonnes,kg CO2e,
+19_501_5066_15_1,Scope 3,Material use,Other,Food and drink,,Open-loop source,tonnes,kg CO2e,
+19_501_5067_15_1,Scope 3,Material use,Other,Food and drink,,Closed-loop source,tonnes,kg CO2e,
+19_502_5068_15_1,Scope 3,Material use,Organic,Compost derived from garden waste,,Primary material production,tonnes,kg CO2e,112.08811
+19_502_5069_15_1,Scope 3,Material use,Organic,Compost derived from garden waste,,Re-used,tonnes,kg CO2e,
+19_502_5070_15_1,Scope 3,Material use,Organic,Compost derived from garden waste,,Open-loop source,tonnes,kg CO2e,
+19_502_5071_15_1,Scope 3,Material use,Organic,Compost derived from garden waste,,Closed-loop source,tonnes,kg CO2e,
+19_502_5072_15_1,Scope 3,Material use,Organic,Compost derived from food and garden waste,,Primary material production,tonnes,kg CO2e,114.90473
+19_502_5073_15_1,Scope 3,Material use,Organic,Compost derived from food and garden waste,,Re-used,tonnes,kg CO2e,
+19_502_5074_15_1,Scope 3,Material use,Organic,Compost derived from food and garden waste,,Open-loop source,tonnes,kg CO2e,
+19_502_5075_15_1,Scope 3,Material use,Organic,Compost derived from food and garden waste,,Closed-loop source,tonnes,kg CO2e,
+19_503_5076_15_1,Scope 3,Material use,Electrical items,Electrical items - fridges and freezers,,Primary material production,tonnes,kg CO2e,4363.33333
+19_503_5077_15_1,Scope 3,Material use,Electrical items,Electrical items - fridges and freezers,,Re-used,tonnes,kg CO2e,
+19_503_5078_15_1,Scope 3,Material use,Electrical items,Electrical items - fridges and freezers,,Open-loop source,tonnes,kg CO2e,
+19_503_5079_15_1,Scope 3,Material use,Electrical items,Electrical items - fridges and freezers,,Closed-loop source,tonnes,kg CO2e,
+19_503_5080_15_1,Scope 3,Material use,Electrical items,Electrical items - large,,Primary material production,tonnes,kg CO2e,3267
+19_503_5081_15_1,Scope 3,Material use,Electrical items,Electrical items - large,,Re-used,tonnes,kg CO2e,
+19_503_5082_15_1,Scope 3,Material use,Electrical items,Electrical items - large,,Open-loop source,tonnes,kg CO2e,
+19_503_5083_15_1,Scope 3,Material use,Electrical items,Electrical items - large,,Closed-loop source,tonnes,kg CO2e,
+19_503_5084_15_1,Scope 3,Material use,Electrical items,Electrical items - IT,,Primary material production,tonnes,kg CO2e,24865.47556
+19_503_5085_15_1,Scope 3,Material use,Electrical items,Electrical items - IT,,Re-used,tonnes,kg CO2e,
+19_503_5086_15_1,Scope 3,Material use,Electrical items,Electrical items - IT,,Open-loop source,tonnes,kg CO2e,
+19_503_5087_15_1,Scope 3,Material use,Electrical items,Electrical items - IT,,Closed-loop source,tonnes,kg CO2e,
+19_503_5088_15_1,Scope 3,Material use,Electrical items,Electrical items - small,,Primary material production,tonnes,kg CO2e,5647.94563
+19_503_5089_15_1,Scope 3,Material use,Electrical items,Electrical items - small,,Re-used,tonnes,kg CO2e,
+19_503_5090_15_1,Scope 3,Material use,Electrical items,Electrical items - small,,Open-loop source,tonnes,kg CO2e,
+19_503_5091_15_1,Scope 3,Material use,Electrical items,Electrical items - small,,Closed-loop source,tonnes,kg CO2e,
+19_503_5092_15_1,Scope 3,Material use,Electrical items,Batteries - Alkaline,,Primary material production,tonnes,kg CO2e,4633.47826
+19_503_5093_15_1,Scope 3,Material use,Electrical items,Batteries - Alkaline,,Re-used,tonnes,kg CO2e,
+19_503_5094_15_1,Scope 3,Material use,Electrical items,Batteries - Alkaline,,Open-loop source,tonnes,kg CO2e,
+19_503_5095_15_1,Scope 3,Material use,Electrical items,Batteries - Alkaline,,Closed-loop source,tonnes,kg CO2e,
+19_503_5096_15_1,Scope 3,Material use,Electrical items,Batteries - Li ion,,Primary material production,tonnes,kg CO2e,6308
+19_503_5097_15_1,Scope 3,Material use,Electrical items,Batteries - Li ion,,Re-used,tonnes,kg CO2e,
+19_503_5098_15_1,Scope 3,Material use,Electrical items,Batteries - Li ion,,Open-loop source,tonnes,kg CO2e,
+19_503_5099_15_1,Scope 3,Material use,Electrical items,Batteries - Li ion,,Closed-loop source,tonnes,kg CO2e,
+19_503_5100_15_1,Scope 3,Material use,Electrical items,Batteries - NiMh,,Primary material production,tonnes,kg CO2e,28380
+19_503_5101_15_1,Scope 3,Material use,Electrical items,Batteries - NiMh,,Re-used,tonnes,kg CO2e,
+19_503_5102_15_1,Scope 3,Material use,Electrical items,Batteries - NiMh,,Open-loop source,tonnes,kg CO2e,
+19_503_5103_15_1,Scope 3,Material use,Electrical items,Batteries - NiMh,,Closed-loop source,tonnes,kg CO2e,
+19_504_5104_15_1,Scope 3,Material use,Metal,Metal: aluminium cans and foil (excl. forming),,Primary material production,tonnes,kg CO2e,9115.90131
+19_504_5105_15_1,Scope 3,Material use,Metal,Metal: aluminium cans and foil (excl. forming),,Re-used,tonnes,kg CO2e,
+19_504_5106_15_1,Scope 3,Material use,Metal,Metal: aluminium cans and foil (excl. forming),,Open-loop source,tonnes,kg CO2e,
+19_504_5107_15_1,Scope 3,Material use,Metal,Metal: aluminium cans and foil (excl. forming),,Closed-loop source,tonnes,kg CO2e,995.0779
+19_504_5108_15_1,Scope 3,Material use,Metal,Metal: mixed cans,,Primary material production,tonnes,kg CO2e,5114.62131
+19_504_5109_15_1,Scope 3,Material use,Metal,Metal: mixed cans,,Re-used,tonnes,kg CO2e,
+19_504_5110_15_1,Scope 3,Material use,Metal,Metal: mixed cans,,Open-loop source,tonnes,kg CO2e,
+19_504_5111_15_1,Scope 3,Material use,Metal,Metal: mixed cans,,Closed-loop source,tonnes,kg CO2e,1525.52488
+19_504_5112_15_1,Scope 3,Material use,Metal,Metal: scrap metal,,Primary material production,tonnes,kg CO2e,3473.11953
+19_504_5113_15_1,Scope 3,Material use,Metal,Metal: scrap metal,,Re-used,tonnes,kg CO2e,
+19_504_5114_15_1,Scope 3,Material use,Metal,Metal: scrap metal,,Open-loop source,tonnes,kg CO2e,
+19_504_5115_15_1,Scope 3,Material use,Metal,Metal: scrap metal,,Closed-loop source,tonnes,kg CO2e,1706.42359
+19_504_5116_15_1,Scope 3,Material use,Metal,Metal: steel cans,,Primary material production,tonnes,kg CO2e,2863.90131
+19_504_5117_15_1,Scope 3,Material use,Metal,Metal: steel cans,,Re-used,tonnes,kg CO2e,
+19_504_5118_15_1,Scope 3,Material use,Metal,Metal: steel cans,,Open-loop source,tonnes,kg CO2e,
+19_504_5119_15_1,Scope 3,Material use,Metal,Metal: steel cans,,Closed-loop source,tonnes,kg CO2e,1823.90131
+19_505_5120_15_1,Scope 3,Material use,Plastic,Plastics: average plastics,,Primary material production,tonnes,kg CO2e,3172.49932
+19_505_5121_15_1,Scope 3,Material use,Plastic,Plastics: average plastics,,Re-used,tonnes,kg CO2e,
+19_505_5122_15_1,Scope 3,Material use,Plastic,Plastics: average plastics,,Open-loop source,tonnes,kg CO2e,
+19_505_5123_15_1,Scope 3,Material use,Plastic,Plastics: average plastics,,Closed-loop source,tonnes,kg CO2e,1575.39106
+19_505_5124_15_1,Scope 3,Material use,Plastic,Plastics: average plastic film,,Primary material production,tonnes,kg CO2e,2916.50513
+19_505_5125_15_1,Scope 3,Material use,Plastic,Plastics: average plastic film,,Re-used,tonnes,kg CO2e,
+19_505_5126_15_1,Scope 3,Material use,Plastic,Plastics: average plastic film,,Open-loop source,tonnes,kg CO2e,
+19_505_5127_15_1,Scope 3,Material use,Plastic,Plastics: average plastic film,,Closed-loop source,tonnes,kg CO2e,1103.56537
+19_505_5128_15_1,Scope 3,Material use,Plastic,Plastics: average plastic rigid,,Primary material production,tonnes,kg CO2e,3354.28062
+19_505_5129_15_1,Scope 3,Material use,Plastic,Plastics: average plastic rigid,,Re-used,tonnes,kg CO2e,
+19_505_5130_15_1,Scope 3,Material use,Plastic,Plastics: average plastic rigid,,Open-loop source,tonnes,kg CO2e,
+19_505_5131_15_1,Scope 3,Material use,Plastic,Plastics: average plastic rigid,,Closed-loop source,tonnes,kg CO2e,1915.72549
+19_505_5132_15_1,Scope 3,Material use,Plastic,Plastics: HDPE (incl. forming),,Primary material production,tonnes,kg CO2e,3095.15524
+19_505_5133_15_1,Scope 3,Material use,Plastic,Plastics: HDPE (incl. forming),,Re-used,tonnes,kg CO2e,
+19_505_5134_15_1,Scope 3,Material use,Plastic,Plastics: HDPE (incl. forming),,Open-loop source,tonnes,kg CO2e,
+19_505_5135_15_1,Scope 3,Material use,Plastic,Plastics: HDPE (incl. forming),,Closed-loop source,tonnes,kg CO2e,1770.79099
+19_505_5136_15_1,Scope 3,Material use,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Primary material production,tonnes,kg CO2e,2965.0779
+19_505_5137_15_1,Scope 3,Material use,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Re-used,tonnes,kg CO2e,
+19_505_5138_15_1,Scope 3,Material use,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Open-loop source,tonnes,kg CO2e,
+19_505_5139_15_1,Scope 3,Material use,Plastic,Plastics: LDPE and LLDPE (incl. forming),,Closed-loop source,tonnes,kg CO2e,1097.90131
+19_505_5140_15_1,Scope 3,Material use,Plastic,Plastics: PET (incl. forming),,Primary material production,tonnes,kg CO2e,3863.90131
+19_505_5141_15_1,Scope 3,Material use,Plastic,Plastics: PET (incl. forming),,Re-used,tonnes,kg CO2e,
+19_505_5142_15_1,Scope 3,Material use,Plastic,Plastics: PET (incl. forming),,Open-loop source,tonnes,kg CO2e,
+19_505_5143_15_1,Scope 3,Material use,Plastic,Plastics: PET (incl. forming),,Closed-loop source,tonnes,kg CO2e,2213.90131
+19_505_5144_15_1,Scope 3,Material use,Plastic,Plastics: PP (incl. forming),,Primary material production,tonnes,kg CO2e,2577.57172
+19_505_5145_15_1,Scope 3,Material use,Plastic,Plastics: PP (incl. forming),,Re-used,tonnes,kg CO2e,
+19_505_5146_15_1,Scope 3,Material use,Plastic,Plastics: PP (incl. forming),,Open-loop source,tonnes,kg CO2e,
+19_505_5147_15_1,Scope 3,Material use,Plastic,Plastics: PP (incl. forming),,Closed-loop source,tonnes,kg CO2e,1312.57172
+19_505_5148_15_1,Scope 3,Material use,Plastic,Plastics: PS (incl. forming),,Primary material production,tonnes,kg CO2e,4376.80391
+19_505_5149_15_1,Scope 3,Material use,Plastic,Plastics: PS (incl. forming),,Re-used,tonnes,kg CO2e,
+19_505_5150_15_1,Scope 3,Material use,Plastic,Plastics: PS (incl. forming),,Open-loop source,tonnes,kg CO2e,
+19_505_5151_15_1,Scope 3,Material use,Plastic,Plastics: PS (incl. forming),,Closed-loop source,tonnes,kg CO2e,2669.76255
+19_505_5152_15_1,Scope 3,Material use,Plastic,Plastics: PVC (incl. forming),,Primary material production,tonnes,kg CO2e,2944.75615
+19_505_5153_15_1,Scope 3,Material use,Plastic,Plastics: PVC (incl. forming),,Re-used,tonnes,kg CO2e,
+19_505_5154_15_1,Scope 3,Material use,Plastic,Plastics: PVC (incl. forming),,Open-loop source,tonnes,kg CO2e,
+19_505_5155_15_1,Scope 3,Material use,Plastic,Plastics: PVC (incl. forming),,Closed-loop source,tonnes,kg CO2e,1847.82267
+19_506_5156_15_1,Scope 3,Material use,Paper,Paper and board: board,,Primary material production,tonnes,kg CO2e,1199.72542
+19_506_5157_15_1,Scope 3,Material use,Paper,Paper and board: board,,Re-used,tonnes,kg CO2e,
+19_506_5158_15_1,Scope 3,Material use,Paper,Paper and board: board,,Open-loop source,tonnes,kg CO2e,
+19_506_5159_15_1,Scope 3,Material use,Paper,Paper and board: board,,Closed-loop source,tonnes,kg CO2e,1098.11442
+19_506_5160_15_1,Scope 3,Material use,Paper,Paper and board: mixed,,Primary material production,tonnes,kg CO2e,1288.50358
+19_506_5161_15_1,Scope 3,Material use,Paper,Paper and board: mixed,,Re-used,tonnes,kg CO2e,
+19_506_5162_15_1,Scope 3,Material use,Paper,Paper and board: mixed,,Open-loop source,tonnes,kg CO2e,
+19_506_5163_15_1,Scope 3,Material use,Paper,Paper and board: mixed,,Closed-loop source,tonnes,kg CO2e,1068.77475
+19_506_5164_15_1,Scope 3,Material use,Paper,Paper and board: paper,,Primary material production,tonnes,kg CO2e,1345.0779
+19_506_5165_15_1,Scope 3,Material use,Paper,Paper and board: paper,,Re-used,tonnes,kg CO2e,
+19_506_5166_15_1,Scope 3,Material use,Paper,Paper and board: paper,,Open-loop source,tonnes,kg CO2e,
+19_506_5167_15_1,Scope 3,Material use,Paper,Paper and board: paper,,Closed-loop source,tonnes,kg CO2e,1050.0779

@@ -1,0 +1,1233 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+31_307_3000_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,km,kg CO2e,0.10996
+31_307_3000_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,km,kg CO2e of CO2 per unit,0.10828
+31_307_3000_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3000_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3001_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,km,kg CO2e,0.13063
+31_307_3001_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,km,kg CO2e of CO2 per unit,0.12995
+31_307_3001_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3001_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3244_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,km,kg CO2e,
+31_307_3244_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3244_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3244_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3245_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,km,kg CO2e,
+31_307_3245_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3245_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3245_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,km,kg CO2e of N2O per unit,
+31_307_3246_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,km,kg CO2e,
+31_307_3246_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3246_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3246_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,km,kg CO2e of N2O per unit,
+31_307_3002_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,km,kg CO2e,0.13051
+31_307_3002_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,km,kg CO2e of CO2 per unit,0.12982
+31_307_3002_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,km,kg CO2e of CH4 per unit,0.00035
+31_307_3002_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,km,kg CO2e of N2O per unit,0.00034
+31_307_3003_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+31_307_3003_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+31_307_3003_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+31_307_3003_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+31_307_3004_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e,0.03319
+31_307_3004_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03276
+31_307_3004_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00018
+31_307_3004_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00025
+31_307_3000_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,miles,kg CO2e,0.17696
+31_307_3000_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,miles,kg CO2e of CO2 per unit,0.17425
+31_307_3000_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3000_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3001_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,miles,kg CO2e,0.21022
+31_307_3001_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,miles,kg CO2e of CO2 per unit,0.20913
+31_307_3001_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3001_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3244_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,miles,kg CO2e,
+31_307_3244_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3244_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3244_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3245_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,miles,kg CO2e,
+31_307_3245_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3245_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3245_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3246_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,miles,kg CO2e,
+31_307_3246_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3246_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3246_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3002_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,miles,kg CO2e,0.21002
+31_307_3002_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,miles,kg CO2e of CO2 per unit,0.20892
+31_307_3002_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,miles,kg CO2e of CH4 per unit,0.00056
+31_307_3002_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Unknown,miles,kg CO2e of N2O per unit,0.00054
+31_307_3003_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,
+31_307_3003_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,
+31_307_3003_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,
+31_307_3003_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,
+31_307_3004_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e,0.05343
+31_307_3004_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.05273
+31_307_3004_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00029
+31_307_3004_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Mini,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00041
+31_307_3005_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,km,kg CO2e,0.13452
+31_307_3005_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,km,kg CO2e of CO2 per unit,0.13284
+31_307_3005_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3005_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3006_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,km,kg CO2e,0.14276
+31_307_3006_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,km,kg CO2e of CO2 per unit,0.14208
+31_307_3006_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3006_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3247_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,km,kg CO2e,
+31_307_3247_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3247_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3247_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3248_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,km,kg CO2e,
+31_307_3248_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3248_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3248_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,km,kg CO2e of N2O per unit,
+31_307_3249_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,km,kg CO2e,
+31_307_3249_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3249_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3249_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,km,kg CO2e of N2O per unit,
+31_307_3007_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,km,kg CO2e,0.14194
+31_307_3007_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,km,kg CO2e of CO2 per unit,0.14111
+31_307_3007_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,km,kg CO2e of CH4 per unit,0.0003
+31_307_3007_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,km,kg CO2e of N2O per unit,0.00052
+31_307_3008_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.05669
+31_307_3008_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.05622
+31_307_3008_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+31_307_3008_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00025
+31_307_3009_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e,0.03777
+31_307_3009_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03731
+31_307_3009_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00019
+31_307_3009_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00027
+31_307_3005_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,miles,kg CO2e,0.21649
+31_307_3005_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,miles,kg CO2e of CO2 per unit,0.21378
+31_307_3005_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3005_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3006_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,miles,kg CO2e,0.22974
+31_307_3006_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,miles,kg CO2e of CO2 per unit,0.22865
+31_307_3006_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3006_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3247_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,miles,kg CO2e,
+31_307_3247_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3247_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3247_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3248_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,miles,kg CO2e,
+31_307_3248_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3248_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3248_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3249_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,miles,kg CO2e,
+31_307_3249_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3249_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3249_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3007_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,miles,kg CO2e,0.22843
+31_307_3007_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,miles,kg CO2e of CO2 per unit,0.2271
+31_307_3007_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,miles,kg CO2e of CH4 per unit,0.00048
+31_307_3007_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Unknown,miles,kg CO2e of N2O per unit,0.00084
+31_307_3008_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.09123
+31_307_3008_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.09047
+31_307_3008_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+31_307_3008_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0004
+31_307_3009_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e,0.06078
+31_307_3009_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06004
+31_307_3009_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00031
+31_307_3009_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Supermini,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00043
+31_307_3010_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,km,kg CO2e,0.14517
+31_307_3010_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,km,kg CO2e of CO2 per unit,0.14349
+31_307_3010_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3010_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3011_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,km,kg CO2e,0.16123
+31_307_3011_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,km,kg CO2e of CO2 per unit,0.16055
+31_307_3011_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3011_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3250_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,km,kg CO2e,
+31_307_3250_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3250_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3250_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3251_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,km,kg CO2e,
+31_307_3251_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3251_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3251_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,km,kg CO2e of N2O per unit,
+31_307_3252_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,km,kg CO2e,
+31_307_3252_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3252_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3252_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,km,kg CO2e of N2O per unit,
+31_307_3012_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,km,kg CO2e,0.15473
+31_307_3012_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,km,kg CO2e of CO2 per unit,0.15355
+31_307_3012_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,km,kg CO2e of CH4 per unit,0.00018
+31_307_3012_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,km,kg CO2e of N2O per unit,0.001
+31_307_3013_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.08477
+31_307_3013_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.08413
+31_307_3013_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00034
+31_307_3013_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.0003
+31_307_3014_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e,0.03849
+31_307_3014_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03796
+31_307_3014_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+31_307_3014_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0003
+31_307_3010_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,miles,kg CO2e,0.23363
+31_307_3010_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,miles,kg CO2e of CO2 per unit,0.23092
+31_307_3010_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3010_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3011_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,miles,kg CO2e,0.25948
+31_307_3011_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,miles,kg CO2e of CO2 per unit,0.25839
+31_307_3011_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3011_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3250_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e,
+31_307_3250_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3250_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3250_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3251_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,miles,kg CO2e,
+31_307_3251_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3251_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3251_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3252_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,miles,kg CO2e,
+31_307_3252_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3252_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3252_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3012_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,miles,kg CO2e,0.249
+31_307_3012_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,miles,kg CO2e of CO2 per unit,0.24711
+31_307_3012_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,miles,kg CO2e of CH4 per unit,0.00029
+31_307_3012_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Unknown,miles,kg CO2e of N2O per unit,0.0016
+31_307_3013_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.13643
+31_307_3013_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.1354
+31_307_3013_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00054
+31_307_3013_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00049
+31_307_3014_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e,0.06192
+31_307_3014_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06108
+31_307_3014_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+31_307_3014_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Lower medium,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00048
+31_307_3015_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,km,kg CO2e,0.16194
+31_307_3015_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,km,kg CO2e of CO2 per unit,0.16026
+31_307_3015_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3015_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3016_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,km,kg CO2e,0.18535
+31_307_3016_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,km,kg CO2e of CO2 per unit,0.18467
+31_307_3016_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3016_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3253_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,km,kg CO2e,
+31_307_3253_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3253_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3253_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3254_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,km,kg CO2e,
+31_307_3254_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3254_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3254_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,km,kg CO2e of N2O per unit,
+31_307_3255_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,km,kg CO2e,
+31_307_3255_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3255_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3255_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,km,kg CO2e of N2O per unit,
+31_307_3017_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,km,kg CO2e,0.16752
+31_307_3017_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,km,kg CO2e of CO2 per unit,0.16605
+31_307_3017_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,km,kg CO2e of CH4 per unit,0.00008
+31_307_3017_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,km,kg CO2e of N2O per unit,0.00139
+31_307_3018_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.09172
+31_307_3018_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.09104
+31_307_3018_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00035
+31_307_3018_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00033
+31_307_3019_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e,0.04178
+31_307_3019_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.04139
+31_307_3019_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00017
+31_307_3019_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00022
+31_307_3015_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,miles,kg CO2e,0.26063
+31_307_3015_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,miles,kg CO2e of CO2 per unit,0.25792
+31_307_3015_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3015_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3016_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,miles,kg CO2e,0.29828
+31_307_3016_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,miles,kg CO2e of CO2 per unit,0.29719
+31_307_3016_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3016_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3253_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e,
+31_307_3253_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3253_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3253_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3254_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,miles,kg CO2e,
+31_307_3254_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3254_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3254_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3255_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,miles,kg CO2e,
+31_307_3255_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3255_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3255_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3017_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,miles,kg CO2e,0.26959
+31_307_3017_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,miles,kg CO2e of CO2 per unit,0.26724
+31_307_3017_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,miles,kg CO2e of CH4 per unit,0.00012
+31_307_3017_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Unknown,miles,kg CO2e of N2O per unit,0.00222
+31_307_3018_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.14761
+31_307_3018_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.14652
+31_307_3018_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00056
+31_307_3018_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00053
+31_307_3019_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e,0.06722
+31_307_3019_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06661
+31_307_3019_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00026
+31_307_3019_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Upper medium,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00036
+31_307_3020_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,km,kg CO2e,0.17088
+31_307_3020_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,km,kg CO2e of CO2 per unit,0.1692
+31_307_3020_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3020_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3021_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,km,kg CO2e,0.20073
+31_307_3021_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,km,kg CO2e of CO2 per unit,0.20005
+31_307_3021_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3021_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3256_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,km,kg CO2e,
+31_307_3256_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3256_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3256_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3257_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,km,kg CO2e,
+31_307_3257_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3257_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3257_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,km,kg CO2e of N2O per unit,
+31_307_3258_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,km,kg CO2e,
+31_307_3258_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3258_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3258_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,km,kg CO2e of N2O per unit,
+31_307_3022_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,km,kg CO2e,0.17846
+31_307_3022_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,km,kg CO2e of CO2 per unit,0.17702
+31_307_3022_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,km,kg CO2e of CH4 per unit,0.00009
+31_307_3022_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,km,kg CO2e of N2O per unit,0.00135
+31_307_3023_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.09133
+31_307_3023_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.09062
+31_307_3023_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00035
+31_307_3023_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00036
+31_307_3024_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e,0.03702
+31_307_3024_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03651
+31_307_3024_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00021
+31_307_3024_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00029
+31_307_3020_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,miles,kg CO2e,0.27501
+31_307_3020_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,miles,kg CO2e of CO2 per unit,0.2723
+31_307_3020_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3020_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3021_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,miles,kg CO2e,0.32304
+31_307_3021_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,miles,kg CO2e of CO2 per unit,0.32195
+31_307_3021_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3021_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3256_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,miles,kg CO2e,
+31_307_3256_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3256_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3256_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3257_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,miles,kg CO2e,
+31_307_3257_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3257_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3257_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3258_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,miles,kg CO2e,
+31_307_3258_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3258_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3258_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3022_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,miles,kg CO2e,0.2872
+31_307_3022_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,miles,kg CO2e of CO2 per unit,0.28488
+31_307_3022_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,miles,kg CO2e of CH4 per unit,0.00015
+31_307_3022_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Unknown,miles,kg CO2e of N2O per unit,0.00218
+31_307_3023_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.14698
+31_307_3023_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.14584
+31_307_3023_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00055
+31_307_3023_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00059
+31_307_3024_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e,0.05957
+31_307_3024_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.05875
+31_307_3024_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00035
+31_307_3024_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Executive,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00047
+31_307_3025_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,km,kg CO2e,0.20632
+31_307_3025_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,km,kg CO2e of CO2 per unit,0.20464
+31_307_3025_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3025_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3026_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,km,kg CO2e,0.30752
+31_307_3026_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,km,kg CO2e of CO2 per unit,0.30684
+31_307_3026_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3026_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3259_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,km,kg CO2e,
+31_307_3259_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3259_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3259_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3260_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,km,kg CO2e,
+31_307_3260_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3260_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3260_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,km,kg CO2e of N2O per unit,
+31_307_3261_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,km,kg CO2e,
+31_307_3261_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3261_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3261_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,km,kg CO2e of N2O per unit,
+31_307_3027_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,km,kg CO2e,0.25196
+31_307_3027_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,km,kg CO2e of CO2 per unit,0.25076
+31_307_3027_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,km,kg CO2e of CH4 per unit,0.00017
+31_307_3027_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,km,kg CO2e of N2O per unit,0.00103
+31_307_3028_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.1251
+31_307_3028_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.12426
+31_307_3028_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00045
+31_307_3028_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+31_307_3029_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e,0.04902
+31_307_3029_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.04843
+31_307_3029_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00025
+31_307_3029_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00035
+31_307_3025_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,miles,kg CO2e,0.33205
+31_307_3025_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,miles,kg CO2e of CO2 per unit,0.32934
+31_307_3025_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3025_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3026_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,miles,kg CO2e,0.4949
+31_307_3026_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,miles,kg CO2e of CO2 per unit,0.49381
+31_307_3026_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3026_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3259_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,miles,kg CO2e,
+31_307_3259_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3259_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3259_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3260_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,miles,kg CO2e,
+31_307_3260_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3260_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3260_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3261_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,miles,kg CO2e,
+31_307_3261_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3261_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3261_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3027_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,miles,kg CO2e,0.4055
+31_307_3027_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,miles,kg CO2e of CO2 per unit,0.40356
+31_307_3027_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,miles,kg CO2e of CH4 per unit,0.00028
+31_307_3027_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Unknown,miles,kg CO2e of N2O per unit,0.00166
+31_307_3028_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.20132
+31_307_3028_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.19997
+31_307_3028_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00072
+31_307_3028_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00063
+31_307_3029_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e,0.07888
+31_307_3029_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.07793
+31_307_3029_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0004
+31_307_3029_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Luxury,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00055
+31_307_3030_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,km,kg CO2e,0.17323
+31_307_3030_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,km,kg CO2e of CO2 per unit,0.17155
+31_307_3030_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3030_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3031_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,km,kg CO2e,0.23396
+31_307_3031_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,km,kg CO2e of CO2 per unit,0.23328
+31_307_3031_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3031_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3262_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,km,kg CO2e,
+31_307_3262_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3262_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3262_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3263_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,km,kg CO2e,
+31_307_3263_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3263_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3263_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,km,kg CO2e of N2O per unit,
+31_307_3264_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,km,kg CO2e,
+31_307_3264_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3264_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3264_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,km,kg CO2e of N2O per unit,
+31_307_3032_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,km,kg CO2e,0.224
+31_307_3032_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,km,kg CO2e of CO2 per unit,0.22316
+31_307_3032_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,km,kg CO2e of CH4 per unit,0.0003
+31_307_3032_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,km,kg CO2e of N2O per unit,0.00053
+31_307_3033_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.14904
+31_307_3033_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.14837
+31_307_3033_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00036
+31_307_3033_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+31_307_3034_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e,0.0626
+31_307_3034_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.06186
+31_307_3034_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00031
+31_307_3034_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00043
+31_307_3030_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,miles,kg CO2e,0.27879
+31_307_3030_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,miles,kg CO2e of CO2 per unit,0.27608
+31_307_3030_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3030_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3031_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,miles,kg CO2e,0.37652
+31_307_3031_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,miles,kg CO2e of CO2 per unit,0.37543
+31_307_3031_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3031_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3262_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,miles,kg CO2e,
+31_307_3262_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3262_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3262_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3263_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,miles,kg CO2e,
+31_307_3263_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3263_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3263_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3264_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,miles,kg CO2e,
+31_307_3264_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3264_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3264_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3032_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,miles,kg CO2e,0.36048
+31_307_3032_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,miles,kg CO2e of CO2 per unit,0.35914
+31_307_3032_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,miles,kg CO2e of CH4 per unit,0.00048
+31_307_3032_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Unknown,miles,kg CO2e of N2O per unit,0.00086
+31_307_3033_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.23984
+31_307_3033_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.23877
+31_307_3033_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3033_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0005
+31_307_3034_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e,0.10075
+31_307_3034_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.09956
+31_307_3034_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.0005
+31_307_3034_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Sports,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00068
+31_307_3035_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e,0.19973
+31_307_3035_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e of CO2 per unit,0.19805
+31_307_3035_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3035_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3036_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e,0.19219
+31_307_3036_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e of CO2 per unit,0.19151
+31_307_3036_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3036_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3265_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e,
+31_307_3265_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3265_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3265_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3266_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e,
+31_307_3266_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3266_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3266_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,km,kg CO2e of N2O per unit,
+31_307_3267_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e,
+31_307_3267_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3267_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3267_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,km,kg CO2e of N2O per unit,
+31_307_3037_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e,0.1969
+31_307_3037_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e of CO2 per unit,0.19548
+31_307_3037_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e of CH4 per unit,0.0001
+31_307_3037_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,km,kg CO2e of N2O per unit,0.00132
+31_307_3038_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.11663
+31_307_3038_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.11584
+31_307_3038_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.0004
+31_307_3038_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00038
+31_307_3039_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e,0.04228
+31_307_3039_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.0416
+31_307_3039_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00029
+31_307_3039_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+31_307_3035_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e,0.32145
+31_307_3035_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e of CO2 per unit,0.31874
+31_307_3035_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3035_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3036_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e,0.3093
+31_307_3036_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e of CO2 per unit,0.30821
+31_307_3036_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3036_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3265_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e,
+31_307_3265_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3265_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3265_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3266_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e,
+31_307_3266_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3266_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3266_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3267_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e,
+31_307_3267_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3267_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3267_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3037_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e,0.31687
+31_307_3037_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e of CO2 per unit,0.3146
+31_307_3037_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+31_307_3037_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Unknown,miles,kg CO2e of N2O per unit,0.00212
+31_307_3038_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.18769
+31_307_3038_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.18642
+31_307_3038_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00065
+31_307_3038_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00062
+31_307_3039_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e,0.06804
+31_307_3039_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06695
+31_307_3039_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00046
+31_307_3039_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),Dual purpose 4X4,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00063
+31_307_3040_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,km,kg CO2e,0.18072
+31_307_3040_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,km,kg CO2e of CO2 per unit,0.17904
+31_307_3040_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_307_3040_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_307_3041_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,km,kg CO2e,0.17903
+31_307_3041_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,km,kg CO2e of CO2 per unit,0.17835
+31_307_3041_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_307_3041_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_307_3268_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,km,kg CO2e,
+31_307_3268_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,km,kg CO2e of CO2 per unit,
+31_307_3268_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,km,kg CO2e of CH4 per unit,
+31_307_3268_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,km,kg CO2e of N2O per unit,
+31_307_3269_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,km,kg CO2e,
+31_307_3269_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,km,kg CO2e of CO2 per unit,
+31_307_3269_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,km,kg CO2e of CH4 per unit,
+31_307_3269_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,km,kg CO2e of N2O per unit,
+31_307_3270_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,km,kg CO2e,
+31_307_3270_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,km,kg CO2e of CO2 per unit,
+31_307_3270_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,km,kg CO2e of CH4 per unit,
+31_307_3270_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,km,kg CO2e of N2O per unit,
+31_307_3042_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,km,kg CO2e,0.1803
+31_307_3042_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,km,kg CO2e of CO2 per unit,0.17888
+31_307_3042_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,km,kg CO2e of CH4 per unit,0.0001
+31_307_3042_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,km,kg CO2e of N2O per unit,0.00132
+31_307_3043_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.10193
+31_307_3043_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.10116
+31_307_3043_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00038
+31_307_3043_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+31_307_3044_4_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e,0.05202
+31_307_3044_4_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.05134
+31_307_3044_4_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00029
+31_307_3044_4_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00039
+31_307_3040_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,miles,kg CO2e,0.29085
+31_307_3040_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,miles,kg CO2e of CO2 per unit,0.28814
+31_307_3040_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_307_3040_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_307_3041_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,miles,kg CO2e,0.28812
+31_307_3041_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,miles,kg CO2e of CO2 per unit,0.28703
+31_307_3041_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_307_3041_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_307_3268_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,miles,kg CO2e,
+31_307_3268_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,miles,kg CO2e of CO2 per unit,
+31_307_3268_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,miles,kg CO2e of CH4 per unit,
+31_307_3268_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Hybrid,miles,kg CO2e of N2O per unit,
+31_307_3269_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,miles,kg CO2e,
+31_307_3269_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,miles,kg CO2e of CO2 per unit,
+31_307_3269_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,miles,kg CO2e of CH4 per unit,
+31_307_3269_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,CNG,miles,kg CO2e of N2O per unit,
+31_307_3270_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,miles,kg CO2e,
+31_307_3270_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,miles,kg CO2e of CO2 per unit,
+31_307_3270_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,miles,kg CO2e of CH4 per unit,
+31_307_3270_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,LPG,miles,kg CO2e of N2O per unit,
+31_307_3042_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,miles,kg CO2e,0.29016
+31_307_3042_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,miles,kg CO2e of CO2 per unit,0.28789
+31_307_3042_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+31_307_3042_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Unknown,miles,kg CO2e of N2O per unit,0.00212
+31_307_3043_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.16406
+31_307_3043_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.16281
+31_307_3043_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00062
+31_307_3043_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00063
+31_307_3044_9_1,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e,0.08373
+31_307_3044_9_2,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.08262
+31_307_3044_9_3,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00047
+31_307_3044_9_4,Scope 3,Managed assets- vehicles,Managed cars (by market segment),MPV,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00064
+31_308_3045_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,km,kg CO2e,0.1434
+31_308_3045_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,km,kg CO2e of CO2 per unit,0.14172
+31_308_3045_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_308_3045_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_308_3046_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,km,kg CO2e,0.14308
+31_308_3046_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,km,kg CO2e of CO2 per unit,0.1424
+31_308_3046_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_308_3046_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_308_3047_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,km,kg CO2e,0.11413
+31_308_3047_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,km,kg CO2e of CO2 per unit,0.11312
+31_308_3047_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,km,kg CO2e of CH4 per unit,0.00024
+31_308_3047_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,km,kg CO2e of N2O per unit,0.00077
+31_308_3048_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,km,kg CO2e,
+31_308_3048_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,km,kg CO2e of CO2 per unit,
+31_308_3048_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,km,kg CO2e of CH4 per unit,
+31_308_3048_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,km,kg CO2e of N2O per unit,
+31_308_3049_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,km,kg CO2e,
+31_308_3049_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,km,kg CO2e of CO2 per unit,
+31_308_3049_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,km,kg CO2e of CH4 per unit,
+31_308_3049_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,km,kg CO2e of N2O per unit,
+31_308_3050_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,km,kg CO2e,0.14322
+31_308_3050_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,km,kg CO2e of CO2 per unit,0.14221
+31_308_3050_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,km,kg CO2e of CH4 per unit,0.00024
+31_308_3050_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,km,kg CO2e of N2O per unit,0.00077
+31_308_3051_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.05669
+31_308_3051_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.05622
+31_308_3051_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+31_308_3051_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00025
+31_308_3052_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e,0.03688
+31_308_3052_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03643
+31_308_3052_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00019
+31_308_3052_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00026
+31_308_3045_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,miles,kg CO2e,0.23078
+31_308_3045_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,miles,kg CO2e of CO2 per unit,0.22807
+31_308_3045_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_308_3045_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_308_3046_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,miles,kg CO2e,0.23027
+31_308_3046_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,miles,kg CO2e of CO2 per unit,0.22918
+31_308_3046_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_308_3046_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_308_3047_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,miles,kg CO2e,0.18368
+31_308_3047_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,miles,kg CO2e of CO2 per unit,0.18205
+31_308_3047_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,miles,kg CO2e of CH4 per unit,0.00038
+31_308_3047_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Hybrid,miles,kg CO2e of N2O per unit,0.00124
+31_308_3048_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,miles,kg CO2e,
+31_308_3048_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,miles,kg CO2e of CO2 per unit,
+31_308_3048_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,miles,kg CO2e of CH4 per unit,
+31_308_3048_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,CNG,miles,kg CO2e of N2O per unit,
+31_308_3049_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,miles,kg CO2e,
+31_308_3049_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,miles,kg CO2e of CO2 per unit,
+31_308_3049_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,miles,kg CO2e of CH4 per unit,
+31_308_3049_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,LPG,miles,kg CO2e of N2O per unit,
+31_308_3050_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,miles,kg CO2e,0.23049
+31_308_3050_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,miles,kg CO2e of CO2 per unit,0.22886
+31_308_3050_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,miles,kg CO2e of CH4 per unit,0.00038
+31_308_3050_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Unknown,miles,kg CO2e of N2O per unit,0.00124
+31_308_3051_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.09123
+31_308_3051_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.09047
+31_308_3051_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+31_308_3051_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.0004
+31_308_3052_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e,0.05936
+31_308_3052_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.05863
+31_308_3052_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00031
+31_308_3052_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Small car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00042
+31_308_3053_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,km,kg CO2e,0.17174
+31_308_3053_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,km,kg CO2e of CO2 per unit,0.17006
+31_308_3053_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_308_3053_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_308_3054_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,km,kg CO2e,0.17474
+31_308_3054_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,km,kg CO2e of CO2 per unit,0.17406
+31_308_3054_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_308_3054_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_308_3055_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,km,kg CO2e,0.11724
+31_308_3055_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,km,kg CO2e of CO2 per unit,0.11603
+31_308_3055_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,km,kg CO2e of CH4 per unit,0.00017
+31_308_3055_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,km,kg CO2e of N2O per unit,0.00104
+31_308_3056_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,km,kg CO2e,0.15504
+31_308_3056_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,km,kg CO2e of CO2 per unit,0.15291
+31_308_3056_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,km,kg CO2e of CH4 per unit,0.00177
+31_308_3056_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,km,kg CO2e of N2O per unit,0.00036
+31_308_3057_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,km,kg CO2e,0.17427
+31_308_3057_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,km,kg CO2e of CO2 per unit,0.17385
+31_308_3057_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,km,kg CO2e of CH4 per unit,0.00006
+31_308_3057_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,km,kg CO2e of N2O per unit,0.00036
+31_308_3058_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,km,kg CO2e,0.17322
+31_308_3058_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,km,kg CO2e of CO2 per unit,0.17201
+31_308_3058_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,km,kg CO2e of CH4 per unit,0.00017
+31_308_3058_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,km,kg CO2e of N2O per unit,0.00104
+31_308_3059_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.0882
+31_308_3059_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.08753
+31_308_3059_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00035
+31_308_3059_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00032
+31_308_3060_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e,0.03882
+31_308_3060_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03829
+31_308_3060_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+31_308_3060_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.0003
+31_308_3053_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,miles,kg CO2e,0.27639
+31_308_3053_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,miles,kg CO2e of CO2 per unit,0.27368
+31_308_3053_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_308_3053_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_308_3054_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,miles,kg CO2e,0.28121
+31_308_3054_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,miles,kg CO2e of CO2 per unit,0.28012
+31_308_3054_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_308_3054_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_308_3055_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,miles,kg CO2e,0.18869
+31_308_3055_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,miles,kg CO2e of CO2 per unit,0.18674
+31_308_3055_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,miles,kg CO2e of CH4 per unit,0.00027
+31_308_3055_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Hybrid,miles,kg CO2e of N2O per unit,0.00168
+31_308_3056_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,miles,kg CO2e,0.24952
+31_308_3056_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,miles,kg CO2e of CO2 per unit,0.24609
+31_308_3056_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,miles,kg CO2e of CH4 per unit,0.00286
+31_308_3056_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,CNG,miles,kg CO2e of N2O per unit,0.00058
+31_308_3057_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,miles,kg CO2e,0.28046
+31_308_3057_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,miles,kg CO2e of CO2 per unit,0.27979
+31_308_3057_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,miles,kg CO2e of CH4 per unit,0.00009
+31_308_3057_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,LPG,miles,kg CO2e of N2O per unit,0.00058
+31_308_3058_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,miles,kg CO2e,0.27877
+31_308_3058_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,miles,kg CO2e of CO2 per unit,0.27682
+31_308_3058_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,miles,kg CO2e of CH4 per unit,0.00027
+31_308_3058_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Unknown,miles,kg CO2e of N2O per unit,0.00168
+31_308_3059_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.14193
+31_308_3059_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.14087
+31_308_3059_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00055
+31_308_3059_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00052
+31_308_3060_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e,0.06246
+31_308_3060_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06162
+31_308_3060_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00036
+31_308_3060_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Medium car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00048
+31_308_3061_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,km,kg CO2e,0.21007
+31_308_3061_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,km,kg CO2e of CO2 per unit,0.20839
+31_308_3061_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_308_3061_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_308_3062_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,km,kg CO2e,0.26828
+31_308_3062_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,km,kg CO2e of CO2 per unit,0.2676
+31_308_3062_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_308_3062_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_308_3063_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,km,kg CO2e,0.1565
+31_308_3063_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,km,kg CO2e of CO2 per unit,0.15507
+31_308_3063_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,km,kg CO2e of CH4 per unit,0.0001
+31_308_3063_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,km,kg CO2e of N2O per unit,0.00133
+31_308_3064_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,km,kg CO2e,0.23722
+31_308_3064_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,km,kg CO2e of CO2 per unit,0.23509
+31_308_3064_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,km,kg CO2e of CH4 per unit,0.00177
+31_308_3064_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,km,kg CO2e of N2O per unit,0.00036
+31_308_3065_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,km,kg CO2e,0.26771
+31_308_3065_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,km,kg CO2e of CO2 per unit,0.26729
+31_308_3065_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,km,kg CO2e of CH4 per unit,0.00006
+31_308_3065_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,km,kg CO2e of N2O per unit,0.00036
+31_308_3066_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,km,kg CO2e,0.22678
+31_308_3066_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,km,kg CO2e of CO2 per unit,0.22535
+31_308_3066_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,km,kg CO2e of CH4 per unit,0.0001
+31_308_3066_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,km,kg CO2e of N2O per unit,0.00133
+31_308_3067_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.1143
+31_308_3067_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.11353
+31_308_3067_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00039
+31_308_3067_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00038
+31_308_3068_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e,0.04205
+31_308_3068_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.04145
+31_308_3068_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00026
+31_308_3068_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00035
+31_308_3061_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,miles,kg CO2e,0.33808
+31_308_3061_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,miles,kg CO2e of CO2 per unit,0.33537
+31_308_3061_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_308_3061_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_308_3062_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,miles,kg CO2e,0.43175
+31_308_3062_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,miles,kg CO2e of CO2 per unit,0.43066
+31_308_3062_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_308_3062_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_308_3063_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,miles,kg CO2e,0.25184
+31_308_3063_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,miles,kg CO2e of CO2 per unit,0.24956
+31_308_3063_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,miles,kg CO2e of CH4 per unit,0.00016
+31_308_3063_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Hybrid,miles,kg CO2e of N2O per unit,0.00213
+31_308_3064_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,miles,kg CO2e,0.38177
+31_308_3064_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,miles,kg CO2e of CO2 per unit,0.37834
+31_308_3064_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,miles,kg CO2e of CH4 per unit,0.00286
+31_308_3064_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,CNG,miles,kg CO2e of N2O per unit,0.00058
+31_308_3065_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,miles,kg CO2e,0.43082
+31_308_3065_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,miles,kg CO2e of CO2 per unit,0.43015
+31_308_3065_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,miles,kg CO2e of CH4 per unit,0.00009
+31_308_3065_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,LPG,miles,kg CO2e of N2O per unit,0.00058
+31_308_3066_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,miles,kg CO2e,0.36495
+31_308_3066_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,miles,kg CO2e of CO2 per unit,0.36267
+31_308_3066_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,miles,kg CO2e of CH4 per unit,0.00016
+31_308_3066_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Unknown,miles,kg CO2e of N2O per unit,0.00213
+31_308_3067_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.18396
+31_308_3067_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.18271
+31_308_3067_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00064
+31_308_3067_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00061
+31_308_3068_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e,0.06767
+31_308_3068_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.0667
+31_308_3068_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00041
+31_308_3068_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Large car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00056
+31_308_3069_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,km,kg CO2e,0.17304
+31_308_3069_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,km,kg CO2e of CO2 per unit,0.17136
+31_308_3069_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_308_3069_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,km,kg CO2e of N2O per unit,0.00167
+31_308_3070_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,km,kg CO2e,0.16272
+31_308_3070_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,km,kg CO2e of CO2 per unit,0.16204
+31_308_3070_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,km,kg CO2e of CH4 per unit,0.00036
+31_308_3070_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,km,kg CO2e of N2O per unit,0.00032
+31_308_3071_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,km,kg CO2e,0.12825
+31_308_3071_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,km,kg CO2e of CO2 per unit,0.12708
+31_308_3071_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,km,kg CO2e of CH4 per unit,0.00019
+31_308_3071_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,km,kg CO2e of N2O per unit,0.00098
+31_308_3072_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,km,kg CO2e,0.17414
+31_308_3072_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,km,kg CO2e of CO2 per unit,0.17201
+31_308_3072_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,km,kg CO2e of CH4 per unit,0.00177
+31_308_3072_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,km,kg CO2e of N2O per unit,0.00036
+31_308_3073_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,km,kg CO2e,0.19599
+31_308_3073_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,km,kg CO2e of CO2 per unit,0.19557
+31_308_3073_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,km,kg CO2e of CH4 per unit,0.00006
+31_308_3073_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,km,kg CO2e of N2O per unit,0.00036
+31_308_3074_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,km,kg CO2e,0.16725
+31_308_3074_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,km,kg CO2e of CO2 per unit,0.16608
+31_308_3074_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,km,kg CO2e of CH4 per unit,0.00019
+31_308_3074_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,km,kg CO2e of N2O per unit,0.00098
+31_308_3075_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.10461
+31_308_3075_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.10389
+31_308_3075_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00037
+31_308_3075_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00035
+31_308_3076_4_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e,0.04047
+31_308_3076_4_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03992
+31_308_3076_4_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00024
+31_308_3076_4_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+31_308_3069_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,miles,kg CO2e,0.27849
+31_308_3069_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,miles,kg CO2e of CO2 per unit,0.27578
+31_308_3069_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,miles,kg CO2e of CH4 per unit,0.00001
+31_308_3069_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Diesel,miles,kg CO2e of N2O per unit,0.00269
+31_308_3070_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,miles,kg CO2e,0.26187
+31_308_3070_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,miles,kg CO2e of CO2 per unit,0.26078
+31_308_3070_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,miles,kg CO2e of CH4 per unit,0.00057
+31_308_3070_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Petrol,miles,kg CO2e of N2O per unit,0.00052
+31_308_3071_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,miles,kg CO2e,0.20639
+31_308_3071_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,miles,kg CO2e of CO2 per unit,0.20452
+31_308_3071_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,miles,kg CO2e of CH4 per unit,0.0003
+31_308_3071_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Hybrid,miles,kg CO2e of N2O per unit,0.00157
+31_308_3072_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,miles,kg CO2e,0.28025
+31_308_3072_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,miles,kg CO2e of CO2 per unit,0.27682
+31_308_3072_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,miles,kg CO2e of CH4 per unit,0.00286
+31_308_3072_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,CNG,miles,kg CO2e of N2O per unit,0.00058
+31_308_3073_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,miles,kg CO2e,0.31541
+31_308_3073_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,miles,kg CO2e of CO2 per unit,0.31474
+31_308_3073_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,miles,kg CO2e of CH4 per unit,0.00009
+31_308_3073_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,LPG,miles,kg CO2e of N2O per unit,0.00058
+31_308_3074_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,miles,kg CO2e,0.26915
+31_308_3074_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,miles,kg CO2e of CO2 per unit,0.26728
+31_308_3074_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,miles,kg CO2e of CH4 per unit,0.0003
+31_308_3074_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Unknown,miles,kg CO2e of N2O per unit,0.00157
+31_308_3075_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e,0.16834
+31_308_3075_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CO2 per unit,0.16719
+31_308_3075_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00059
+31_308_3075_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Plug-in Hybrid Electric Vehicle,miles,kg CO2e of N2O per unit,0.00056
+31_308_3076_9_1,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e,0.06512
+31_308_3076_9_2,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of CO2 per unit,0.06424
+31_308_3076_9_3,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of CH4 per unit,0.00037
+31_308_3076_9_4,Scope 3,Managed assets- vehicles,Managed cars (by size),Average car,,Battery Electric Vehicle,miles,kg CO2e of N2O per unit,0.00051
+31_310_3081_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e,0.15738
+31_310_3081_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.15572
+31_310_3081_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_310_3081_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+31_310_3082_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e,0.20188
+31_310_3082_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.20118
+31_310_3082_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+31_310_3082_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+31_310_3083_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e,
+31_310_3083_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e of CO2 per unit,
+31_310_3083_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e of CH4 per unit,
+31_310_3083_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,CNG,km,kg CO2e of N2O per unit,
+31_310_3084_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e,
+31_310_3084_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e of CO2 per unit,
+31_310_3084_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e of CH4 per unit,
+31_310_3084_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,LPG,km,kg CO2e of N2O per unit,
+31_310_3085_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e,
+31_310_3085_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e of CO2 per unit,
+31_310_3085_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e of CH4 per unit,
+31_310_3085_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Unknown,km,kg CO2e of N2O per unit,
+31_310_3086_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+31_310_3086_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+31_310_3086_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+31_310_3086_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+31_310_3087_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.03798
+31_310_3087_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.03759
+31_310_3087_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00017
+31_310_3087_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class I (up to 1.305 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00022
+31_310_3088_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e,0.1926
+31_310_3088_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.19094
+31_310_3088_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_310_3088_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+31_310_3089_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e,0.20874
+31_310_3089_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.20804
+31_310_3089_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+31_310_3089_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+31_310_3090_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e,
+31_310_3090_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e of CO2 per unit,
+31_310_3090_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e of CH4 per unit,
+31_310_3090_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,CNG,km,kg CO2e of N2O per unit,
+31_310_3091_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e,
+31_310_3091_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e of CO2 per unit,
+31_310_3091_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e of CH4 per unit,
+31_310_3091_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,LPG,km,kg CO2e of N2O per unit,
+31_310_3092_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e,
+31_310_3092_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e of CO2 per unit,
+31_310_3092_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e of CH4 per unit,
+31_310_3092_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Unknown,km,kg CO2e of N2O per unit,
+31_310_3093_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,
+31_310_3093_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,
+31_310_3093_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,
+31_310_3093_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,
+31_310_3094_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.05777
+31_310_3094_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.05723
+31_310_3094_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+31_310_3094_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class II (1.305 to 1.74 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+31_310_3095_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e,0.27878
+31_310_3095_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.27712
+31_310_3095_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_310_3095_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+31_310_3096_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e,0.33845
+31_310_3096_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.33775
+31_310_3096_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+31_310_3096_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+31_310_3097_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e,
+31_310_3097_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e of CO2 per unit,
+31_310_3097_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e of CH4 per unit,
+31_310_3097_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,CNG,km,kg CO2e of N2O per unit,
+31_310_3098_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e,
+31_310_3098_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e of CO2 per unit,
+31_310_3098_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e of CH4 per unit,
+31_310_3098_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,LPG,km,kg CO2e of N2O per unit,
+31_310_3099_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e,
+31_310_3099_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e of CO2 per unit,
+31_310_3099_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e of CH4 per unit,
+31_310_3099_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Unknown,km,kg CO2e of N2O per unit,
+31_310_3100_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.14592
+31_310_3100_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.14395
+31_310_3100_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00009
+31_310_3100_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00189
+31_310_3101_4_1,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.07609
+31_310_3101_4_2,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.07533
+31_310_3101_4_3,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00032
+31_310_3101_4_4,Scope 3,Managed assets- vehicles,Managed vans,Class III (1.74 to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00044
+31_310_3102_4_1,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e,0.25561
+31_310_3102_4_2,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e of CO2 per unit,0.25395
+31_310_3102_4_3,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e of CH4 per unit,0.000005
+31_310_3102_4_4,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Diesel,km,kg CO2e of N2O per unit,0.00165
+31_310_3103_4_1,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e,0.21335
+31_310_3103_4_2,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e of CO2 per unit,0.21265
+31_310_3103_4_3,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e of CH4 per unit,0.00027
+31_310_3103_4_4,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Petrol,km,kg CO2e of N2O per unit,0.00044
+31_310_3104_4_1,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e,0.25113
+31_310_3104_4_2,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e of CO2 per unit,0.24931
+31_310_3104_4_3,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e of CH4 per unit,0.00132
+31_310_3104_4_4,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,CNG,km,kg CO2e of N2O per unit,0.0005
+31_310_3105_4_1,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e,0.2761
+31_310_3105_4_2,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e of CO2 per unit,0.27556
+31_310_3105_4_3,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e of CH4 per unit,0.00004
+31_310_3105_4_4,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,LPG,km,kg CO2e of N2O per unit,0.0005
+31_310_3106_4_1,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e,0.2543
+31_310_3106_4_2,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e of CO2 per unit,0.25267
+31_310_3106_4_3,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e of CH4 per unit,0.00001
+31_310_3106_4_4,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Unknown,km,kg CO2e of N2O per unit,0.00162
+31_310_3107_4_1,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e,0.14592
+31_310_3107_4_2,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CO2 per unit,0.14395
+31_310_3107_4_3,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of CH4 per unit,0.00009
+31_310_3107_4_4,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Plug-in Hybrid Electric Vehicle,km,kg CO2e of N2O per unit,0.00189
+31_310_3108_4_1,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e,0.06976
+31_310_3108_4_2,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CO2 per unit,0.06922
+31_310_3108_4_3,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of CH4 per unit,0.00022
+31_310_3108_4_4,Scope 3,Managed assets- vehicles,Managed vans,Average (up to 3.5 tonnes),,Battery Electric Vehicle,km,kg CO2e of N2O per unit,0.00031
+31_311_3109_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e,0.46138
+31_311_3109_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.45595
+31_311_3109_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00011
+31_311_3109_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00532
+31_311_3110_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e,0.50103
+31_311_3110_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.4956
+31_311_3110_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00011
+31_311_3110_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00532
+31_311_3111_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e,0.54068
+31_311_3111_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.53525
+31_311_3111_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00011
+31_311_3111_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00532
+31_311_3112_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e,0.49548
+31_311_3112_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.49005
+31_311_3112_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00011
+31_311_3112_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00532
+31_311_3113_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e,0.55061
+31_311_3113_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.54399
+31_311_3113_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00013
+31_311_3113_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00648
+31_311_3114_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e,0.62832
+31_311_3114_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.6217
+31_311_3114_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00013
+31_311_3114_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00648
+31_311_3115_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e,0.70603
+31_311_3115_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.69941
+31_311_3115_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00013
+31_311_3115_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00648
+31_311_3116_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e,0.60501
+31_311_3116_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.59839
+31_311_3116_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00013
+31_311_3116_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00648
+31_311_3117_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e,0.774
+31_311_3117_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.76318
+31_311_3117_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00022
+31_311_3117_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.01059
+31_311_3118_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e,0.94152
+31_311_3118_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.9307
+31_311_3118_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00022
+31_311_3118_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.01059
+31_311_3119_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e,1.10905
+31_311_3119_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,1.09823
+31_311_3119_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00022
+31_311_3119_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.01059
+31_311_3120_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e,0.99156
+31_311_3120_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.98074
+31_311_3120_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00022
+31_311_3120_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.01059
+31_311_3121_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,0% Laden,km,kg CO2e,0.67912
+31_311_3121_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,0% Laden,km,kg CO2e of CO2 per unit,0.67005
+31_311_3121_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,0% Laden,km,kg CO2e of CH4 per unit,0.00019
+31_311_3121_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,0% Laden,km,kg CO2e of N2O per unit,0.00888
+31_311_3122_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,50% Laden,km,kg CO2e,0.80803
+31_311_3122_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,50% Laden,km,kg CO2e of CO2 per unit,0.79896
+31_311_3122_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,50% Laden,km,kg CO2e of CH4 per unit,0.00019
+31_311_3122_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,50% Laden,km,kg CO2e of N2O per unit,0.00888
+31_311_3123_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,100% Laden,km,kg CO2e,0.93695
+31_311_3123_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,100% Laden,km,kg CO2e of CO2 per unit,0.92788
+31_311_3123_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,100% Laden,km,kg CO2e of CH4 per unit,0.00019
+31_311_3123_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,100% Laden,km,kg CO2e of N2O per unit,0.00888
+31_311_3124_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,Average laden,km,kg CO2e,0.83751
+31_311_3124_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,Average laden,km,kg CO2e of CO2 per unit,0.82844
+31_311_3124_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,Average laden,km,kg CO2e of CH4 per unit,0.00019
+31_311_3124_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All rigids,,Average laden,km,kg CO2e of N2O per unit,0.00888
+31_311_3125_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e,0.62775
+31_311_3125_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CO2 per unit,0.61554
+31_311_3125_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00012
+31_311_3125_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of N2O per unit,0.01209
+31_311_3126_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e,0.78163
+31_311_3126_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CO2 per unit,0.76942
+31_311_3126_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00012
+31_311_3126_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of N2O per unit,0.01209
+31_311_3127_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e,0.93552
+31_311_3127_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CO2 per unit,0.92331
+31_311_3127_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00012
+31_311_3127_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of N2O per unit,0.01209
+31_311_3128_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e,0.78471
+31_311_3128_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CO2 per unit,0.7725
+31_311_3128_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CH4 per unit,0.00012
+31_311_3128_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of N2O per unit,0.01209
+31_311_3129_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e,0.64734
+31_311_3129_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CO2 per unit,0.63282
+31_311_3129_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3129_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of N2O per unit,0.01438
+31_311_3130_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e,0.85827
+31_311_3130_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CO2 per unit,0.84375
+31_311_3130_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3130_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of N2O per unit,0.01438
+31_311_3131_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e,1.06921
+31_311_3131_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CO2 per unit,1.05469
+31_311_3131_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3131_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of N2O per unit,0.01438
+31_311_3132_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e,0.93421
+31_311_3132_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CO2 per unit,0.91969
+31_311_3132_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3132_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of N2O per unit,0.01438
+31_311_3133_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,0% Laden,km,kg CO2e,0.64659
+31_311_3133_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,0% Laden,km,kg CO2e of CO2 per unit,0.63216
+31_311_3133_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3133_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,0% Laden,km,kg CO2e of N2O per unit,0.01428
+31_311_3134_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,50% Laden,km,kg CO2e,0.85536
+31_311_3134_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,50% Laden,km,kg CO2e of CO2 per unit,0.84093
+31_311_3134_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3134_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,50% Laden,km,kg CO2e of N2O per unit,0.01428
+31_311_3135_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,100% Laden,km,kg CO2e,1.06414
+31_311_3135_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,100% Laden,km,kg CO2e of CO2 per unit,1.04971
+31_311_3135_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3135_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,100% Laden,km,kg CO2e of N2O per unit,0.01428
+31_311_3136_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,Average laden,km,kg CO2e,0.92854
+31_311_3136_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,Average laden,km,kg CO2e of CO2 per unit,0.91411
+31_311_3136_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,Average laden,km,kg CO2e of CH4 per unit,0.00015
+31_311_3136_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All artics,,Average laden,km,kg CO2e of N2O per unit,0.01428
+31_311_3137_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e,0.65975
+31_311_3137_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e of CO2 per unit,0.64764
+31_311_3137_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e of CH4 per unit,0.00016
+31_311_3137_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,0% Laden,km,kg CO2e of N2O per unit,0.01195
+31_311_3138_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e,0.83589
+31_311_3138_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e of CO2 per unit,0.82378
+31_311_3138_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e of CH4 per unit,0.00016
+31_311_3138_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,50% Laden,km,kg CO2e of N2O per unit,0.01195
+31_311_3139_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e,1.01203
+31_311_3139_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e of CO2 per unit,0.99992
+31_311_3139_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e of CH4 per unit,0.00016
+31_311_3139_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,100% Laden,km,kg CO2e of N2O per unit,0.01195
+31_311_3140_4_1,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,Average laden,km,kg CO2e,0.89121
+31_311_3140_4_2,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,Average laden,km,kg CO2e of CO2 per unit,0.8791
+31_311_3140_4_3,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,Average laden,km,kg CO2e of CH4 per unit,0.00016
+31_311_3140_4_4,Scope 3,Managed assets- vehicles,Managed HGV (all diesel),All HGVs,,Average laden,km,kg CO2e of N2O per unit,0.01195
+31_312_3109_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e,0.54937
+31_312_3109_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.54394
+31_312_3109_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00011
+31_312_3109_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00532
+31_312_3110_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e,0.59667
+31_312_3110_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.59124
+31_312_3110_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00011
+31_312_3110_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00532
+31_312_3111_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e,0.64397
+31_312_3111_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.63854
+31_312_3111_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00011
+31_312_3111_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00532
+31_312_3112_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e,0.59005
+31_312_3112_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.58462
+31_312_3112_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00011
+31_312_3112_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>3.5 - 7.5 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00532
+31_312_3113_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e,0.65559
+31_312_3113_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.64897
+31_312_3113_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00013
+31_312_3113_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.00648
+31_312_3114_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e,0.7483
+31_312_3114_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,0.74168
+31_312_3114_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00013
+31_312_3114_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.00648
+31_312_3115_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e,0.84101
+31_312_3115_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,0.83439
+31_312_3115_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00013
+31_312_3115_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.00648
+31_312_3116_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e,0.72049
+31_312_3116_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,0.71387
+31_312_3116_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00013
+31_312_3116_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>7.5 tonnes-17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.00648
+31_312_3117_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e,0.92128
+31_312_3117_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CO2 per unit,0.91046
+31_312_3117_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of CH4 per unit,0.00022
+31_312_3117_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,0% Laden,km,kg CO2e of N2O per unit,0.01059
+31_312_3118_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e,1.12114
+31_312_3118_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CO2 per unit,1.11032
+31_312_3118_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of CH4 per unit,0.00022
+31_312_3118_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,50% Laden,km,kg CO2e of N2O per unit,0.01059
+31_312_3119_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e,1.321
+31_312_3119_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CO2 per unit,1.31018
+31_312_3119_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of CH4 per unit,0.00022
+31_312_3119_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,100% Laden,km,kg CO2e of N2O per unit,0.01059
+31_312_3120_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e,1.18083
+31_312_3120_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CO2 per unit,1.17001
+31_312_3120_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of CH4 per unit,0.00022
+31_312_3120_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Rigid (>17 tonnes),,Average laden,km,kg CO2e of N2O per unit,0.01059
+31_312_3121_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e,0.80843
+31_312_3121_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e of CO2 per unit,0.79936
+31_312_3121_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e of CH4 per unit,0.00019
+31_312_3121_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,0% Laden,km,kg CO2e of N2O per unit,0.00888
+31_312_3122_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e,0.96223
+31_312_3122_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e of CO2 per unit,0.95316
+31_312_3122_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e of CH4 per unit,0.00019
+31_312_3122_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,50% Laden,km,kg CO2e of N2O per unit,0.00888
+31_312_3123_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e,1.11603
+31_312_3123_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e of CO2 per unit,1.10696
+31_312_3123_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e of CH4 per unit,0.00019
+31_312_3123_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,100% Laden,km,kg CO2e of N2O per unit,0.00888
+31_312_3124_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e,0.99739
+31_312_3124_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e of CO2 per unit,0.98832
+31_312_3124_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e of CH4 per unit,0.00019
+31_312_3124_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All rigids,,Average laden,km,kg CO2e of N2O per unit,0.00888
+31_312_3125_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e,0.72566
+31_312_3125_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CO2 per unit,0.71345
+31_312_3125_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00012
+31_312_3125_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,0% Laden,km,kg CO2e of N2O per unit,0.01209
+31_312_3126_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e,0.90403
+31_312_3126_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CO2 per unit,0.89182
+31_312_3126_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00012
+31_312_3126_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,50% Laden,km,kg CO2e of N2O per unit,0.01209
+31_312_3127_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e,1.08239
+31_312_3127_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CO2 per unit,1.07018
+31_312_3127_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00012
+31_312_3127_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,100% Laden,km,kg CO2e of N2O per unit,0.01209
+31_312_3128_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e,0.90759
+31_312_3128_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CO2 per unit,0.89538
+31_312_3128_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of CH4 per unit,0.00012
+31_312_3128_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>3.5 - 33t),,Average laden,km,kg CO2e of N2O per unit,0.01209
+31_312_3129_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e,0.748
+31_312_3129_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CO2 per unit,0.73348
+31_312_3129_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3129_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,0% Laden,km,kg CO2e of N2O per unit,0.01438
+31_312_3130_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e,0.99249
+31_312_3130_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CO2 per unit,0.97797
+31_312_3130_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3130_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,50% Laden,km,kg CO2e of N2O per unit,0.01438
+31_312_3131_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e,1.23699
+31_312_3131_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CO2 per unit,1.22247
+31_312_3131_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3131_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,100% Laden,km,kg CO2e of N2O per unit,0.01438
+31_312_3132_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e,1.08051
+31_312_3132_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CO2 per unit,1.06599
+31_312_3132_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3132_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),Articulated (>33t),,Average laden,km,kg CO2e of N2O per unit,0.01438
+31_312_3133_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e,0.74715
+31_312_3133_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e of CO2 per unit,0.73272
+31_312_3133_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3133_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,0% Laden,km,kg CO2e of N2O per unit,0.01428
+31_312_3134_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e,0.98913
+31_312_3134_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e of CO2 per unit,0.9747
+31_312_3134_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3134_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,50% Laden,km,kg CO2e of N2O per unit,0.01428
+31_312_3135_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e,1.23112
+31_312_3135_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e of CO2 per unit,1.21669
+31_312_3135_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3135_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,100% Laden,km,kg CO2e of N2O per unit,0.01428
+31_312_3136_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e,1.07395
+31_312_3136_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e of CO2 per unit,1.05952
+31_312_3136_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e of CH4 per unit,0.00015
+31_312_3136_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All artics,,Average laden,km,kg CO2e of N2O per unit,0.01428
+31_312_3137_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e,0.77175
+31_312_3137_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e of CO2 per unit,0.75964
+31_312_3137_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e of CH4 per unit,0.00016
+31_312_3137_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,0% Laden,km,kg CO2e of N2O per unit,0.01195
+31_312_3138_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e,0.97835
+31_312_3138_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e of CO2 per unit,0.96624
+31_312_3138_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e of CH4 per unit,0.00016
+31_312_3138_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,50% Laden,km,kg CO2e of N2O per unit,0.01195
+31_312_3139_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e,1.18495
+31_312_3139_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e of CO2 per unit,1.17284
+31_312_3139_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e of CH4 per unit,0.00016
+31_312_3139_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,100% Laden,km,kg CO2e of N2O per unit,0.01195
+31_312_3140_4_1,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e,1.04323
+31_312_3140_4_2,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e of CO2 per unit,1.03112
+31_312_3140_4_3,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e of CH4 per unit,0.00016
+31_312_3140_4_4,Scope 3,Managed assets- vehicles,Managed HGV refrigerated (all diesel),All HGVs,,Average laden,km,kg CO2e of N2O per unit,0.01195
+31_309_3077_4_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,km,kg CO2e,0.08319
+31_309_3077_4_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,km,kg CO2e of CO2 per unit,0.08094
+31_309_3077_4_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,km,kg CO2e of CH4 per unit,0.00175
+31_309_3077_4_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,km,kg CO2e of N2O per unit,0.0005
+31_309_3077_9_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,miles,kg CO2e,0.13389
+31_309_3077_9_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,miles,kg CO2e of CO2 per unit,0.13027
+31_309_3077_9_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,miles,kg CO2e of CH4 per unit,0.00282
+31_309_3077_9_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Small,,,miles,kg CO2e of N2O per unit,0.0008
+31_309_3078_4_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,km,kg CO2e,0.10108
+31_309_3078_4_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,km,kg CO2e of CO2 per unit,0.09826
+31_309_3078_4_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,km,kg CO2e of CH4 per unit,0.00228
+31_309_3078_4_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,km,kg CO2e of N2O per unit,0.00053
+31_309_3078_9_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,miles,kg CO2e,0.16266
+31_309_3078_9_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,miles,kg CO2e of CO2 per unit,0.15813
+31_309_3078_9_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,miles,kg CO2e of CH4 per unit,0.00367
+31_309_3078_9_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Medium,,,miles,kg CO2e of N2O per unit,0.00085
+31_309_3079_4_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,km,kg CO2e,0.13252
+31_309_3079_4_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,km,kg CO2e of CO2 per unit,0.13072
+31_309_3079_4_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,km,kg CO2e of CH4 per unit,0.00127
+31_309_3079_4_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,km,kg CO2e of N2O per unit,0.00053
+31_309_3079_9_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,miles,kg CO2e,0.21326
+31_309_3079_9_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,miles,kg CO2e of CO2 per unit,0.21037
+31_309_3079_9_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,miles,kg CO2e of CH4 per unit,0.00204
+31_309_3079_9_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Large,,,miles,kg CO2e of N2O per unit,0.00085
+31_309_3080_4_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,km,kg CO2e,0.11367
+31_309_3080_4_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,km,kg CO2e of CO2 per unit,0.11138
+31_309_3080_4_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,km,kg CO2e of CH4 per unit,0.00177
+31_309_3080_4_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,km,kg CO2e of N2O per unit,0.00052
+31_309_3080_9_1,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,miles,kg CO2e,0.18294
+31_309_3080_9_2,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,miles,kg CO2e of CO2 per unit,0.17925
+31_309_3080_9_3,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,miles,kg CO2e of CH4 per unit,0.00284
+31_309_3080_9_4,Scope 3,Managed assets- vehicles,Managed motorbikes,Average,,,miles,kg CO2e of N2O per unit,0.00084

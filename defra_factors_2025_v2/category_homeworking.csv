@@ -1,0 +1,4 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+32_601_9999_12_1,Scope 3,Homeworking,Office Equipment,,,,per FTE Working Hour,kg CO2e,0.03144
+32_602_9999_12_1,Scope 3,Homeworking,Heating,,,,per FTE Working Hour,kg CO2e,0.30234
+32_603_9999_12_1,Scope 3,Homeworking,Homeworking (office equipment + heating),,,,per FTE Working Hour,kg CO2e,0.33378

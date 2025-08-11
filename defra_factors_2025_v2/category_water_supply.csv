@@ -1,0 +1,3 @@
+ID,Scope,Level 1,Level 2,Level 3,Level 4,Column Text,UOM,GHG/Unit,GHG Conversion Factor 2025
+17_404_4005_1_1,Scope 3,Water supply,Water supply,Water supply,,,cubic metres,kg CO2e,0.1913
+17_404_4005_10_1,Scope 3,Water supply,Water supply,Water supply,,,million litres,kg CO2e,191.30156
