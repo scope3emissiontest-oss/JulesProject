@@ -17,10 +17,9 @@ This guide provides step-by-step instructions for deploying the full-stack Carbo
 Before you begin, make sure you have the following:
 
 *   **Supabase Account**: To manage the database and authentication. [Sign up here](https://supabase.com/).
-*   **Heroku Account**: To host the Python backend. [Sign up here](https://heroku.com/).
+*   **Render Account**: To host the Python backend. [Sign up here](https://render.com/).
 *   **Vercel or Netlify Account**: To host the React frontend. [Vercel](https://vercel.com/), [Netlify](https://netlify.com/).
 *   **Git**: You must have Git installed to push code to these services.
-*   **Heroku CLI**: [Installation Guide](https://devcenter.heroku.com/articles/heroku-cli).
 *   **Node.js and npm**: For building the frontend locally if needed.
 
 ---
@@ -58,32 +57,27 @@ Your Supabase project will serve as the database, authentication service, and fi
 
 ---
 
-### Backend Deployment (Heroku)
+### Backend Deployment (Render)
 
-1.  **Initialize Heroku**:
-    *   Navigate to the root directory of your project in your terminal.
-    *   Log in to Heroku:
-        ```bash
-        heroku login
-        ```
-    *   Create a new Heroku app. This will also add a `heroku` remote to your Git repository.
-        ```bash
-        heroku create your-app-name
-        ```
+The backend is configured for deployment on Render using a `render.yaml` file. This file automatically configures the service for you.
 
-2.  **Set Environment Variables**:
-    *   Go to your app's "Settings" tab in the Heroku Dashboard and click on "Reveal Config Vars".
-    *   Add the following variables:
+1.  **Create a Render Account**:
+    *   If you don't have one, [sign up for a Render account](https://dashboard.render.com/register).
+
+2.  **Deploy from Your Git Repository**:
+    *   In the Render Dashboard, click "**New +**" and select "**Blueprint**".
+    *   Connect the Git repository containing your application.
+    *   Render will automatically detect the `render.yaml` file in your repository's root and configure the service. Give your service a name and click "**Apply**".
+
+3.  **Set Environment Variables**:
+    *   After the service is created, go to its **Environment** tab.
+    *   Add the following environment variables:
         *   `SUPABASE_URL`: Your Supabase Project URL.
         *   `SUPABASE_KEY`: Your Supabase `anon` public key.
         *   `GPT_API_KEY`: Your API key for the GPT service you will integrate.
 
-3.  **Deploy the Code**:
-    *   This project is set up as a monorepo. To deploy only the `backend` directory, we use the `subtree` push strategy:
-        ```bash
-        git subtree push --prefix backend heroku main
-        ```
-    *   This command pushes only the contents of the `backend` folder to Heroku. Heroku will automatically detect the `requirements.txt` and `Procfile` and deploy the Flask application.
+4.  **Automatic Deployments**:
+    *   Render will automatically redeploy your backend whenever you push changes to your main branch.
 
 ---
 
@@ -121,9 +115,9 @@ As a final step, you need to replace the placeholder AI logic with your actual G
     *   Ensure the function returns the extracted data in the same JSON format as the placeholder.
 
 2.  **Redeploy**:
-    *   After editing the file, commit the changes and redeploy the backend to Heroku:
+    *   After editing the file, commit and push the changes to your main branch. Render will automatically detect the changes and redeploy your application.
         ```bash
         git add .
         git commit -m "feat: Integrate real GPT service"
-        git subtree push --prefix backend heroku main
+        git push origin main
         ```
