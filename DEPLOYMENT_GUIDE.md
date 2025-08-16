@@ -1,123 +1,83 @@
-# Carbon Accounting App Deployment Guide
+# Local Deployment Guide
 
-This guide provides step-by-step instructions for deploying the full-stack Carbon Accounting application.
+This guide provides instructions on how to set up and run this application locally.
 
-## Table of Contents
+## 1. Supabase Setup
 
-1.  [Prerequisites](#prerequisites)
-2.  [Supabase Setup](#supabase-setup)
-3.  [Backend Deployment (Heroku)](#backend-deployment-heroku)
-4.  [Frontend Deployment (Vercel/Netlify)](#frontend-deployment-vercelnetlify)
-5.  [AI Service Integration](#ai-service-integration)
+Follow these steps to set up your Supabase project:
 
----
+1.  **Create a new Supabase project:**
+    *   Go to [supabase.com](https://supabase.com/) and sign in.
+    *   Click on "New project" and choose your organization.
+    *   Fill in the project details (name, database password, region) and click "Create new project".
 
-### Prerequisites
+2.  **Get your Project URL and anon key:**
+    *   In your Supabase project dashboard, go to "Project Settings" > "API".
+    *   You will find your "Project URL" and "Project API keys" (use the `anon` key).
 
-Before you begin, make sure you have the following:
+3.  **Create the database tables:**
+    *   Go to the "SQL Editor" in your Supabase project dashboard.
+    *   Click on "New query".
+    *   Copy the entire content of the `backend/schema.sql` file and paste it into the SQL editor.
+    *   Click "Run" to create the tables.
 
-*   **Supabase Account**: To manage the database and authentication. [Sign up here](https://supabase.com/).
-*   **Render Account**: To host the Python backend. [Sign up here](https://render.com/).
-*   **Vercel or Netlify Account**: To host the React frontend. [Vercel](https://vercel.com/), [Netlify](https://netlify.com/).
-*   **Git**: You must have Git installed to push code to these services.
-*   **Node.js and npm**: For building the frontend locally if needed.
+4.  **Create the 'documents' storage bucket:**
+    *   Go to the "Storage" section in your Supabase project dashboard.
+    *   Click on "New bucket".
+    *   Enter `documents` as the bucket name and make sure it's a **public** bucket.
 
----
-
-### Supabase Setup
-
-Your Supabase project will serve as the database, authentication service, and file storage for your application.
-
-1.  **Create a New Project**:
-    *   Go to your [Supabase Dashboard](https://app.supabase.com/) and click "New project".
-    *   Give your project a name and a strong database password.
-    *   Choose the region closest to your users.
-
-2.  **Get API Credentials**:
-    *   After the project is created, navigate to **Project Settings** > **API**.
-    *   You will find your **Project URL** and your **`anon` public key**. Keep these safe; you will need them for both the backend and frontend configuration.
-
-3.  **Set up the Database Schema**:
-    *   Go to the **SQL Editor** in the Supabase dashboard.
-    *   Click "+ New query".
-    *   Open the `backend/schema.sql` file from this repository, copy its entire content, and paste it into the SQL Editor.
-    *   Click "Run" to create the necessary tables (`invoices`, `financial_statements`, `emission_factors`, `emission_calculations`).
-
-4.  **Load DEFRA Emission Factors**:
-    *   The `insert_statements.sql` file has been split into multiple parts to avoid query size limits. You will need to run each part sequentially.
-    *   In the **SQL Editor**, create a new query for each of the following files, from `_part_1.sql` to `_part_11.sql`:
+5.  **Populate the `emission_factors` table:**
+    *   In the "SQL Editor", run the SQL commands from the following files in order:
         *   `backend/insert_statements_part_1.sql`
         *   `backend/insert_statements_part_2.sql`
-        *   ...and so on, up to `backend/insert_statements_part_11.sql`.
-    *   For each file:
-        1.  Create a new query in the Supabase SQL Editor.
-        2.  Copy the content of the file.
-        3.  Paste it into the SQL Editor and click "Run".
-    *   This will populate your `emission_factors` table with the required data.
+        *   ...and so on for all the `insert_statements_part_*.sql` files.
 
----
+## 2. Backend Setup
 
-### Backend Deployment (Render)
-
-The backend is configured for deployment on Render using a `render.yaml` file. This file automatically configures the service for you.
-
-1.  **Create a Render Account**:
-    *   If you don't have one, [sign up for a Render account](https://dashboard.render.com/register).
-
-2.  **Deploy from Your Git Repository**:
-    *   In the Render Dashboard, click "**New +**" and select "**Blueprint**".
-    *   Connect the Git repository containing your application.
-    *   Render will automatically detect the `render.yaml` file in your repository's root and configure the service. Give your service a name and click "**Apply**".
-
-3.  **Set Environment Variables**:
-    *   After the service is created, go to its **Environment** tab.
-    *   Add the following environment variables:
-        *   `SUPABASE_URL`: Your Supabase Project URL.
-        *   `SUPABASE_KEY`: Your Supabase `anon` public key.
-        *   `GPT_API_KEY`: Your API key for the GPT service you will integrate.
-
-4.  **Automatic Deployments**:
-    *   Render will automatically redeploy your backend whenever you push changes to your main branch.
-
----
-
-### Frontend Deployment (Vercel/Netlify)
-
-1.  **Connect Your Repository**:
-    *   Create a new project on Vercel or Netlify.
-    *   Connect it to the GitHub repository where you have pushed this code.
-
-2.  **Configure Build Settings**:
-    *   The platform should detect that you have a React application. You will need to specify the build settings to handle the `frontend` subdirectory.
-    *   **Root Directory**: `frontend`
-    *   **Build Command**: `npm run build` (or `CI=false npm run build` if you encounter issues with warnings being treated as errors).
-    *   **Publish Directory**: `build` (or `frontend/build` depending on the platform's context).
-
-3.  **Set Environment Variables**:
-    *   In your Vercel/Netlify project settings, add the following environment variables:
-        *   `REACT_APP_SUPABASE_URL`: Your Supabase Project URL.
-        *   `REACT_APP_SUPABASE_ANON_KEY`: Your Supabase `anon` public key.
-    *   **Important**: The `REACT_APP_` prefix is required for `create-react-app` to expose the variables to your application.
-
-4.  **Deploy**:
-    *   Trigger a deployment. Vercel/Netlify will pull the code, run the build command from the `frontend` directory, and deploy the static assets from the `frontend/build` folder.
-
----
-
-### AI Service Integration
-
-As a final step, you need to replace the placeholder AI logic with your actual GPT-5-Mini integration.
-
-1.  **Edit the Backend Code**:
-    *   Open `backend/main.py`.
-    *   Locate the `simulate_gpt_call` function.
-    *   Replace the content of this function with the actual API call to your GPT service.
-    *   Ensure the function returns the extracted data in the same JSON format as the placeholder.
-
-2.  **Redeploy**:
-    *   After editing the file, commit and push the changes to your main branch. Render will automatically detect the changes and redeploy your application.
-        ```bash
-        git add .
-        git commit -m "feat: Integrate real GPT service"
-        git push origin main
+1.  **Create the environment file:**
+    *   Navigate to the `backend` directory.
+    *   Create a new file named `.env`.
+    *   Add the following content to the `.env` file, replacing the placeholder values with your actual Supabase Project URL and anon key:
         ```
+        SUPABASE_URL="your_supabase_url"
+        SUPABASE_KEY="your_supabase_anon_key"
+        ```
+
+2.  **Install dependencies:**
+    *   Open your terminal and navigate to the `backend` directory.
+    *   Run the following command to install the required Python packages:
+        ```
+        pip install -r requirements.txt
+        ```
+
+3.  **Run the backend server:**
+    *   In the same terminal, run the following command:
+        ```
+        python main.py
+        ```
+    *   The backend server should now be running on `http://localhost:5000`.
+
+## 3. Frontend Setup
+
+1.  **Create the environment file:**
+    *   Navigate to the `frontend` directory.
+    *   Create a new file named `.env`.
+    *   Add the following content to the `.env` file, replacing the placeholder values with your actual Supabase Project URL and anon key:
+        ```
+        REACT_APP_SUPABASE_URL="your_supabase_url"
+        REACT_APP_SUPABASE_ANON_KEY="your_supabase_anon_key"
+        ```
+
+2.  **Install dependencies:**
+    *   Open your terminal and navigate to the `frontend` directory.
+    *   Run the following command to install the required Node.js packages:
+        ```
+        npm install
+        ```
+
+3.  **Run the frontend server:**
+    *   In the same terminal, run the following command:
+        ```
+        npm start
+        ```
+    *   The frontend development server should now be running and will open automatically in your browser at `http://localhost:3000`.
