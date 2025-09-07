@@ -1,0 +1,30 @@
+Invoice Intake Flow
+
+User uploads invoice batch through secure API or web interface
+System validates file formats and readability
+Invoice metadata is recorded (upload time, user, batch ID)
+Invoices are queued for processing
+
+AI Processing Flow
+
+OCR engine processes invoice to extract text and structure
+AI model identifies key fields (vendor, date, items, quantities, costs)
+Extracted data is categorized into relevant Scope 3 categories
+Confidence scores are assigned to extracted data points
+Low-confidence extractions are flagged for review
+
+Calculation Flow
+
+System matches extracted items to appropriate DEFRA conversion factors
+Quantities are normalized to required units for calculation
+Emissions are calculated using the formula: Activity data × Emission factor = GHG emissions
+Results are stored with calculation metadata for audit trail
+Aggregation occurs across categories and time periods
+
+Reporting Flow
+
+User requests report generation with specified parameters
+System retrieves calculated emissions data
+Data is organized according to reporting template
+Excel file is generated with appropriate sheets, formulas, and formatting
+File is made available for download or sent to specified destination

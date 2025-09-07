@@ -1,0 +1,54 @@
+## Witness, the culmination of caffeine and inexperience.
+
+This is an Overview:
+
+Olizevero (Yes i know it's spelt incorrectly, thought it was funny idfk I need some ass frfr)
+|──.idea
+|  └──inspectionProfiles
+|  |   └──Project_Default.xml
+|  └──.gitignore
+|  └──modules.xml
+|  └──Olizevero.iml
+|  └──vcs.xml
+|  └──workspace.xml
+|
+|──node_modules   
+|  └──one_file_cause_fuck_explaining_allat
+|
+|──public
+|  └──vite.svg
+|
+|──src
+|  └──assets
+|  |  └──MetricCard.jsx
+|  └──context
+|  |  └──authContext.jsx
+|  └──lib
+|  |  └──privateRoute.jsx
+|  |  └──Signin.jsx
+|  |  └──Signup.jsx
+|  |  └──supabase.jsx
+|  |
+|  └──routes
+|  |  └──Dashboard.jsx
+|  └──app.jsx
+|  └──AuthContext.jsx
+|  └──index.css
+|  └──main.jsx
+|  └──output.css
+|  └──router.jsx
+|  └──supabaseClient.jsx
+|
+|──worthReReviewing
+|  └──dataFlowSpec.txt
+|  └──overview.txt
+└──.env
+└──.gitignore
+└──eslint.config.js
+└──index.css
+└──package.json
+└──package-lock.json
+└──README.json
+└──tailwind.config.jss
+└──vite.config.jss
+

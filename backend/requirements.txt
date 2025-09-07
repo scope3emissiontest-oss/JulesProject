@@ -1,4 +1,5 @@
 Flask
-supabase
-python-dotenv
+supabase*
+python-dotenv*
 gunicorn
+openai

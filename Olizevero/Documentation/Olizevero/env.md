@@ -1,0 +1,3 @@
+This env. file exists as a reference point for our API keys for Supabase.
+
+If we were to push this entire folder to github (common practice), this file would not be uploaded, however, the references to this file would be (i.e. in /src/routes/Dashboard.jsx, VITE_SUPABASE_URL is referenced). This allows uploading of our source code without giving out any private information from supabase, through our API key and URL.

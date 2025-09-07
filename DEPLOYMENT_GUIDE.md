@@ -6,7 +6,7 @@ This guide provides step-by-step instructions for deploying the full-stack Carbo
 
 1.  [Prerequisites](#prerequisites)
 2.  [Supabase Setup](#supabase-setup)
-3.  [Backend Deployment (Heroku)](#backend-deployment-heroku)
+3.  [Backend Deployment (Render)](#backend-deployment-render)
 4.  [Frontend Deployment (Vercel/Netlify)](#frontend-deployment-vercelnetlify)
 5.  [AI Service Integration](#ai-service-integration)
 

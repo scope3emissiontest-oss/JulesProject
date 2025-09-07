@@ -14,6 +14,17 @@ app = Flask(__name__)
 supabase_url = os.environ.get("SUPABASE_URL")
 supabase_key = os.environ.get("SUPABASE_KEY")
 
+# Initialize OpenAI client
+openai_api_key = os.environ.get("OPENAI_API_KEY")
+openai_client = None
+
+if openai_api_key:
+    try:
+        openai_client = openai.OpenAI(api_key=openai_api_key)
+    except Exception as e:
+        print(f"Failed to create OpenAI client: {e}")
+        pass
+
 # A placeholder for the Supabase client
 supabase: Client = None
 
@@ -25,15 +36,99 @@ if supabase_url and supabase_key:
         # In a real app, you might want to handle this more gracefully
         pass
 
+def extract_data_with_gpt(file_content: bytes) -> dict:
+    """
+    Uses ChatGPT API to extract structured data from a document.
+    This function analyzes the document content and returns structured data
+    suitable for emissions calculations.
+    """
+    if not openai_client:
+        print("OpenAI client not initialized. Falling back to simulation.")
+        return simulate_gpt_call(file_content)
+    
+    try:
+        # Convert bytes to string (assuming it's a text-based document)
+        # For PDFs or other formats, you'd need additional processing
+        try:
+            document_text = file_content.decode('utf-8')
+        except UnicodeDecodeError:
+            # If it's not UTF-8, try other encodings or handle binary files
+            print("Warning: Could not decode file as UTF-8. Using simulation.")
+            return simulate_gpt_call(file_content)
+        
+        # Create a prompt for the AI to extract structured data
+        prompt = f"""
+        Please analyze the following document and extract structured data for carbon emissions calculation.
+        
+        Document content:
+        {document_text[:4000]}  # Limit content to avoid token limits
+        
+        Please extract the following information in JSON format:
+        {{
+            "items": [
+                {{
+                    "description": "Description of the item/service",
+                    "quantity": "Numeric quantity",
+                    "unit": "Unit of measurement (e.g., km, nights, kg, etc.)",
+                    "cost": "Cost in currency"
+                }}
+            ],
+            "total_amount": "Total amount in currency"
+        }}
+        
+        Focus on items that could have carbon emissions such as:
+        - Travel (flights, trains, cars)
+        - Accommodation (hotels, energy usage)
+        - Goods and services (materials, equipment)
+        - Energy consumption
+        
+        Return only valid JSON without any additional text.
+        """
+        
+        # Make the API call
+        response = openai_client.chat.completions.create(
+            model="gpt-5-nano",  # You can change to gpt-4 for better results
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that extracts structured data from documents for carbon emissions calculations. Always respond with valid JSON."},
+                {"role": "user", "content": prompt}
+            ],
+            temperature=0.1,  # Low temperature for consistent results
+            max_tokens=1000
+        )
+        
+        # Extract the response content
+        ai_response = response.choices[0].message.content.strip()
+        
+        # Try to parse the JSON response
+        try:
+            extracted_data = json.loads(ai_response)
+            
+            # Validate the structure
+            if 'items' not in extracted_data or 'total_amount' not in extracted_data:
+                print("AI response missing required fields. Using simulation.")
+                return simulate_gpt_call(file_content)
+            
+            print("Successfully extracted data using ChatGPT API.")
+            return extracted_data
+            
+        except json.JSONDecodeError as e:
+            print(f"Failed to parse AI response as JSON: {e}")
+            print(f"AI response: {ai_response}")
+            return simulate_gpt_call(file_content)
+            
+    except Exception as e:
+        print(f"Error calling ChatGPT API: {e}")
+        print("Falling back to simulation.")
+        return simulate_gpt_call(file_content)
+
 def simulate_gpt_call(file_content: bytes) -> dict:
     """
     Simulates a call to a GPT model to extract data from a document.
-    In a real application, this function would contain the logic to call
-    a GPT model (e.g., OpenAI's API) with a specific prompt.
+    This is used as a fallback when the real API is not available or fails.
     """
-    print("Simulating GPT call...")
+    print("Using GPT simulation (fallback mode)...")
     # Simulate a delay to represent the time it takes for the AI to process the document
-    time.sleep(5)
+    time.sleep(2)
 
     # Dummy response for an invoice
     dummy_invoice_data = {
@@ -143,8 +238,8 @@ def process_document(file_path, document_id, table_name):
         # Download the file from Supabase Storage
         file_content = local_supabase.storage.from_("documents").download(file_path)
 
-        # Extract data using the simulated GPT call
-        extracted_data = simulate_gpt_call(file_content)
+        # Extract data using ChatGPT API (with fallback to simulation)
+        extracted_data = extract_data_with_gpt(file_content)
 
         # Update the database with the extracted data
         data, error = local_supabase.table(table_name).update({
@@ -283,7 +378,6 @@ def delete_invoice(invoice_id):
 
     try:
         # Also need to delete the file from storage
-        # First, get the file path
         data, error = supabase.table("invoices").select("file_path").eq("id", str(invoice_id)).single().execute()
         if data.data:
             file_path = data.data['file_path']

@@ -1,0 +1,3 @@
+The eslint.config.js file is a configuration file for ESLint in a React (Vite) project, setting rules and parameters for linting JavaScript files. It specifies imports for base rules, plugin integrations, ignored directories, file targets, and rules, including custom handling of unused variables. 
+
+# Yes this was AI generated, but I can't really explain it better than that. If we're looking to edit the project as it currently stands we don't need to touch this.
