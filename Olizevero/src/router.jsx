@@ -4,6 +4,7 @@ import Signup from "./lib/Signup";
 import Signin from "./lib/Signin";
 import Dashboard from "./routes/Dashboard";
 import PrivateRoute from "./lib/PrivateRoute";
+import { ProcessingProvider } from "./context/ProcessingContext";
 
 export const router = createBrowserRouter([
     { path: "/", element: <App /> },
@@ -13,7 +14,9 @@ export const router = createBrowserRouter([
         path: "/dashboard",
         element: (
             <PrivateRoute>
-                <Dashboard />
+                <ProcessingProvider>
+                    <Dashboard />
+                </ProcessingProvider>
             </PrivateRoute>
         ),
     },
