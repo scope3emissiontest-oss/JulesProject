@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { UserAuth } from "../context/AuthContext";
+import DarkVeil from '/src/components/DarkVeil.jsx';
 
 const Signin = () => {
     const [email, setEmail] = useState("");
@@ -33,15 +34,20 @@ const Signin = () => {
     };
 
     return (
-        <div>
-            <form onSubmit={handleSignIn} className="max-w-md m-auto pt-24">
-                <h2 className="font-bold pb-2">Sign in</h2>
-                <p>
-                    Don't have an account yet? <Link to="/signup">Sign up</Link>
-                </p>
-                <div className="flex flex-col py-4">
-                    {/* <label htmlFor="Email">Email</label> */}
-                    <input
+        <div className="flex h-screen bg-gray-900">
+            <div className="w-full h-full absolute">
+                <DarkVeil
+                    hueShift={45}
+                />
+            </div>
+            <div className="w-full flex items-center justify-center">
+                <form onSubmit={handleSignIn} className="max-w-md w-full bg-white/10 backdrop-blur-md p-8 rounded-2xl shadow-lg text-white">
+                    <h2 className="font-bold pb-2">Sign in</h2>
+                    <p>
+                        Don't have an account yet? <Link to="/signup">Sign up</Link>
+                    </p>
+                    <div className="flex flex-col py-4">
+                        {/* <label htmlFor="Email">Email</label> */}<input
                         onChange={(e) => setEmail(e.target.value)}
                         className="p-3 mt-2"
                         type="email"
@@ -63,7 +69,8 @@ const Signin = () => {
                 </div>
                 <button type="submit" disabled={loading} className="w-full mt-4">Sign In</button>
                 {error && <p className="text-red-600 text-center pt-4">{error}</p>}
-            </form>
+                </form>
+            </div>
         </div>
     );
 };
